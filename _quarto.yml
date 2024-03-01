@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  title: "Women in Logic"
+  navbar:
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: workshops/index.qmd
+        text: Workshops
+      - href: governance/index.qmd
+        text: Governance
+      - href: data/index.qmd
+        text: Data
+      - href: contact/index.qmd
+        text: Get Involved
+    tools:
+      - icon: twitter
+        href: https://twitter.com/womeninlogic1
+      - icon: facebook
+        href: https://www.facebook.com/groups/WomenInLogic
+
+format:
+  html:
+    theme: pulse
+    css: styles.css
+    toc: false

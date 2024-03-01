@@ -1,0 +1,8 @@
+---
+title: "Women in Logic"
+subtitle: "Philosophical, mathematical, computational, or any other kind of formal logic!"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
