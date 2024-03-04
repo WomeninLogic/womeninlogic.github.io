@@ -6,9 +6,11 @@
     - speaker: Catuscia Palamidessi
       website: http://www.lix.polytechnique.fr/~catuscia/
       talk: Differential Privacy and Applications to Location Privacy
+      photo: catuscia-palamidessi.jpg
     - speaker: Claudia Nalon
       website: https://nalon.org
       talk: Strategies for Modal Theorem-Proving
+      photo: claudia-nalon.jpg
 - title: WiL 2018
   location: Oxford, United Kingdom
   year: 2018
@@ -17,9 +19,11 @@
     - speaker: Perdita Stevens
       website: https://perditastevens.com/homepage/
       talk: "Logic and sofware engineering: are we nearly there yet?"
+      photo: perdita-stevens.jpg
     - speaker: Brigitte Pientka
       website: https://www.cs.mcgill.ca/~bpientka/
       talk: "POPLMark Reloaded: Mechanizing Logical Relations Proofs"
+      photo: brigitte-pientka.jpg
 - title: WiL 2019
   location: Vancouver, Canada
   year: 2019
@@ -27,9 +31,11 @@
     - speaker: Anne Condon
       website: https://www.cs.ubc.ca/~condon/
       talk: Computing with Molecules
+      photo: anne-condon.jpg
     - speaker: Zena M. Ariola
       website: http://ix.cs.uoregon.edu/~ariola/
       talk: The impact of duality
+      photo: zena-m-ariola.jpg
 - title: WiL 2020
   location: Paris, France (virtual)
   year: 2020
@@ -40,9 +46,11 @@
     - speaker: Maribel Fernández
       website: https://nms.kcl.ac.uk/maribel.fernandez/
       talk: Nominal Syntax with Atom Substitutions
+      photo: maribel-fernandez.jpg
     - speaker: Alexandra Silva
       website: https://alexandrasilva.org/#/main.html
       talk: An algebraic framework to reason about concurrency
+      photo: alexandra-silva.jpg
 - title: WiL 2021
   location: Rome, Italy (virtual)
   year: 2021
@@ -52,9 +60,11 @@
     - speaker: Simona Ronchi Della Rocca
       website: http://www.di.unito.it/~ronchi/
       talk: Intersection types for probabilistic computation
+      photo: simona-ronchi-della-rocca.jpg
     - speaker: Rineke Verbrugge
       website: https://rinekeverbrugge.nl
       talk: Zero-one laws for provability logic and its transitive sisters
+      photo: rineke-verbrugge.jpg
 - title: WiL 2022
   location: Haifa, Israel
   year: 2022
@@ -64,9 +74,11 @@
     - speaker: Dana Fisman
       website: https://www.cs.bgu.ac.il/~dana/
       talk: A normalized edit distance on finite and infinite words
+      photo: dana-fisman.jpg
     - speaker: Delia Kesner
       website: https://www.irif.fr/~kesner/
       talk: Embedding Quantitative Properties of Call-by-Name and Call-by-Value into Call-by-Push-Value
+      photo: delia-kesner.jpg
 - title: WiL 2023
   location: Rome, Italy
   year: 2023
@@ -75,9 +87,11 @@
     - speaker: Marie Kerjean
       website: https://lipn.univ-paris13.fr/~kerjean/
       talk: From functional analysis to proofs and programs
+      photo: marie-kerjean.jpg
     - speaker: Sandra Alves
       website: https://www.dcc.fc.up.pt/~sandra/Home/Home.html
       talk: Quantitative Weak Linearisation
+      photo: sandra-alves.jpg
 - title: WiL 2024
   location: Tallinn, Estonia
   year: 2024

@@ -1,0 +1,36 @@
+```{=html}
+<div class="list">
+<% for (const item of items) { %>
+  <div <%= metadataAttrs(item) %>>
+    <h3 class="listing-title"><%= item.title %></h3>
+    <p>
+      <b class="listing-location"><%= item.location %></b>
+    </p>
+
+    <% if (item.keynotes) { %>
+    <p>Keynote speakers</p>
+    <ul class="list">
+    <% for (const keynote of item.keynotes) { %>
+      <li>
+        <!-- TO-DO: REPLACE THESE WITH CARDS -->
+        <a href="<%= keynote.website %>"><%= keynote.speaker %></a>: <i><%= keynote.talk %></i>
+        <img src="photos/<%= keynote.photo %>" alt="<%= keynote.speaker %>">
+      </li>
+    <% } %>
+    </ul>
+    <% } %>
+
+    <% if (item.website) { %>
+    <a href="<%= item.website %>" class="btn btn-primary btn-sm">Website</a>
+    <% } %>
+    <% if (item.report) { %>
+    <a href="<%= item.report %>" class="btn btn-primary btn-sm">Report</a>
+    <% } %>
+    <% if (item.proceedings) { %>
+    <a href="<%= item.proceedings %>" class="btn btn-primary btn-sm">Proceedings</a>
+    <% } %>
+  </div>
+  <hr>
+<% } %>
+</div>
+```

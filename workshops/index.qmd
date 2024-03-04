@@ -3,6 +3,7 @@ title: "Workshops"
 listing:
   id: workshop-listing
   contents: workshops.yml
+  template: workshops.ejs
 ---
 
 The WiL Workshop provides an opportunity to increase awareness of the valuable contributions made by women in the area of logic in computer science.
