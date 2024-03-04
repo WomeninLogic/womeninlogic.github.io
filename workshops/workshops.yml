@@ -13,25 +13,71 @@
   location: Oxford, United Kingdom
   year: 2018
   website: https://sites.google.com/site/womeninlogic2018/welcome
+  keynotes:
+    - speaker: Perdita Stevens
+      website: https://perditastevens.com/homepage/
+      talk: "Logic and sofware engineering: are we nearly there yet?"
+    - speaker: Brigitte Pientka
+      website: https://www.cs.mcgill.ca/~bpientka/
+      talk: "POPLMark Reloaded: Mechanizing Logical Relations Proofs"
 - title: WiL 2019
   location: Vancouver, Canada
   year: 2019
+  keynotes:
+    - speaker: Anne Condon
+      website: https://www.cs.ubc.ca/~condon/
+      talk: Computing with Molecules
+    - speaker: Zena M. Ariola
+      website: http://ix.cs.uoregon.edu/~ariola/
+      talk: The impact of duality
 - title: WiL 2020
   location: Paris, France (virtual)
   year: 2020
   website: https://sites.google.com/g.uporto.pt/wil2020/home
+  report: https://drive.google.com/file/d/1KEhWTAb3tCUcBEJEZmHR8o_k9r-65fSk/view
+  proceedings: https://drive.google.com/file/d/11ew2TAlw09bcCsgl5l6gpfsrtpTJTDEZ/view
+  keynotes:
+    - speaker: Maribel Fernández
+      website: https://nms.kcl.ac.uk/maribel.fernandez/
+      talk: Nominal Syntax with Atom Substitutions
+    - speaker: Alexandra Silva
+      website: https://alexandrasilva.org/#/main.html
+      talk: An algebraic framework to reason about concurrency
 - title: WiL 2021
   location: Rome, Italy (virtual)
   year: 2021
   website: https://sites.google.com/g.uporto.pt/wil2021/home
+  report: https://drive.google.com/file/d/1IB_vKyg5T8xKJZUAAAUWVjb4L3BCRaVG/view
+  keynotes:
+    - speaker: Simona Ronchi Della Rocca
+      website: http://www.di.unito.it/~ronchi/
+      talk: Intersection types for probabilistic computation
+    - speaker: Rineke Verbrugge
+      website: https://rinekeverbrugge.nl
+      talk: Zero-one laws for provability logic and its transitive sisters
 - title: WiL 2022
   location: Haifa, Israel
   year: 2022
   website: https://sites.google.com/g.uporto.pt/wil2022/
+  report: https://drive.google.com/file/d/1ejgD_ysAc3W6UAn5nJyXKQF0M9Sghahd/view
+  keynotes:
+    - speaker: Dana Fisman
+      website: https://www.cs.bgu.ac.il/~dana/
+      talk: A normalized edit distance on finite and infinite words
+    - speaker: Delia Kesner
+      website: https://www.irif.fr/~kesner/
+      talk: Embedding Quantitative Properties of Call-by-Name and Call-by-Value into Call-by-Push-Value
 - title: WiL 2023
   location: Rome, Italy
   year: 2023
   website: https://sites.google.com/view/wil2023/
+  keynotes:
+    - speaker: Marie Kerjean
+      website: https://lipn.univ-paris13.fr/~kerjean/
+      talk: From functional analysis to proofs and programs
+    - speaker: Sandra Alves
+      website: https://www.dcc.fc.up.pt/~sandra/Home/Home.html
+      talk: Quantitative Weak Linearisation
 - title: WiL 2024
   location: Tallinn, Estonia
   year: 2024
