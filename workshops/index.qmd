@@ -1,7 +1,20 @@
 ---
 title: "Workshops"
+listing:
+  id: workshop-listing
+  contents: workshops.yml
 ---
 
-This is a Quarto website.
+The WiL Workshop provides an opportunity to increase awareness of the valuable contributions made by women in the area of logic in computer science.
+Its main purpose is to promote the excellent research done by women, with the ultimate goal of increasing their visibility and representation in the community.
+Our aim is to:
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+- provide a platform for female researchers to share their work and achievements;
+- increase the feelings of community and belonging, especially among junior faculty, post-docs and students through positive interactions with peers and more established faculty;
+- establish new connections and collaborations;
+- foster a welcoming culture of mutual support and growth within the logic research community.
+
+We believe these aspects will benefit women working in logic and computer science, particularly students and early-career researchers.
+
+::: {#workshop-listing}
+:::

@@ -5,6 +5,8 @@ website:
   title: "Women in Logic"
   navbar:
     search: true
+    logo: assets/logo_white.png
+    title: false
     left:
       - href: index.qmd
         text: Home
@@ -25,5 +27,5 @@ website:
 format:
   html:
     theme: pulse
-    css: styles.css
+    css: assets/styles.css
     toc: false

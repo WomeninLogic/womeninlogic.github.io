@@ -3,6 +3,23 @@ title: "Women in Logic"
 subtitle: "Philosophical, mathematical, computational, or any other kind of formal logic!"
 ---
 
-This is a Quarto website.
+## About us
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Women in Logic (WiL) aims to provide a forum that brings together women working on logical issues, from foundations of computer science to philosophy, including mathematical logic, logics for AI and logical approaches to language.
+Our goal is to enhance the experience of women in logic and closely related areas, making achievements of women in logic known to these communities, and thereby increasing the number of women in logic.
+
+Our flagship event is the annual WiL Workshop.
+
+You can read about our previous workshops and find links to their individual websites on the [Workshops page](/workshops).
+You can see some of the data we collected showcasing the disregard for women in  academia.
+
+We appreciate any comments and suggestions that you may have to make this website better: please write to us at [`wil.info22@gmail.com`](mailto:wil.info22@gmail.com).
+Thank you for all you do to improve the situation for women in Logic,
+
+Valeria, Sandra and Juliet
+
+
+## Supporters
+
+::: {#supporters-listing}
+:::
