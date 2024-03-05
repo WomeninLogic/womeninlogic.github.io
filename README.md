@@ -45,4 +45,4 @@ Note that you will need to place to photo in the `governance/sc-members/` folder
 
 ## To-do:
 
-- [] responsive design
+- [ ] responsive design
