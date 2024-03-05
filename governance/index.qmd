@@ -1,7 +1,34 @@
 ---
 title: "Governance"
+listing:
+  id: governance-listing
+  contents: sc-members/*.yml
+  type: grid
+  field-display-names:
+    year: "Appointed until"
 ---
 
-This is a Quarto website.
+## Women in Logic Bylaws
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+- Women in Logic (WiL) is an annual workshop.
+- Together with community organizers, WiL is convened by a Steering Committee (SC) whose composition and function are specified in the next section.
+- Each symposium has a Program Committee (PC) that is responsible for the scientific content of the program.
+- Each symposium has 2 Conference Organizers that are responsible for the PC composition and cannot submit any paper, as well as local organization, finances, publicity, and liaison with sponsors.
+- WiL requests annually for in-cooperation status with the ACM SIGLOG.
+- Modifications of these bylaws are submitted to the SC Chair and require the approval of the SC.
+
+
+## Women in Logic Steering Committee
+
+- The purpose of the Steering Committee (SC) is to ensure the long-term success of the WiL.
+- The SC selects the location, date, PC and Conference Organizers of each symposium.
+- PC and Conference Organizers are just a useful fiction for co-chairs, who divide the work the best way they can.
+- The SC may consist of the PC and Conference Organizers of the last 3 symposia and one member of the SIGLOG executive committee. 
+- The SIGLOG representative is appointed by the chair of SIGLOG, subject to approval by the chair of the WiL steering committee, and ensures coordination between SIGLOG and other SIGLOG affiliated events; once every three years when the SIGLOG executive committee changes, the SIGLOG representative changes.
+- The SC elects its own chair shortly after the end of each workshop.
+- The decisions of the SC require at least 50% of the votes and a simple majority.
+
+The current composition of the SC is as follows:
+
+::: {#governance-listing}
+:::
