@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Women in Logic"
+  favicon: assets/favicon.png
   navbar:
     search: true
     logo: assets/logo_white.png
@@ -29,3 +30,4 @@ format:
     theme: pulse
     css: assets/styles.css
     toc: false
+    anchor-sections: false
