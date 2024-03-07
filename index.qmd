@@ -3,6 +3,8 @@ title: "Women in Logic"
 subtitle: "Philosophical, mathematical, computational, or any other kind of formal logic!"
 ---
 
+![](assets/500womenSTEM.png){width=100%}
+
 ## About us
 
 Women in Logic (WiL) aims to provide a forum that brings together women working on logical issues, from foundations of computer science to philosophy, including mathematical logic, logics for AI and logical approaches to language.
