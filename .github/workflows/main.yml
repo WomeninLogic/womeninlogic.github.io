@@ -27,7 +27,7 @@ jobs:
       - name: Render Quarto project
         uses: quarto-dev/quarto-actions/render@v2
 
- - name: Deploy to build branch
+     - name: Deploy to build branch
         uses: JamesIves/github-pages-deploy-action@3.6.2
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
