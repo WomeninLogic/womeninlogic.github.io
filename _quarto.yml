@@ -25,11 +25,13 @@ website:
         href: https://twitter.com/womeninlogic1
       - icon: facebook
         href: https://www.facebook.com/groups/WomenInLogic
+      - icon: pen
+        href: https://blog.womeninlogic.org
 
   back-to-top-navigation: false
   page-footer:
     center: |
-      Contact us by email: [`wil.info22@gmail.com`](mailto:wil.info22@gmail.com)
+      Contact us by email: [<i class="bi bi-envelope-at"></i> `contact@womeninlogic.org`](mailto:contact@womeninlogic.org)
 
 format:
   html:

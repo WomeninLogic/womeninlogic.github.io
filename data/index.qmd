@@ -1,7 +1,120 @@
 ---
 title: "Helpful Data"
+tbl-cap-location: bottom
 ---
 
-This is a Quarto website.
+::: {.callout-note}
+We are in the process of gathering more data to include here.
+:::
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+A big thank you to our friends who have helped put this data together! Especially:
+
+- Prof. Catarina Dutilh Novaes
+- Prof. Brigitte Pientka and collaborators
+- Prof. Johanna Franklin 
+
+Also thanks to all organizers and PC members of the [WiL workshops](/workshops/)!
+A special thank you to Prof Ursula Martin for the networking dinner at Wadham College, Oxford, 2018.
+
+
+## Open directories
+
+- [<i class="bi bi-github"></i> Women in Logic](https://github.com/WomeninLogic/WiLSpreadsheets/blob/main/logic-directory.md)
+- [<i class="bi bi-github"></i> Women in Category Theory](https://github.com/WomeninLogic/WiLSpreadsheets/blob/main/ct-directory.md)
+- [<i class="bi bi-github"></i> Women in Programming Languages Research](https://github.com/jeanqasaur/women-in-programming-languages-research)
+
+
+## Data on gender representation in conferences
+
+- [<i class="bi bi-google"></i> Invited speakers at Computational Logic conferences](https://docs.google.com/spreadsheets/d/1o0nSqqtNb61O8VD_H9zcRwOttJj8sToSlJnGU9XFaPU/edit#gid=0) (Google spreadsheet)
+
+We have collected data on the four main conference series of the Association for Symbolic Logic (ASL), as laid out in these blog posts:
+
+- [<i class="bi bi-pen"></i> ASL Annual meeting and gender balance: 1989--2016](https://blog.womeninlogic.org/2016/09/asl-annual-meetings-1989-2016.html)
+- [<i class="bi bi-pen"></i> ASL Logic colloquium and gender balance: 1993--2016](https://blog.womeninlogic.org/2016/10/logic-colloquium-1993-2016.html)
+- [<i class="bi bi-pen"></i> AMS/ASL Meetings and gender balance: 1995--2016](https://blog.womeninlogic.org/2016/09/today-im-going-to-try-to-answer-same.html)
+- [<i class="bi bi-pen"></i> APA/ASL Meetings and gender balance: 1998--2016](https://blog.womeninlogic.org/2016/10/apaasl-meetings-1998-2016.html)
+
+We have also narrowed the data down to a period of time *before* and then *after* the publication of the 2012 ASL statement on women in logic.
+
+::: {#tbl-invites layout-ncol=2}
+|            | **Men** | **Women** |
+| :--------: | :-----: | :-------: |
+| 2009--2012 | 29      | 7         |
+| 2013--2016 | 23      | 8         |
+
+: Annual meetings
+
+|            | **Men** | **Women** |
+| :--------: | :-----: | :-------: |
+| 2009--2012 | 57      | 9         |
+| 2013--2016 | 43      | 9         |
+
+: Logic colloquium
+
+|            | **Men** | **Women** |
+| :--------: | :-----: | :-------: |
+| 2010--2012 | 17      | 4         |
+| 2014--2016 | 14      | 6         |
+
+: AMS/ASL
+
+|            | **Men** | **Women** |
+| :--------: | :-----: | :-------: |
+| 2010--2012 | 21      | 1         |
+| 2014--2016 | 19      | 3         |
+
+: APA/ASL
+
+Breakdown of invited speakers to the four main conference series before and after the 2012 ASL statement on women in logic. From ["ASL Statement on Women in Logic"](https://womeninlogic.blogspot.com/2017/03/the-asl-statement-on-women-in-logic.html).
+:::
+
+::: {#tbl-repeated-speakers layout-ncol=2}
+|         | **Men** | **Women** |
+| :-----: | :-----: | :-------: |
+| 1 talk  | 127     | 18        |
+| 2 talks | 38      | 6         |
+| 3 talks | 10      | 0         |
+| 4 talks | 0       | 0         |
+| 5 talks | 1       | 0         |
+
+: Annual meetings
+
+|         | **Men** | **Women** |
+| :-----: | :-----: | :-------: |
+| 1 talk  | 213     | 20        |
+| 2 talks | 48      | 7         |
+| 3 talks | 25      | 2         |
+| 4 talks | 3       | 0         |
+| 5 talks | 1       | 0         |
+
+: Logic colloquium
+
+|         | **Men** | **Women** |
+| :-----: | :-----: | :-------: |
+| 1 talk  | 93      | 20        |
+| 2 talks | 22      | 2         |
+| 3 talks | 2       | 0         |
+| 4 talks | 0       | 0         |
+
+: AMS/ASL
+
+|         | **Men** | **Women** |
+| :-----: | :-----: | :-------: |
+| 1 talk  | 63      | 6         |
+| 2 talks | 12      | 3         |
+| 3 talks | 5       | 0         |
+| 4 talks | 2       | 0         |
+
+: APA/ASL
+
+Number of talks given by a single speaker in the four main conference series before and after the 2012 ASL statement on women in logic. From ["Repeat Invitations in ASL Conference Series"](https://womeninlogic.blogspot.com/2016/11/repeat-invitations-in-asl-conference.html).
+:::
+
+
+
+
+
+
+
+

@@ -10,16 +10,26 @@ Our goal is to enhance the experience of women in logic and closely related area
 
 Our flagship event is the annual WiL Workshop.
 
-You can read about our previous workshops and find links to their individual websites on the [Workshops page](/workshops).
+You can read about our previous workshops and find links to their individual websites on the [workshops page](/workshops).
 You can see some of the data we collected showcasing the disregard for women in  academia.
 
-We appreciate any comments and suggestions that you may have to make this website better: please write to us at [`wil.info22@gmail.com`](mailto:wil.info22@gmail.com).
-Thank you for all you do to improve the situation for women in Logic,
+We appreciate any comments and suggestions that you may have to make this website better: see how to get in touch with us on our [contact page](/contact/).
+
+Thank you for all you do to improve the situation for women in logic,
 
 Valeria, Sandra and Juliet
 
 
 ## Supporters
 
-::: {#supporters-listing}
+::: {#fig layout-ncol=2}
+[![Special Interest Group of the ACM for Logic](assets/siglog.png "Special Interest Group of the ACM for Logic"){fig-align="left" width=150px}](https://siglog.org)
+
+[![Vienna Center for Logic and Algorithms](assets/vcla.jpg "Vienna Center for Logic and Algorithms"){fig-align="left" width=150px}](https://www.vcla.at)
+
+[![Institute of Logic, Language and Computation of the University of Amsterdam](assets/illc.jpg "Institute of Logic, Language and Computation of the University of Amsterdam"){fig-align="left" width=100px}](https://www.illc.uva.nl)
+
+[![Topos Institute](assets/topos.png "Topos Institute"){fig-align="left" width=100px}](https://topos.institute)
 :::
+
+We also thank [Tim Hosgood](https://thosgood.com) for technical help.

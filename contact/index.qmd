@@ -2,6 +2,8 @@
 title: "Get Involved"
 ---
 
+To get in touch directly, email us at [<i class="bi bi-envelope-at"></i> `contact@womeninlogic.org`](mailto:contact@womeninlogic.org).
+
 WiL is a collective, meaning we do not have a hierarchical organization.
 We have a [Steering Committee](/governance/) which decides on organizers for the Workshops.
 We try to share the load as much as possible, thus, some of us have specific jobs in different social media channels.
