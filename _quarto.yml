@@ -4,6 +4,7 @@ project:
 website:
   title: "Women in Logic"
   favicon: assets/favicon.png
+
   navbar:
     search: true
     logo: assets/logo_white.png
@@ -24,6 +25,11 @@ website:
         href: https://twitter.com/womeninlogic1
       - icon: facebook
         href: https://www.facebook.com/groups/WomenInLogic
+
+  back-to-top-navigation: false
+  page-footer:
+    center: |
+      Contact us by email: [`wil.info22@gmail.com`](mailto:wil.info22@gmail.com)
 
 format:
   html:

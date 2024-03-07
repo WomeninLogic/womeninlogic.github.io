@@ -8,6 +8,8 @@ listing:
     year: "Appointed until"
 ---
 
+![](governance-banner.png){width=100%}
+
 ## Women in Logic Bylaws
 
 - Women in Logic (WiL) is an annual workshop.

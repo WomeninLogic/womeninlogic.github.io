@@ -7,6 +7,8 @@ listing:
   sort: "year desc"
 ---
 
+![](workshops-banner.jpg){width=100%}
+
 The WiL Workshop provides an opportunity to increase awareness of the valuable contributions made by women in the area of logic in computer science.
 Its main purpose is to promote the excellent research done by women, with the ultimate goal of increasing their visibility and representation in the community.
 Our aim is to:
