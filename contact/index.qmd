@@ -8,9 +8,9 @@ WiL is a collective, meaning we do not have a hierarchical organization.
 We have a [Steering Committee](/governance/) which decides on organizers for the Workshops.
 We try to share the load as much as possible, thus, some of us have specific jobs in different social media channels.
 
+- There is a collaborative [<i class="bi bi-pen"></i> WiL blog](https://blog.womeninlogic.org).
 - Valeria and Rineke are administrators of the Facebook group [<i class="bi bi-facebook"></i> Women in Logic](https://www.facebook.com/groups/WomenInLogic/), which has at the moment over 500 members.
 - Sara Uckelman manages the Twitter handle [<i class="bi bi-twitter"></i> @womeninlogic](https://twitter.com/womeninlogic1), which has at the moment around 700 followers.
 - Sandra Kiefer created and maintains the mailing list [<i class="bi bi-envelope-at"></i> `women-in-logic@lists.rwth-aachen.de`](https://lists.rwth-aachen.de/postorius/lists/women-in-logic.lists.rwth-aachen.de/).
 - Alexandra Silva created the Slack channel [<i class="bi bi-slack"></i> wilcrew](https://wilcrew.slack.com). To join you need to write to one of us.
-
-We also have a [<i class="bi bi-pen"></i> WiL blog](https://blog.womeninlogic.org) and a [<i class="bi bi-youtube"></i> YouTube channel](https://www.youtube.com/channel/UCZ9kBgUc1cIfs5SATW7jbRg).
+- We have a [<i class="bi bi-youtube"></i> YouTube channel](https://www.youtube.com/channel/UCZ9kBgUc1cIfs5SATW7jbRg) and also curate a list of [<i class="bi bi-camera-reels"></i> recordings of talks](https://womeninlogic.github.io/RecordedTalks/) by women in logic

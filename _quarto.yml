@@ -27,6 +27,8 @@ website:
         href: https://www.facebook.com/groups/WomenInLogic
       - icon: pen
         href: https://blog.womeninlogic.org
+      - icon: camera-reels
+        href: https://womeninlogic.github.io/RecordedTalks/
 
   back-to-top-navigation: false
   page-footer:
