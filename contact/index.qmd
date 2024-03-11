@@ -13,4 +13,4 @@ We try to share the load as much as possible, thus, some of us have specific job
 - Sara Uckelman manages the Twitter handle [<i class="bi bi-twitter"></i> @womeninlogic](https://twitter.com/womeninlogic1), which has at the moment around 700 followers.
 - Sandra Kiefer created and maintains the mailing list [<i class="bi bi-envelope-at"></i> `women-in-logic@lists.rwth-aachen.de`](https://lists.rwth-aachen.de/postorius/lists/women-in-logic.lists.rwth-aachen.de/).
 - Alexandra Silva created the Slack channel [<i class="bi bi-slack"></i> wilcrew](https://wilcrew.slack.com). To join you need to write to one of us.
-- We have a [<i class="bi bi-youtube"></i> YouTube channel](https://www.youtube.com/channel/UCZ9kBgUc1cIfs5SATW7jbRg) and also curate a list of [<i class="bi bi-camera-reels"></i> recordings of talks](https://womeninlogic.github.io/RecordedTalks/) by women in logic
+- We curate a list of [<i class="bi bi-camera-reels"></i> recordings of talks](https://womeninlogic.github.io/RecordedTalks/) by women in logic
