@@ -19,7 +19,7 @@ website:
       - href: data/index.qmd
         text: Data
       - href: contact/index.qmd
-        text: Get Involved
+        text: More links
     tools:
       - icon: twitter
         href: https://twitter.com/womeninlogic1
