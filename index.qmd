@@ -1,6 +1,14 @@
 ---
 title: "Women in Logic"
 subtitle: "Philosophical, mathematical, computational, or any other kind of formal logic!"
+toc: true
+listing:
+  id: sc-members
+  contents: sc-members/*.yml
+  type: grid
+  grid-columns: 4
+  field-display-names:
+    year: "Appointed until"
 ---
 
 ![](assets/500womenSTEM.png){width=100%}
@@ -20,6 +28,36 @@ We appreciate any comments and suggestions that you may have to make this websit
 Thank you for all you do to improve the situation for women in logic,
 
 Valeria, Sandra and Juliet
+
+
+## Structure
+
+![](assets/governance-banner.png){width=100%}
+
+### Women in Logic Bylaws
+
+- Women in Logic (WiL) is an annual workshop.
+- Together with community organizers, WiL is convened by a Steering Committee (SC) whose composition and function are specified in the next section.
+- Each symposium has a Program Committee (PC) that is responsible for the scientific content of the program.
+- Each symposium has 2 Conference Organizers that are responsible for the PC composition and cannot submit any paper, as well as local organization, finances, publicity, and liaison with sponsors.
+- WiL requests annually for in-cooperation status with the ACM SIGLOG.
+- Modifications of these bylaws are submitted to the SC Chair and require the approval of the SC.
+
+
+### Women in Logic Steering Committee
+
+- The purpose of the Steering Committee (SC) is to ensure the long-term success of the WiL.
+- The SC selects the location, date, PC and Conference Organizers of each symposium.
+- PC and Conference Organizers are just a useful fiction for co-chairs, who divide the work the best way they can.
+- The SC may consist of the PC and Conference Organizers of the last 3 symposia and one member of the SIGLOG executive committee. 
+- The SIGLOG representative is appointed by the chair of SIGLOG, subject to approval by the chair of the WiL steering committee, and ensures coordination between SIGLOG and other SIGLOG affiliated events; once every three years when the SIGLOG executive committee changes, the SIGLOG representative changes.
+- The SC elects its own chair shortly after the end of each workshop.
+- The decisions of the SC require at least 50% of the votes and a simple majority.
+
+The current composition of the SC is as follows:
+
+::: {#sc-members}
+:::
 
 
 ## Supporters

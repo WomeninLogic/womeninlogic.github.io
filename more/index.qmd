@@ -1,5 +1,5 @@
 ---
-title: "More links"
+title: "Social"
 ---
 
 To get in touch directly, email us at [<i class="bi bi-envelope-at"></i> `contact@womeninlogic.org`](mailto:contact@womeninlogic.org).
