@@ -12,6 +12,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: news/index.qmd
+        text: News
       - href: workshops/index.qmd
         text: Workshops
       - href: data/index.qmd
