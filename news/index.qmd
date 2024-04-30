@@ -2,8 +2,10 @@
 title: "Latest news"
 ---
 
-* Women in Logic 2024 in Tallin, Estonia, see the [website](https://sites.google.com/view/wil24).
+* Women in Logic 2024 -- 9 July 2024, Tallin, Estonia, see the [website](https://sites.google.com/view/wil24).
+
+* Women in Formal Mathematics, 6-7 July 2024, Bonn, Germany, see the [website](https://www.mathematics.uni-bonn.de/him/programs/special-events/women-in-formal-math)
 
 * [Women in Logic Online](https://www.vcla.at/2024/02/women-in-logic-online/): a new series of online talks at VCLA 
-(Vienna Center for Logic and Algorithms). Started in March 2024
+(Vienna Center for Logic and Algorithms). Started in 15 March 2024
 
