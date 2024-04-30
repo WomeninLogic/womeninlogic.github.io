@@ -2,7 +2,8 @@
 title: "Latest news"
 ---
 
-* Women in Logic 2024 in Tallin, Estonia, see the [website](https://sites.google.com/view/wil24)
+* Women in Logic 2024 in Tallin, Estonia, see the [website](https://sites.google.com/view/wil24).
 
-* Women in Logic Online: a new series of online talks at VCLA (Vienna Center for Logic and Algorithms)
-https://www.vcla.at/2024/02/women-in-logic-online/
+* [Women in Logic Online](https://www.vcla.at/2024/02/women-in-logic-online/): a new series of online talks at VCLA 
+(Vienna Center for Logic and Algorithms). Started in March 2024
+
