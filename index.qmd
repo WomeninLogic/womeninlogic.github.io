@@ -34,7 +34,8 @@ Valeria (for the Steering Committee)
 
 ![](assets/governance-banner.png){width=100%}
 
-### Women in Logic Bylaws
+::: {.callout-note collapse=true}
+## Women in Logic Bylaws
 
 - Women in Logic (WiL) is a collective whose flagship event is an annual workshop, also called Women in Logic.
 - Together with community organizers, WiL is convened by a Steering Committee (SC) whose composition and function are specified in the next section.
@@ -42,6 +43,7 @@ Valeria (for the Steering Committee)
 - Each workshop has at least 2 Conference Organizers who are responsible for the PC composition, as well as local organization, finances, publicity, and liaison with sponsors. Conference Organizers should refrain from submitting papers to the Workshop.
 - WiL annually requests "in-cooperation status" with the ACM SIGLOG.
 - Modifications of these bylaws are submitted to the SC Chair and require the approval of the SC.
+:::
 
 
 ### Women in Logic Steering Committee
