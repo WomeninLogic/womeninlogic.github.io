@@ -18,7 +18,7 @@ website:
         text: Workshops
       - href: data/index.qmd
         text: Data
-      - href: more/index.qmd
+      - href: social/index.qmd
         text: Social
     tools:
       - icon: twitter
