@@ -11,6 +11,15 @@ listing:
     year: "Appointed until"
 ---
 
+::: {.callout-warning #latest-news}
+## Latest news
+
+* Women in Logic 2024 -- 9 July 2024, Tallin, Estonia, see the [website](https://sites.google.com/view/wil24).
+* Women in Formal Mathematics, 6-7 July 2024, Bonn, Germany, see the [website](https://www.mathematics.uni-bonn.de/him/programs/special-events/women-in-formal-math)
+* [Women in Logic Online](https://www.vcla.at/2024/02/women-in-logic-online/): a new series of online talks at VCLA 
+(Vienna Center for Logic and Algorithms). Started in 15 March 2024
+:::
+
 ![](assets/500womenSTEM.png){width=100%}
 
 ## About us
@@ -20,7 +29,6 @@ Our goal is to enhance the experience of women in logic and closely related area
 
 Our flagship event is the annual WiL Workshop.
 
-- All the latest updates can be found on the [news page](/news).
 - You can read about our previous workshops and find links to their individual websites on the [workshops page](/workshops).
 - You can see some of [the data](/data) we collected showcasing the disregard for women in  academia.
 - We appreciate any comments and suggestions that you may have to make this website better: see how to get in touch with us on our [contact page](/social).
