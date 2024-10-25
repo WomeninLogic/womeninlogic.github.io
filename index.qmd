@@ -14,6 +14,7 @@ listing:
 ::: {.callout-warning #latest-news}
 ## Latest news
 
+* Women in Logic ONLINE is back! with Laura Kovacs,  Monday, November 25, 2024 at   17:00 CEST. Link will be posted soon.
 * Women in Logic 2024 -- 9 July 2024, Tallin, Estonia, see the [website](https://sites.google.com/view/wil24).
 * Women in Formal Mathematics, 6-7 July 2024, Bonn, Germany, see the [website](https://www.mathematics.uni-bonn.de/him/programs/special-events/women-in-formal-math)
 * [Women in Logic Online](https://www.vcla.at/2024/02/women-in-logic-online/): a new series of online talks at VCLA 
