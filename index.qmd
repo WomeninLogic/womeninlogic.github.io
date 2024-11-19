@@ -3,12 +3,17 @@ title: "Women in Logic"
 subtitle: "Philosophical, mathematical, computational, or any other kind of formal logic!"
 toc: true
 listing:
-  id: sc-members
-  contents: sc-members/*.yml
-  type: grid
-  grid-columns: 4
-  field-display-names:
-    year: "Appointed until"
+  - id: sc-members
+    contents: sc-members/present/*.yml
+    type: grid
+    grid-columns: 4
+    field-display-names:
+      year: "Appointed until"
+  - id: sc-past-members
+    contents: sc-members/past/*.yml
+    type: grid
+    grid-columns: 4
+    fields: [title, image]
 ---
 
 ::: {.callout-warning #latest-news}
@@ -68,6 +73,11 @@ Valeria (for the Steering Committee)
 The current composition of the SC is as follows:
 
 ::: {#sc-members}
+:::
+
+Previous members of the SC include:
+
+::: {#sc-past-members}
 :::
 
 
