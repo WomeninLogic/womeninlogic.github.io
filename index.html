@@ -96,6 +96,34 @@ ul.task-list li input[type="checkbox"] {
       window['quarto-listing-loaded']();
     }
   })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-sc-past-members .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-year","listing-image"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-sc-past-members'] = new List('listing-sc-past-members', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
   </script>
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
@@ -387,30 +415,6 @@ Appointed until
 <a href="" class="quarto-grid-link">
 </a><div class="quarto-grid-item card h-100 card-left"><a href="" class="quarto-grid-link">
 <p class="card-img-top">
-<img loading="lazy" src="sc-members/rineke-verbrugge.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-</a><div class="card-body post-contents"><a href="" class="quarto-grid-link">
-</a><h5 class="no-anchor card-title listing-title"><a href="" class="quarto-grid-link">
-</a><a href="https://rinekeverbrugge.nl">Rineke Verbrugge</a>
-</h5>
-<table class="card-other-values">
-<tbody><tr>
-<td>
-Appointed until
-</td>
-<td class="year">
-2027
-</td>
-</tr>
-</tbody></table>
-</div>
-</div>
-
-</div>
-<div class="g-col-1" data-index="5">
-<a href="" class="quarto-grid-link">
-</a><div class="quarto-grid-item card h-100 card-left"><a href="" class="quarto-grid-link">
-<p class="card-img-top">
 <img loading="lazy" src="sc-members/sandra-alves.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 </a><div class="card-body post-contents"><a href="" class="quarto-grid-link">
@@ -431,7 +435,7 @@ Appointed until
 </div>
 
 </div>
-<div class="g-col-1" data-index="6">
+<div class="g-col-1" data-index="5">
 <a href="" class="quarto-grid-link">
 </a><div class="quarto-grid-item card h-100 card-left"><a href="" class="quarto-grid-link">
 <p class="card-img-top">
@@ -455,7 +459,7 @@ Appointed until
 </div>
 
 </div>
-<div class="g-col-1" data-index="7">
+<div class="g-col-1" data-index="6">
 <a href="" class="quarto-grid-link">
 </a><div class="quarto-grid-item card h-100 card-left"><a href="" class="quarto-grid-link">
 <p class="card-img-top">
@@ -479,7 +483,7 @@ Appointed until
 </div>
 
 </div>
-<div class="g-col-1" data-index="8">
+<div class="g-col-1" data-index="7">
 <a href="" class="quarto-grid-link">
 </a><div class="quarto-grid-item card h-100 card-left"><a href="" class="quarto-grid-link">
 <p class="card-img-top">
@@ -503,7 +507,7 @@ Appointed until
 </div>
 
 </div>
-<div class="g-col-1" data-index="9">
+<div class="g-col-1" data-index="8">
 <a href="" class="quarto-grid-link">
 </a><div class="quarto-grid-item card h-100 card-left"><a href="" class="quarto-grid-link">
 <p class="card-img-top">
@@ -523,6 +527,28 @@ Appointed until
 </td>
 </tr>
 </tbody></table>
+</div>
+</div>
+
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+<p>Previous members of the SC include:</p>
+<div id="listing-sc-past-members" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-4">
+<div class="g-col-1" data-index="0">
+<a href="" class="quarto-grid-link">
+</a><div class="quarto-grid-item card h-100 card-left"><a href="" class="quarto-grid-link">
+<p class="card-img-top">
+<img loading="lazy" src="sc-members/rineke-verbrugge.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+</a><div class="card-body post-contents"><a href="" class="quarto-grid-link">
+</a><h5 class="no-anchor card-title listing-title"><a href="" class="quarto-grid-link">
+</a><a href="https://rinekeverbrugge.nl">Rineke Verbrugge</a>
+</h5>
 </div>
 </div>
 
