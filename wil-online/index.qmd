@@ -2,7 +2,7 @@
 title: "Women in Logic Online"
 ---
 
-* [Agata Ciabattoni](https://www.logic.at/staff/agata/) and [Josephine Dik](https://josephinedik.github.io/), 
+<p> [Agata Ciabattoni](https://www.logic.at/staff/agata/) and [Josephine Dik](https://josephinedik.github.io/), 
 supported by Andrea Hackl and the Vienna Center for Logic and Algorithms [VCLA](https://www.vcla.at/) are organizing a series of seminars
 ["Women in Logic ONLINE"](https://www.vcla.at/women-in-logic/).
 
@@ -19,5 +19,6 @@ supported by Andrea Hackl and the Vienna Center for Logic and Algorithms [VCLA](
 
 <li>  [Valeria de Paiva](http://vcvpaiva.github.io/), Topos Institute, [Network Mathematics](https://www.vcla.at/2024/02/women-in-logic-online/), 20 March 2024 </li>
 </ul>
+</p>
 
 
