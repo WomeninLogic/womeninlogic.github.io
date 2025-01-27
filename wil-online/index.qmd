@@ -3,5 +3,6 @@ title: "Women in Logic Online"
 ---
 
 * [Agata Ciabattoni](https://www.logic.at/staff/agata/) and [Josephine Dik](https://josephinedik.github.io/), 
-together with Andrea Hackl and the Vienna Center for Logic and Algorithms [VCLA]() are organizing ["Women in Logic ONLINE"](https://www.vcla.at/women-in-logic/).
+together with Andrea Hackl and the Vienna Center for Logic and Algorithms [VCLA](https://www.vcla.at/) are organizing
+["Women in Logic ONLINE"](https://www.vcla.at/women-in-logic/).
 
