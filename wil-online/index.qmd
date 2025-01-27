@@ -2,7 +2,7 @@
 title: "Women in Logic Online"
 ---
 
-* [Agata Ciabattoni](https://www.logic.at/staff/agata/) and [Josephine Dik](https://josephinedik.github.io/), 
+<p> [Agata Ciabattoni](https://www.logic.at/staff/agata/) and [Josephine Dik](https://josephinedik.github.io/), 
 supported by Andrea Hackl and the Vienna Center for Logic and Algorithms [VCLA](https://www.vcla.at/) are organizing a series of seminars
 ["Women in Logic ONLINE"](https://www.vcla.at/women-in-logic/).
 
@@ -10,12 +10,13 @@ supported by Andrea Hackl and the Vienna Center for Logic and Algorithms [VCLA](
 
 * Talks are expected to happen every two months and you can be notified by subscribing to their mailing list.
 
-Previous Talks:
+<p> Previous Talks:
 
-*  [Francesca Poggiolesi](https://sites.google.com/site/poggiolesi/home), CNRS, [Explanatory Proofs: From Logic to Mathematics](https://www.vcla.at/2025/01/women-in-logic-online-talk-with-francesca-poggiolesi/), 24 Jan 2025
+<ul> 
+  <li>  [Francesca Poggiolesi](https://sites.google.com/site/poggiolesi/home), CNRS, [Explanatory Proofs: From Logic to Mathematics](https://www.vcla.at/2025/01/women-in-logic-online-talk-with-francesca-poggiolesi/), 24 Jan 2025 </li>
 
-*  [Laura Kovacs](http://lkovacs.com/), TU - Wien, [Automating Game Reasoning in Blockchain Security](https://www.vcla.at/2024/10/women-in-logic-online-talk-announcement/), 25 Nov 2024
+<li>  [Laura Kovacs](http://lkovacs.com/), TU - Wien, [Automating Game Reasoning in Blockchain Security](https://www.vcla.at/2024/10/women-in-logic-online-talk-announcement/), 25 Nov 2024 </li>
 
-*  [Valeria de Paiva](http://vcvpaiva.github.io/), Topos Institute, [Network Mathematics](https://www.vcla.at/2024/02/women-in-logic-online/), 20 March 2024
+<li>  [Valeria de Paiva](http://vcvpaiva.github.io/), Topos Institute, [Network Mathematics](https://www.vcla.at/2024/02/women-in-logic-online/), 20 March 2024 </li>
 
 
