@@ -6,3 +6,11 @@ title: "Women in Logic Online"
 together with Andrea Hackl and the Vienna Center for Logic and Algorithms [VCLA](https://www.vcla.at/) are organizing
 ["Women in Logic ONLINE"](https://www.vcla.at/women-in-logic/).
 
+* Recorded Videos of the talks are available at the YouTube [video channel of VCLA](https://www.youtube.com/@viennacenterforlogicandalg5604).
+
+Previous Talks:
+*  [Francesca Poggiolesi](https://sites.google.com/site/poggiolesi/home), CNRS, [Explanatory Proofs: From Logic to Mathematics](https://www.vcla.at/2025/01/women-in-logic-online-talk-with-francesca-poggiolesi/), 24 Jan 2025.
+*  [Laura Kovacs](http://lkovacs.com/), TU - Wien, [Automating Game Reasoning in Blockchain Security](https://www.vcla.at/2024/10/women-in-logic-online-talk-announcement/), 25 Nov 2024
+*  [Valeria de Paiva](), Topos Institute, [Network Mathematics](https://www.vcla.at/2024/02/women-in-logic-online/), 20 March 2024
+
+
