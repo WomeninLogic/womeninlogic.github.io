@@ -1,4 +1,4 @@
-3r---
+---
 title: "Women in Logic"
 subtitle: "Philosophical, mathematical, computational, or any other kind of formal logic!"
 toc: true
