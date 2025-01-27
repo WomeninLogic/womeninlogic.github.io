@@ -14,6 +14,8 @@ website:
         text: Home
       - href: workshops/index.qmd
         text: Workshops
+      - href: wil-online/index.qmd
+        text: WiL Online
       - href: data/index.qmd
         text: Data
       - href: social/index.qmd
