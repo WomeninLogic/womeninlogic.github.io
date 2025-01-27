@@ -6,11 +6,11 @@ title: "Women in Logic Online"
 supported by Andrea Hackl and the Vienna Center for Logic and Algorithms [VCLA](https://www.vcla.at/) are organizing a series of seminars
 ["Women in Logic ONLINE"](https://www.vcla.at/women-in-logic/).
 
-* Recorded Videos of the talks are available at the YouTube [video channel of VCLA](https://www.youtube.com/@viennacenterforlogicandalg5604).
+* Recorded Videos of the talks are available at the VLCA [video channel](https://www.youtube.com/playlist?list=PLdqgJshpd1aWOGdqfrloD69Ev1MSPd0Wg).
 
-* Talks are expected to happen every two months and you can be notified by subscribing to their mailing list.
+* Talks are expected to happen every two months and you can be notified by subscribing to the mailing list.
 
-<p> Previous Talks:
+<h2> Previous Talks </h2>
 
 <ul> 
   <li>  [Francesca Poggiolesi](https://sites.google.com/site/poggiolesi/home), CNRS, [Explanatory Proofs: From Logic to Mathematics](https://www.vcla.at/2025/01/women-in-logic-online-talk-with-francesca-poggiolesi/), 24 Jan 2025 </li>
