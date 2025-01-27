@@ -2,5 +2,6 @@
 title: "Women in Logic Online"
 ---
 
-[Agata Ciabattoni](https://www.logic.at/staff/agata/) and Josephine Dik, together with Andrea Hackl and the VCLA are organizing "Women in Logic ONLINE".
+* [Agata Ciabattoni](https://www.logic.at/staff/agata/) and Josephine Dik, 
+together with Andrea Hackl and the VCLA are organizing "Women in Logic ONLINE".
 
