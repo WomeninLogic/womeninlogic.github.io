@@ -1,4 +1,4 @@
----
+3r---
 title: "Women in Logic"
 subtitle: "Philosophical, mathematical, computational, or any other kind of formal logic!"
 toc: true
@@ -19,7 +19,7 @@ listing:
 ::: {.callout-warning #latest-news}
 ## Latest news
 
-* Women in Logic ONLINE this week! Talk by [Francesca Poggiolesi](https://sites.google.com/site/poggiolesi/home),  Friday, January 24, 2025 at  17:00 CEST. official [announcement](https://www.vcla.at/2025/01/women-in-logic-online-talk-with-francesca-poggiolesi/).
+* 3rd Women in Logic ONLINE! Talk by [Francesca Poggiolesi](https://sites.google.com/site/poggiolesi/home),  Friday, January 24, 2025 at  17:00 CEST. official [announcement](https://www.vcla.at/2025/01/women-in-logic-online-talk-with-francesca-poggiolesi/).
 * Women in Logic 2024 -- 9 July 2024, Tallin, Estonia, was a big success. see the [website](https://sites.google.com/view/wil24).
 * Women in Formal Mathematics, 6-7 July 2024, Bonn, Germany, see the [website](https://www.mathematics.uni-bonn.de/him/programs/special-events/women-in-formal-math)
 * [Women in Logic Online](https://www.vcla.at/2024/02/women-in-logic-online/): a new series of online talks at VCLA 
