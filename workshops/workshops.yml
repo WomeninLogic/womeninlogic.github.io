@@ -96,3 +96,18 @@
   location: Tallinn, Estonia
   year: 2024
   website: https://sites.google.com/view/wil24/home
+  keynotes:
+    - speaker: Amal Ahmed
+      website: https://www.khoury.northeastern.edu/home/amal/
+      talk: New Techniques for Sound Language Interoperability
+      photo: amal.jpg
+    - speaker: Viviana Bono
+      website: http://www.di.unito.it/~bono/index.html
+      talk: https://sites.google.com/view/wil24/program#h.gpkdt1s7wxu
+      photo: viviana.jpg
+    - speaker: Sandra Kiefer
+      website: https://www.cs.ox.ac.uk/people/sandra.kiefer/
+      talk:
+      photo: sandra.jpg
+
+
