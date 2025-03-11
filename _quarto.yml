@@ -18,6 +18,8 @@ website:
         text: WiL Online
       - href: data/index.qmd
         text: Data
+      - href: https://womeninlogic.github.io/RecordedTalks/
+        text: Recorded Talks
       - href: social/index.qmd
         text: Social
     tools:
