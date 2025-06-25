@@ -7,6 +7,7 @@ supported by Andrea Hackl and the Vienna Center for Logic and Algorithms [VCLA](
 ["Women in Logic ONLINE"](https://www.vcla.at/women-in-logic/).
 
 * Recorded Videos of the talks are available at the VLCA [video channel](https://www.youtube.com/playlist?list=PLdqgJshpd1aWOGdqfrloD69Ev1MSPd0Wg).
+they're also slowly added to [Recorded Talks]().
 
 * Talks are expected to happen every two months and you can be notified by subscribing to the mailing list.
 
