@@ -113,4 +113,13 @@
   location: Birmingham, UK
   year: 2025
   website: https://sites.google.com/view/wil2025/home
-
+keynotes:
+    - speaker: Daniele Nantes
+      website: http://www.mat.unb.br/~dnantes/
+      talk: Learning from Examples and Counterexamples using Nominal Logic
+      photo: daniele.jpg
+    - speaker: Liron Cohen
+      website: https://www.lironcohenlab.com/
+      talk: Verifying Progress in Cyclic Reasoning (and in Research)
+      photo: liron.jpg
+   
