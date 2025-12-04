@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.33">
+<meta name="generator" content="quarto-1.8.26">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,13 +35,14 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-7c31c4bfb9a816864da1035f7b152f00.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-9d0d2c4fe2252cabc78cecb5d575732d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -141,7 +142,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -168,7 +169,8 @@ window.Quarto = {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./assets/logo_white.png" alt="" class="navbar-logo">
+    <img src="./assets/logo_white.png" alt="" class="navbar-logo light-content">
+    <img src="./assets/logo_white.png" alt="" class="navbar-logo dark-content">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -259,14 +261,14 @@ window.Quarto = {
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Latest news
+<span class="screen-reader-only">Warning</span>Latest news
 </div>
 </div>
 <div class="callout-body-container callout-body">
 <ul>
+<li>The 10th Women in Logic Workshop is happening as part of FLoC 2026 in Portugal. Check the <a href="https://sites.google.com/view/wil2026/home">website</a>!! The call for papers is <a href="https://sites.google.com/view/wil2026/call-for-papers">here</a></li>
 <li>The 9th Women in Logic Workshop 14th July 2025 in Birmingham, UK was a big success. Check the <a href="https://sites.google.com/view/wil2025/home">website</a>!</li>
-<li>Women in Logic ONLINE number 5! Talk by <a href="https://sites.google.com/view/saranegri/home">Sara Negri</a>, 23 June 2025 “Axioms as Rules in Intuitionistic Logic”, official <a href="https://www.vcla.at/2025/05/women-in-logic-online-talk-with-sara-negri/">registration</a>, <a href="https://www.youtube.com/watch?v=9AWmizNWqTA">youtube</a>. <!--- Women in Logic 2024 -- 9 July 2024, Tallin, Estonia, was a big success. see the [website](https://sites.google.com/view/wil24).--></li>
-<li>Women in Formal Mathematics, 6-7 July 2024, Bonn, Germany, see the <a href="https://www.mathematics.uni-bonn.de/him/programs/special-events/women-in-formal-math">website</a></li>
+<li>Women in Logic ONLINE number 5! Talk by <a href="https://sites.google.com/view/saranegri/home">Sara Negri</a>, 23 June 2025 “Axioms as Rules in Intuitionistic Logic”, official <a href="https://www.vcla.at/2025/05/women-in-logic-online-talk-with-sara-negri/">registration</a>, <a href="https://www.youtube.com/watch?v=9AWmizNWqTA">youtube</a>. <!--- Women in Logic 2024 -- 9 July 2024, Tallin, Estonia, was a big success. see the [website](https://sites.google.com/view/wil24).--> <!--- Women in Formal Mathematics, 6-7 July 2024, Bonn, Germany, see the [website](https://www.mathematics.uni-bonn.de/him/programs/special-events/women-in-formal-math)--></li>
 </ul>
 </div>
 </div>
@@ -287,12 +289,12 @@ Latest news
 <h2 data-anchor-id="structure">Structure</h2>
 <p><img src="assets/governance-banner.png" class="img-fluid" style="width:100.0%"></p>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Women in Logic Bylaws
+<span class="screen-reader-only">Note</span>Women in Logic Bylaws
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
@@ -679,13 +681,14 @@ Appointed until
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
