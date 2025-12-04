@@ -21,6 +21,7 @@ listing:
 
 * The 10th Women in Logic Workshop is happening as part of FLoC 2026 in Portugal. Check the [website](https://sites.google.com/view/wil2026/home)!! The call for papers is [here](https://sites.google.com/view/wil2026/call-for-papers)
 * The 9th Women in Logic Workshop 14th July 2025 in Birmingham, UK was a big success. 
+* [Women in Logic ONLINE](https://www.vcla.at/women-in-logic/) information from Vienna Center for Logic and Applications (VCLA).
 <!--- Check the [website](https://sites.google.com/view/wil2025/home)!-->
 * Women in Logic ONLINE number 6! Talk by [Nina Gierasimczuk](https://ninagierasimczuk.com/), 16 September 2025 "Learning and Belief Revision: an Overview",  [youtube](https://www.youtube.com/live/LHbwslggM3U).
 <!--- Women in Logic ONLINE number 5! Talk by [Sara Negri](https://sites.google.com/view/saranegri/home), 23 June 2025 "Axioms as Rules in Intuitionistic Logic",  [youtube](https://www.youtube.com/watch?v=9AWmizNWqTA).-->
