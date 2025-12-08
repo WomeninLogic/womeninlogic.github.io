@@ -32,6 +32,29 @@ website:
       - icon: camera-reels
         href: https://womeninlogic.github.io/RecordedTalks/
 
+  sidebar:
+    - title: "Workshops"
+      style: docked
+      contents:
+        - workshops/index.qmd
+        - text: "---"
+        - section: "2026"
+          contents:
+          - href: workshops/2026/index.qmd
+            text: Home
+          - href: workshops/2026/pc/index.qmd
+            text: Committees
+          - href: workshops/2026/program/index.qmd
+            text: Program
+          - href: workshops/2026/call-for-papers/index.qmd
+            text: Call for papers
+          - href: workshops/2026/speakers/index.qmd
+            text: Speakers
+          - href: workshops/2026/photos/index.qmd
+            text: Photos
+          - href: workshops/2026/venue/index.qmd
+            text: Venue
+
   back-to-top-navigation: false
   page-footer:
     center: |

@@ -1,0 +1,8 @@
+---
+title: "Women in Logic 2026"
+subtitle: "Program"
+---
+
+::: {.callout-note}
+Schedule TBA
+:::

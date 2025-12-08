@@ -1,0 +1,29 @@
+---
+title: "Women in Logic 2026"
+subtitle: "24–25 July, Lisbon, Portugal"
+---
+
+::: {.callout}
+Women in Logic 2026 is a satellite event of [FLOC'26]((https://www.floc26.org)): the 9th Federated Logic Conference to be held in Lisbon, Portugal, from July 13 to July 29, 2026.
+:::
+
+The Women in Logic workshop (WiL) provides an opportunity to increase awareness of the valuable contributions made by women in the area of logic in computer science. Its main purpose is to promote the excellent research done by women, with the ultimate goal of increasing their visibility and representation in the community.  
+
+Our aim is to:
+
+- provide a platform for women researchers to share their work and achievements;
+- increase the feelings of community and belonging, especially among junior faculty, post-docs and students through positive interactions with peers and more established faculty;
+- establish new connections and collaborations;
+- foster a welcoming culture of mutual support and growth within the logic research community.
+
+We believe these aspects will benefit women working in logic and computer science, particularly early-career researchers.
+
+
+### Speakers
+
+**!!TO-DO!!**
+
+
+### Sponsors and partners
+
+**!!TO-DO!!**
