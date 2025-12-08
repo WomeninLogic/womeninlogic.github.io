@@ -1,8 +1,9 @@
 /* css styles */
 
-/* Latest news callout */
-#latest-news .callout-title-container {
-/*  font-size: 1em;*/
+/* Callouts */
+.callout-title-container,
+.callout li {
+  font-size: 1.05em !important;
 }
 
 /* Thumbnail photos of SC members */
