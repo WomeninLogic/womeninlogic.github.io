@@ -87,14 +87,14 @@ Previous members of the SC include:
 
 ## Supporters
 
-::: {#fig layout-ncol=2}
-[![Special Interest Group of the ACM for Logic](assets/siglog.png "Special Interest Group of the ACM for Logic"){fig-align="left" width=150px}](https://siglog.org)
+::: {#fig layout-ncol=5}
+[![Special Interest Group of the ACM for Logic](assets/siglog.png "Special Interest Group of the ACM for Logic")](https://siglog.org)
 
-[![Vienna Center for Logic and Algorithms](assets/vcla.jpg "Vienna Center for Logic and Algorithms"){fig-align="left" width=150px}](https://www.vcla.at)
+[![Vienna Center for Logic and Algorithms](assets/vcla.jpg "Vienna Center for Logic and Algorithms")](https://www.vcla.at)
 
-[![Institute of Logic, Language and Computation of the University of Amsterdam](assets/illc.jpg "Institute of Logic, Language and Computation of the University of Amsterdam"){fig-align="left" width=100px}](https://www.illc.uva.nl)
+[![Institute of Logic, Language and Computation of the University of Amsterdam](assets/illc.jpg "Institute of Logic, Language and Computation of the University of Amsterdam")](https://www.illc.uva.nl)
 
-[![Topos Institute](assets/topos.png "Topos Institute"){fig-align="left" width=100px}](https://topos.institute)
+[![Topos Institute](assets/topos-institute.jpg "Topos Institute")](https://topos.institute)
 :::
 
-We also thank [Tim Hosgood](https://thosgood.com) for technical help.
+We also thank [Tim Hosgood](https://thosgood.net) for technical help.

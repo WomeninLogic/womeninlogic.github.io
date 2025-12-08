@@ -1,0 +1,45 @@
+---
+title: "Women in Logic 2026"
+subtitle: "Committees"
+---
+
+### Program Committee
+
+- [Sandra Alves](https://www.dcc.fc.up.pt/~sandra/Home/Home.html) (Porto University)
+- [Huimin Dong](https://sites.google.com/site/ellutung/) (Co-chair, TU Wien)
+- [Amy Felty](https://www.site.uottawa.ca/~afelty/) (University of Ottawa)
+- [Nina Gierasimczuk](https://academia.ninagierasimczuk.com/) (Technical University of Denmark)
+- [Lourdes Del Carmen González Huesca](https://louglzhuesca.github.io/) (Universidad Nacional Autónoma de México)
+- [Delia Kesner](https://www.irif.fr/~kesner/) (Université Paris Cité)
+- [Fenrong Liu](https://fenrong.net/) (Tsinghua University)
+- [Anela Lolic](https://www.anelalolic.com/) (Co-chair, TU Wien)
+- [Daniele Nantes-Sobrinho](https://mat.unb.br/dnantes/) (UNB, Brazil)
+- [Aybüke Özgün](https://sites.google.com/site/ozgunaybuke/) (University of Amsterdam)
+- [Anja Petkovic Komel](https://anjapetkovic.com/) (Argot Collective)
+- [Elaine Pimentel](https://sites.google.com/site/elainepimentel/) (Co-chair, UCL)
+- [Tephilla Prince](https://tephilla.github.io/) (IIT Dharwad)
+- [Sara Uckelman](https://sluckelman.webspace.durham.ac.uk/) (Durhan University)
+
+
+### Organising Committee
+
+::: {layout-ncol=4}
+![Huimin Dong](../images/huimin-dong.jpg)
+
+![Anela Lolic](../images/anela-lolic.jpg)
+
+![Elaine Pimentel](../images/elaine-pimentel.jpg)
+:::
+
+
+### Steering Committee
+
+- Valeria de Paiva
+- Amy Felty
+- Alexandra Silva
+- Brigitte Pientka
+- Sandra Alves
+- Agata Ciabattoni
+- Sonja Smets
+- Sandra Kiefer
+- Sara L. Uckelman

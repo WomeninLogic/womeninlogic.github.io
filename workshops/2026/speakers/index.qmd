@@ -1,0 +1,32 @@
+---
+title: "Women in Logic 2026"
+subtitle: "Speakers"
+---
+
+:::: {layout="[30,60,10]"}
+::: {#first-column}
+![Valeria de Paiva (Topos Institute)](../images/valeria-de-paiva.jpg)
+:::
+
+::: {#second-column}
+#### Valeria de Paiva
+
+**Title TBA**
+
+Abstract TBA
+:::
+::::
+
+:::: {layout="[30,60,10]"}
+::: {#first-column}
+![Raheleh Jalali (University of Bath)](../images/raheleh-jalali.jpg)
+:::
+
+::: {#second-column}
+#### Raheleh Jalali
+
+**Title TBA**
+
+Abstract TBA
+:::
+::::
