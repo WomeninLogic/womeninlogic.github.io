@@ -23,7 +23,13 @@ subtitle: "Committees"
 
 ### Organising Committee
 
-**!!TO-DO!!**
+::: {layout-ncol=4}
+![Huimin Dong](../images/huimin-dong.jpg)
+
+![Anela Lolic](../images/anela-lolic.jpg)
+
+![Elaine Pimentel](../images/elaine-pimentel.jpg)
+:::
 
 
 ### Steering Committee

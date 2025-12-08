@@ -42,7 +42,7 @@ website:
           contents:
           - href: workshops/2026/index.qmd
             text: Home
-          - href: workshops/2026/pc/index.qmd
+          - href: workshops/2026/committees/index.qmd
             text: Committees
           - href: workshops/2026/program/index.qmd
             text: Program

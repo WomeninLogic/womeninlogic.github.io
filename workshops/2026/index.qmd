@@ -18,12 +18,28 @@ Our aim is to:
 
 We believe these aspects will benefit women working in logic and computer science, particularly early-career researchers.
 
+Contact email: <wil2026@easychair.org>
+
 
 ### Speakers
 
-**!!TO-DO!!**
+::: {layout="[-10,30,-20,30,-10]"}
+![Valeria de Paiva (Topos Institute)](images/valeria-de-paiva.jpg){}
+
+![Raheleh Jalali (University of Bath)](images/raheleh-jalali.jpg){}
+:::
 
 
 ### Sponsors and partners
 
-**!!TO-DO!!**
+::: {layout-ncol=5}
+![](images/etss.png){width=150px fig-alt="eTSS"}
+
+![](images/jane-street.png){width=150px fig-alt=""}
+
+![](images/siglog.jpg){width=150px fig-alt="SigLog"}
+
+![](images/topos-institute.jpg){width=150px fig-alt="Topos Institute"}
+
+![](images/kurt-godel-society.jpg){width=150px fig-alt="Kurt Gödel Society"}
+:::
