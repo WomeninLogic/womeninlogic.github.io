@@ -28,51 +28,83 @@
     "text": "Data on gender representation in conferences\n\n Invited speakers at Computational Logic conferences (Google spreadsheet)\n\nWe have collected data on the four main conference series of the Association for Symbolic Logic (ASL), as laid out in these blog posts:\n\n ASL Annual meeting and gender balance: 1989–2016\n ASL Logic colloquium and gender balance: 1993–2016\n AMS/ASL Meetings and gender balance: 1995–2016\n APA/ASL Meetings and gender balance: 1998–2016\n\nWe have also narrowed the data down to a period of time before and then after the publication of the 2012 ASL statement on women in logic.\n\n\n\n\n\n\nAnnual meetings\n\n\n\nMen\nWomen\n\n\n\n\n2009–2012\n29\n7\n\n\n2013–2016\n23\n8\n\n\n\n\n\n\nLogic colloquium\n\n\n\nMen\nWomen\n\n\n\n\n2009–2012\n57\n9\n\n\n2013–2016\n43\n9\n\n\n\n\n\n\n\n\nAMS/ASL\n\n\n\nMen\nWomen\n\n\n\n\n2010–2012\n17\n4\n\n\n2014–2016\n14\n6\n\n\n\n\n\n\nAPA/ASL\n\n\n\nMen\nWomen\n\n\n\n\n2010–2012\n21\n1\n\n\n2014–2016\n19\n3\n\n\n\n\n\n\n\nTable 1: Breakdown of invited speakers to the four main conference series before and after the 2012 ASL statement on women in logic. From “ASL Statement on Women in Logic”.\n\n\n\n\n\n\n\n\n\nAnnual meetings\n\n\n\nMen\nWomen\n\n\n\n\n1 talk\n127\n18\n\n\n2 talks\n38\n6\n\n\n3 talks\n10\n0\n\n\n4 talks\n0\n0\n\n\n5 talks\n1\n0\n\n\n\n\n\n\nLogic colloquium\n\n\n\nMen\nWomen\n\n\n\n\n1 talk\n213\n20\n\n\n2 talks\n48\n7\n\n\n3 talks\n25\n2\n\n\n4 talks\n3\n0\n\n\n5 talks\n1\n0\n\n\n\n\n\n\n\n\nAMS/ASL\n\n\n\nMen\nWomen\n\n\n\n\n1 talk\n93\n20\n\n\n2 talks\n22\n2\n\n\n3 talks\n2\n0\n\n\n4 talks\n0\n0\n\n\n\n\n\n\nAPA/ASL\n\n\n\nMen\nWomen\n\n\n\n\n1 talk\n63\n6\n\n\n2 talks\n12\n3\n\n\n3 talks\n5\n0\n\n\n4 talks\n2\n0\n\n\n\n\n\n\n\nTable 2: Number of talks given by a single speaker in the four main conference series before and after the 2012 ASL statement on women in logic. From “Repeat Invitations in ASL Conference Series”."
   },
   {
-    "objectID": "workshops/2026/speakers/index.html",
-    "href": "workshops/2026/speakers/index.html",
-    "title": "Women in Logic 2026",
+    "objectID": "workshops/2025/call-for-papers/index.html",
+    "href": "workshops/2025/call-for-papers/index.html",
+    "title": "Call for papers",
     "section": "",
-    "text": "Valeria de Paiva (Topos Institute)\n\n\n\n\n\nValeria de Paiva\nTitle TBA\nAbstract TBA\n\n\n\n\n\n\n\n\n\n\nRaheleh Jalali (University of Bath)\n\n\n\n\n\nRaheleh Jalali\nTitle TBA\nAbstract TBA",
+    "text": "Topics of interest include but are not limited to: automata theory, automated deduction, categorical models and logics, concurrency and distributed computation, constraint programming, constructive mathematics, database theory, decision procedures, description logics, domain theory, finite model theory, formal aspects of program analysis, formal methods, foundations of computability, games and logic, higher-order logic, lambda and combinatory calculi, linear logic, logic in artificial intelligence, logic programming, logical aspects of bioinformatics, logical aspects of computational complexity, logical aspects of quantum computation, logical frameworks, logics of programs, modal and temporal logics, model checking, probabilistic systems, process calculi, programming language semantics, proof theory, real-time systems, reasoning about security and privacy, rewriting, type systems and type theory, and verification.\n\nImportant dates\n\nAbstract submission deadline: May 5, 2025 May 10, 2025 (extended!)\nNotification: May 15, 2025 May 21, 2025 (extended!)\nEarly registration: TBA\nContribution for Informal Proceedings: June 25, 2025\nWorkshop: July 14, 2025\n\n\n\nSubmissions\nAbstracts should be written in English (1-2 pages), and prepared using the EasyChair style. The abstracts should be uploaded to the WiL 2025 EasyChair page as a PDF file before the submission deadline on May 5, 2025, anywhere on Earth.\n\n\nGrants\nA limited number of travel grants is available for students/young researchers who would not otherwise have resources to attend WiL, and whose attendance would benefit both the applicant and the event. We expect to be able to help with registration/local/travel expenses. Applicants should note that grants are limited, and that costs in excess of the grant will not be reimbursed.\nGrants will be awarded to (co-)authors of accepted papers, based on the grant committee’s assessment of the applicant’s genuine financial need, the potential benefit to the applicant’s education and research, and the potential benefit to WiL.\nApplications should be sent by May 17, 2025 via this form. The award notification date is May 19, 2025.\nThe grants will be presented at the conferences; in case a grantee does not attend, the chairs may transfer the grant to another student or give no award.\nThe grants are kindly offered by ACM SIGLOG, Jane Street, VeTSS, Microsoft and Topos Institute.",
     "crumbs": [
       "Workshops",
-      "2026",
-      "Speakers"
+      "Women in Logic 2025",
+      "Call for papers"
     ]
   },
   {
-    "objectID": "workshops/2026/committees/index.html",
-    "href": "workshops/2026/committees/index.html",
-    "title": "Women in Logic 2026",
+    "objectID": "workshops/2025/venue/index.html",
+    "href": "workshops/2025/venue/index.html",
+    "title": "Venue",
     "section": "",
-    "text": "Program Committee\n\nSandra Alves (Porto University)\nHuimin Dong (Co-chair, TU Wien)\nAmy Felty (University of Ottawa)\nNina Gierasimczuk (Technical University of Denmark)\nLourdes Del Carmen González Huesca (Universidad Nacional Autónoma de México)\nDelia Kesner (Université Paris Cité)\nFenrong Liu (Tsinghua University)\nAnela Lolic (Co-chair, TU Wien)\nDaniele Nantes-Sobrinho (UNB, Brazil)\nAybüke Özgün (University of Amsterdam)\nAnja Petkovic Komel (Argot Collective)\nElaine Pimentel (Co-chair, UCL)\nTephilla Prince (IIT Dharwad)\nSara Uckelman (Durhan University)\n\n\n\nOrganising Committee\n\n\n\n\n\n\nHuimin Dong\n\n\n\n\n\n\n\nAnela Lolic\n\n\n\n\n\n\n\nElaine Pimentel\n\n\n\n\n\n\n\nSteering Committee\n\nValeria de Paiva\nAmy Felty\nAlexandra Silva\nBrigitte Pientka\nSandra Alves\nAgata Ciabattoni\nSonja Smets\nSandra Kiefer\nSara L. Uckelman",
+    "text": "Women in Logic 2025 will take place at the Edgbaston Park Hotel and Conference Centre, within the main campus of the University of Birmingham.\nThe venue is about a 15 minute walk from the University train station, and there are nearby direct buses to Birmingham centre (using Google Maps is recommended).",
     "crumbs": [
       "Workshops",
-      "2026",
-      "Committees"
+      "Women in Logic 2025",
+      "Venue"
     ]
   },
   {
-    "objectID": "workshops/2026/photos/index.html",
-    "href": "workshops/2026/photos/index.html",
-    "title": "Women in Logic 2026",
+    "objectID": "workshops/2025/index.html",
+    "href": "workshops/2025/index.html",
+    "title": "Women in Logic 2025",
     "section": "",
-    "text": "Photos will be uploaded here when available",
+    "text": "Women in Logic 2025 is a satellite event of FSCD 2025: the 10th International Conference on Formal Structures for Computation and Deduction, held in Birmingham, UK, from July 14 to July 20, 2025.\n\n\n\nThe Women in Logic workshop (WiL) provides an opportunity to increase awareness of the valuable contributions made by women in the area of logic in computer science. Its main purpose is to promote the excellent research done by women, with the ultimate goal of increasing their visibility and representation in the community.\nOur aim is to:\n\nprovide a platform for women researchers to share their work and achievements;\nincrease the feelings of community and belonging, especially among junior faculty, post-docs and students through positive interactions with peers and more established faculty;\nestablish new connections and collaborations;\nfoster a welcoming culture of mutual support and growth within the logic research community.\n\nWe believe these aspects will benefit women working in logic and computer science, particularly early-career researchers.\n\nSpeakers\n\n\n\n \n\n\n\n\n\nDaniele Nantes-Sobrinho (Imperial College-UnB)\n\n\n\n\n \n\n\n\n\n\nLiron Cohen (Ben-Gurion University)\n\n\n\n\n \n\n\n\n\n\nSponsors and partners",
     "crumbs": [
       "Workshops",
-      "2026",
-      "Photos"
+      "Women in Logic 2025"
     ]
   },
   {
-    "objectID": "workshops/2026/program/index.html",
-    "href": "workshops/2026/program/index.html",
-    "title": "Women in Logic 2026",
+    "objectID": "workshops/index.html",
+    "href": "workshops/index.html",
+    "title": "Workshops",
     "section": "",
-    "text": "Event\n\n\n\n\n8:00\nRegistration\n\n\n8:55\nKickoff\n\n\n9:00\n-\n\n\n9:25\n-\n\n\n9:40\n-\n\n\n10:05\nBreak\n\n\n10:30\n-\n\n\n10:55\n-\n\n\n11:20\n-\n\n\n11:45\n-\n\n\n12:10\n-\n\n\n12:35\nLunch\n\n\n14:00\n-\n\n\n15:00\n-\n\n\n15:25\n-\n\n\n15:30\nBreak\n\n\n16:00\n-\n\n\n17:00\nDiscussion\n\n\n18:00\nBreak\n\n\n19:00\nParty",
+    "text": "The WiL Workshop provides an opportunity to increase awareness of the valuable contributions made by women in the area of logic in computer science. Its main purpose is to promote the excellent research done by women, with the ultimate goal of increasing their visibility and representation in the community. Our aim is to:\n\nprovide a platform for female researchers to share their work and achievements;\nincrease the feelings of community and belonging, especially among junior faculty, post-docs and students through positive interactions with peers and more established faculty;\nestablish new connections and collaborations;\nfoster a welcoming culture of mutual support and growth within the logic research community.\n\nWe believe these aspects will benefit women working in logic and computer science, particularly students and early-career researchers.\n\n\n  \n  \n    \n      \n        WiL 2025\n        Birmingham, UK\n\n        \n        Website\n        \n        \n        \n      \n\n      \n        \n        \n          \n            \n            Learning from Examples and Counterexamples using Nominal Logic\n            Daniele Nantes\n          \n        \n        \n        \n          \n            \n            Verifying Progress in Cyclic Reasoning (and in Research)\n            Liron Cohen\n          \n        \n        \n      \n      \n    \n  \n  \n  \n    \n      \n        WiL 2024\n        Tallinn, Estonia\n\n        \n        Website\n        \n        \n        \n      \n\n      \n        \n        \n          \n            \n            New Techniques for Sound Language Interoperability\n            Amal Ahmed\n          \n        \n        \n        \n          \n            \n            Types for (Slow) AI\n            Viviana Bono\n          \n        \n        \n        \n          \n            \n            Constructive Interactions\n            Sandra Kiefer\n          \n        \n        \n      \n      \n    \n  \n  \n  \n    \n      \n        WiL 2023\n        Rome, Italy\n\n        \n        Website\n        \n        \n        \n      \n\n      \n        \n        \n          \n            \n            From functional analysis to proofs and programs\n            Marie Kerjean\n          \n        \n        \n        \n          \n            \n            Quantitative Weak Linearisation\n            Sandra Alves\n          \n        \n        \n      \n      \n    \n  \n  \n  \n    \n      \n        WiL 2022\n        Haifa, Israel\n\n        \n        Website\n        \n        \n        Report\n        \n        \n      \n\n      \n        \n        \n          \n            \n            A normalized edit distance on finite and infinite words\n            Dana Fisman\n          \n        \n        \n        \n          \n            \n            Embedding Quantitative Properties of Call-by-Name and Call-by-Value into Call-by-Push-Value\n            Delia Kesner\n          \n        \n        \n      \n      \n    \n  \n  \n  \n    \n      \n        WiL 2021\n        Rome, Italy (virtual)\n\n        \n        Website\n        \n        \n        Report\n        \n        \n      \n\n      \n        \n        \n          \n            \n            Intersection types for probabilistic computation\n            Simona Ronchi Della Rocca\n          \n        \n        \n        \n          \n            \n            Zero-one laws for provability logic and its transitive sisters\n            Rineke Verbrugge\n          \n        \n        \n      \n      \n    \n  \n  \n  \n    \n      \n        WiL 2020\n        Paris, France (virtual)\n\n        \n        Website\n        \n        \n        Report\n        \n        \n        Proceedings\n        \n      \n\n      \n        \n        \n          \n            \n            Nominal Syntax with Atom Substitutions\n            Maribel Fernández\n          \n        \n        \n        \n          \n            \n            An algebraic framework to reason about concurrency\n            Alexandra Silva\n          \n        \n        \n      \n      \n    \n  \n  \n  \n    \n      \n        WiL 2019\n        Vancouver, Canada\n\n        \n        \n        \n      \n\n      \n        \n        \n          \n            \n            Computing with Molecules\n            Anne Condon\n          \n        \n        \n        \n          \n            \n            The impact of duality\n            Zena M. Ariola\n          \n        \n        \n      \n      \n    \n  \n  \n  \n    \n      \n        WiL 2018\n        Oxford, United Kingdom\n\n        \n        Website\n        \n        \n        \n      \n\n      \n        \n        \n          \n            \n            Logic and sofware engineering: are we nearly there yet?\n            Perdita Stevens\n          \n        \n        \n        \n          \n            \n            POPLMark Reloaded: Mechanizing Logical Relations Proofs\n            Brigitte Pientka\n          \n        \n        \n      \n      \n    \n  \n  \n  \n    \n      \n        WiL 2017\n        Reykjavik, Iceland\n\n        \n        Website\n        \n        \n        \n      \n\n      \n        \n        \n          \n            \n            Differential Privacy and Applications to Location Privacy\n            Catuscia Palamidessi\n          \n        \n        \n        \n          \n            \n            Strategies for Modal Theorem-Proving\n            Claudia Nalon\n          \n        \n        \n      \n      \n    \n  \n  \n\nNo matching items",
+    "crumbs": [
+      "Workshops"
+    ]
+  },
+  {
+    "objectID": "workshops/2026/call-for-papers/index.html",
+    "href": "workshops/2026/call-for-papers/index.html",
+    "title": "Call for papers",
+    "section": "",
+    "text": "Topics of interest include but are not limited to: automata theory, automated deduction, categorical models and logics, concurrency and distributed computation, constraint programming, constructive mathematics, database theory, decision procedures, description logics, domain theory, finite model theory, formal aspects of program analysis, formal methods, foundations of computability, games and logic, higher-order logic, lambda and combinatory calculi, linear logic, logic in artificial intelligence, logic programming, logical aspects of bioinformatics, logical aspects of computational complexity, logical aspects of quantum computation, logical frameworks, logics of programs, modal and temporal logics, model checking, probabilistic systems, process calculi, programming language semantics, proof theory, real-time systems, reasoning about security and privacy, rewriting, type systems and type theory, and verification.\n\nImportant dates\n\nAbstract submission deadline: May 5, 2026\nNotification: May 15, 2026\nEarly registration: TBA\nContribution for Informal Proceedings: June 25, 2026\nWorkshop: 24-25 July 2026\n\n\n\nSubmissions\nAbstracts should be written in English (1-2 pages), and prepared using the EasyChair style. The abstracts should be uploaded to the WiL 2026 EasyChair page as a PDF file before the submission deadline on May 5, 2026, anywhere on Earth.\n\n\nGrants\nA limited number of travel grants is available for students/young researchers who would not otherwise have resources to attend WiL, and whose attendance would benefit both the applicant and the event. We expect to be able to help with registration/local/travel expenses. Applicants should note that grants are limited, and that costs in excess of the grant will not be reimbursed.\nGrants will be awarded to (co-)authors of accepted papers, based on the grant committee’s assessment of the applicant’s genuine financial need, the potential benefit to the applicant’s education and research, and the potential benefit to WiL.\nApplications should be sent by May 17, 2026 via this form. The award notification date is May 19, 2026.\nThe grants will be presented at the conferences; in case a grantee does not attend, the chairs may transfer the grant to another student or give no award.\nThe grants are kindly offered by ACM SIGLOG, Jane Street, VeTSS, Microsoft and Topos Institute.",
     "crumbs": [
       "Workshops",
-      "2026",
-      "Program"
+      "Women in Logic 2026",
+      "Call for papers"
+    ]
+  },
+  {
+    "objectID": "workshops/2026/venue/index.html",
+    "href": "workshops/2026/venue/index.html",
+    "title": "Venue",
+    "section": "",
+    "text": "Women in Logic 2026 will take place in Lisbon. More information coming soon.",
+    "crumbs": [
+      "Workshops",
+      "Women in Logic 2026",
+      "Venue"
+    ]
+  },
+  {
+    "objectID": "workshops/2026/index.html",
+    "href": "workshops/2026/index.html",
+    "title": "Women in Logic 2026",
+    "section": "",
+    "text": "Women in Logic 2026 is a satellite event of FLOC’26: the 9th Federated Logic Conference to be held in Lisbon, Portugal, from July 13 to July 29, 2026.\n\n\n\nThe Women in Logic workshop (WiL) provides an opportunity to increase awareness of the valuable contributions made by women in the area of logic in computer science. Its main purpose is to promote the excellent research done by women, with the ultimate goal of increasing their visibility and representation in the community.\nOur aim is to:\n\nprovide a platform for women researchers to share their work and achievements;\nincrease the feelings of community and belonging, especially among junior faculty, post-docs and students through positive interactions with peers and more established faculty;\nestablish new connections and collaborations;\nfoster a welcoming culture of mutual support and growth within the logic research community.\n\nWe believe these aspects will benefit women working in logic and computer science, particularly early-career researchers.\nContact email: wil2026@easychair.org\n\nSpeakers\n\n\n\n \n\n\n\n\n\nValeria de Paiva (Topos Institute)\n\n\n\n\n \n\n\n\n\n\nRaheleh Jalali (University of Bath)\n\n\n\n\n \n\n\n\n\n\nSponsors and partners",
+    "crumbs": [
+      "Workshops",
+      "Women in Logic 2026"
     ]
   },
   {
@@ -104,49 +136,99 @@
     "text": "Supporters\n\n\n\n\n\n\nSpecial Interest Group of the ACM for Logic\n\n\n\n\n\n\n\nVienna Center for Logic and Algorithms\n\n\n\n\n\n\n\nInstitute of Logic, Language and Computation of the University of Amsterdam\n\n\n\n\n\n\n\nTopos Institute\n\n\n\n\n\nWe also thank Tim Hosgood for technical help."
   },
   {
-    "objectID": "workshops/2026/index.html",
-    "href": "workshops/2026/index.html",
-    "title": "Women in Logic 2026",
+    "objectID": "workshops/2026/program/index.html",
+    "href": "workshops/2026/program/index.html",
+    "title": "Program",
     "section": "",
-    "text": "Women in Logic 2026 is a satellite event of FLOC’26: the 9th Federated Logic Conference to be held in Lisbon, Portugal, from July 13 to July 29, 2026.\n\n\n\nThe Women in Logic workshop (WiL) provides an opportunity to increase awareness of the valuable contributions made by women in the area of logic in computer science. Its main purpose is to promote the excellent research done by women, with the ultimate goal of increasing their visibility and representation in the community.\nOur aim is to:\n\nprovide a platform for women researchers to share their work and achievements;\nincrease the feelings of community and belonging, especially among junior faculty, post-docs and students through positive interactions with peers and more established faculty;\nestablish new connections and collaborations;\nfoster a welcoming culture of mutual support and growth within the logic research community.\n\nWe believe these aspects will benefit women working in logic and computer science, particularly early-career researchers.\nContact email: wil2026@easychair.org\n\nSpeakers\n\n\n\n \n\n\n\n\n\nValeria de Paiva (Topos Institute)\n\n\n\n\n \n\n\n\n\n\nRaheleh Jalali (University of Bath)\n\n\n\n\n \n\n\n\n\n\nSponsors and partners",
+    "text": "Event\n\n\n\n\n8:00\nRegistration\n\n\n8:55\nKickoff\n\n\n9:00\n-\n\n\n9:25\n-\n\n\n9:40\n-\n\n\n10:05\nBreak\n\n\n10:30\n-\n\n\n10:55\n-\n\n\n11:20\n-\n\n\n11:45\n-\n\n\n12:10\n-\n\n\n12:35\nLunch\n\n\n14:00\n-\n\n\n15:00\n-\n\n\n15:25\n-\n\n\n15:30\nBreak\n\n\n16:00\n-\n\n\n17:00\nDiscussion\n\n\n18:00\nBreak\n\n\n19:00\nParty",
     "crumbs": [
       "Workshops",
-      "2026",
-      "Home"
+      "Women in Logic 2026",
+      "Program"
     ]
   },
   {
-    "objectID": "workshops/2026/venue/index.html",
-    "href": "workshops/2026/venue/index.html",
-    "title": "Women in Logic 2026",
+    "objectID": "workshops/2026/photos/index.html",
+    "href": "workshops/2026/photos/index.html",
+    "title": "Photos",
     "section": "",
-    "text": "Women in Logic 2026 will take place in Lisbon. More information coming soon.",
+    "text": "Photos will be uploaded here when available",
     "crumbs": [
       "Workshops",
-      "2026",
-      "Venue"
+      "Women in Logic 2026",
+      "Photos"
     ]
   },
   {
-    "objectID": "workshops/2026/call-for-papers/index.html",
-    "href": "workshops/2026/call-for-papers/index.html",
-    "title": "Women in Logic 2026",
+    "objectID": "workshops/2026/committees/index.html",
+    "href": "workshops/2026/committees/index.html",
+    "title": "Committees",
     "section": "",
-    "text": "Topics of interest include but are not limited to: automata theory, automated deduction, categorical models and logics, concurrency and distributed computation, constraint programming, constructive mathematics, database theory, decision procedures, description logics, domain theory, finite model theory, formal aspects of program analysis, formal methods, foundations of computability, games and logic, higher-order logic, lambda and combinatory calculi, linear logic, logic in artificial intelligence, logic programming, logical aspects of bioinformatics, logical aspects of computational complexity, logical aspects of quantum computation, logical frameworks, logics of programs, modal and temporal logics, model checking, probabilistic systems, process calculi, programming language semantics, proof theory, real-time systems, reasoning about security and privacy, rewriting, type systems and type theory, and verification.\n\nImportant dates\n\nAbstract submission deadline: May 5, 2026\nNotification: May 15, 2026\nEarly registration: TBA\nContribution for Informal Proceedings: June 25, 2026\nWorkshop: 24-25 July 2026\n\n\n\nSubmissions\nAbstracts should be written in English (1-2 pages), and prepared using the EasyChair style. The abstracts should be uploaded to the WiL 2026 EasyChair page as a PDF file before the submission deadline on May 5, 2026, anywhere on Earth.\n\n\nGrants\nA limited number of travel grants is available for students/young researchers who would not otherwise have resources to attend WiL, and whose attendance would benefit both the applicant and the event. We expect to be able to help with registration/local/travel expenses. Applicants should note that grants are limited, and that costs in excess of the grant will not be reimbursed.\nGrants will be awarded to (co-)authors of accepted papers, based on the grant committee’s assessment of the applicant’s genuine financial need, the potential benefit to the applicant’s education and research, and the potential benefit to WiL.\nApplications should be sent by May 17, 2026 via this form. The award notification date is May 19, 2026.\nThe grants will be presented at the conferences; in case a grantee does not attend, the chairs may transfer the grant to another student or give no award.\nThe grants are kindly offered by ACM SIGLOG, Jane Street, VeTSS, Microsoft and Topos Institute.",
+    "text": "Program Committee\n\nSandra Alves (Porto University)\nHuimin Dong (Co-chair, TU Wien)\nAmy Felty (University of Ottawa)\nNina Gierasimczuk (Technical University of Denmark)\nLourdes Del Carmen González Huesca (Universidad Nacional Autónoma de México)\nDelia Kesner (Université Paris Cité)\nFenrong Liu (Tsinghua University)\nAnela Lolic (Co-chair, TU Wien)\nDaniele Nantes-Sobrinho (UNB, Brazil)\nAybüke Özgün (University of Amsterdam)\nAnja Petkovic Komel (Argot Collective)\nElaine Pimentel (Co-chair, UCL)\nTephilla Prince (IIT Dharwad)\nSara Uckelman (Durhan University)\n\n\n\nOrganising Committee\n\n\n\n\n\n\nHuimin Dong\n\n\n\n\n\n\n\nAnela Lolic\n\n\n\n\n\n\n\nElaine Pimentel\n\n\n\n\n\n\n\nSteering Committee\n\nValeria de Paiva\nAmy Felty\nAlexandra Silva\nBrigitte Pientka\nSandra Alves\nAgata Ciabattoni\nSonja Smets\nSandra Kiefer\nSara L. Uckelman",
     "crumbs": [
       "Workshops",
-      "2026",
-      "Call for papers"
+      "Women in Logic 2026",
+      "Committees"
     ]
   },
   {
-    "objectID": "workshops/index.html",
-    "href": "workshops/index.html",
-    "title": "Workshops",
+    "objectID": "workshops/2026/speakers/index.html",
+    "href": "workshops/2026/speakers/index.html",
+    "title": "Speakers",
     "section": "",
-    "text": "The WiL Workshop provides an opportunity to increase awareness of the valuable contributions made by women in the area of logic in computer science. Its main purpose is to promote the excellent research done by women, with the ultimate goal of increasing their visibility and representation in the community. Our aim is to:\n\nprovide a platform for female researchers to share their work and achievements;\nincrease the feelings of community and belonging, especially among junior faculty, post-docs and students through positive interactions with peers and more established faculty;\nestablish new connections and collaborations;\nfoster a welcoming culture of mutual support and growth within the logic research community.\n\nWe believe these aspects will benefit women working in logic and computer science, particularly students and early-career researchers.\n\n\n  \n  \n    \n      \n        WiL 2025\n        Birmingham, UK\n\n        \n        Website\n        \n        \n        \n      \n\n      \n        \n        \n          \n            \n            Learning from Examples and Counterexamples using Nominal Logic\n            Daniele Nantes\n          \n        \n        \n        \n          \n            \n            Verifying Progress in Cyclic Reasoning (and in Research)\n            Liron Cohen\n          \n        \n        \n      \n      \n    \n  \n  \n  \n    \n      \n        WiL 2024\n        Tallinn, Estonia\n\n        \n        Website\n        \n        \n        \n      \n\n      \n        \n        \n          \n            \n            New Techniques for Sound Language Interoperability\n            Amal Ahmed\n          \n        \n        \n        \n          \n            \n            Types for (Slow) AI\n            Viviana Bono\n          \n        \n        \n        \n          \n            \n            Constructive Interactions\n            Sandra Kiefer\n          \n        \n        \n      \n      \n    \n  \n  \n  \n    \n      \n        WiL 2023\n        Rome, Italy\n\n        \n        Website\n        \n        \n        \n      \n\n      \n        \n        \n          \n            \n            From functional analysis to proofs and programs\n            Marie Kerjean\n          \n        \n        \n        \n          \n            \n            Quantitative Weak Linearisation\n            Sandra Alves\n          \n        \n        \n      \n      \n    \n  \n  \n  \n    \n      \n        WiL 2022\n        Haifa, Israel\n\n        \n        Website\n        \n        \n        Report\n        \n        \n      \n\n      \n        \n        \n          \n            \n            A normalized edit distance on finite and infinite words\n            Dana Fisman\n          \n        \n        \n        \n          \n            \n            Embedding Quantitative Properties of Call-by-Name and Call-by-Value into Call-by-Push-Value\n            Delia Kesner\n          \n        \n        \n      \n      \n    \n  \n  \n  \n    \n      \n        WiL 2021\n        Rome, Italy (virtual)\n\n        \n        Website\n        \n        \n        Report\n        \n        \n      \n\n      \n        \n        \n          \n            \n            Intersection types for probabilistic computation\n            Simona Ronchi Della Rocca\n          \n        \n        \n        \n          \n            \n            Zero-one laws for provability logic and its transitive sisters\n            Rineke Verbrugge\n          \n        \n        \n      \n      \n    \n  \n  \n  \n    \n      \n        WiL 2020\n        Paris, France (virtual)\n\n        \n        Website\n        \n        \n        Report\n        \n        \n        Proceedings\n        \n      \n\n      \n        \n        \n          \n            \n            Nominal Syntax with Atom Substitutions\n            Maribel Fernández\n          \n        \n        \n        \n          \n            \n            An algebraic framework to reason about concurrency\n            Alexandra Silva\n          \n        \n        \n      \n      \n    \n  \n  \n  \n    \n      \n        WiL 2019\n        Vancouver, Canada\n\n        \n        \n        \n      \n\n      \n        \n        \n          \n            \n            Computing with Molecules\n            Anne Condon\n          \n        \n        \n        \n          \n            \n            The impact of duality\n            Zena M. Ariola\n          \n        \n        \n      \n      \n    \n  \n  \n  \n    \n      \n        WiL 2018\n        Oxford, United Kingdom\n\n        \n        Website\n        \n        \n        \n      \n\n      \n        \n        \n          \n            \n            Logic and sofware engineering: are we nearly there yet?\n            Perdita Stevens\n          \n        \n        \n        \n          \n            \n            POPLMark Reloaded: Mechanizing Logical Relations Proofs\n            Brigitte Pientka\n          \n        \n        \n      \n      \n    \n  \n  \n  \n    \n      \n        WiL 2017\n        Reykjavik, Iceland\n\n        \n        Website\n        \n        \n        \n      \n\n      \n        \n        \n          \n            \n            Differential Privacy and Applications to Location Privacy\n            Catuscia Palamidessi\n          \n        \n        \n        \n          \n            \n            Strategies for Modal Theorem-Proving\n            Claudia Nalon\n          \n        \n        \n      \n      \n    \n  \n  \n\nNo matching items",
+    "text": "Valeria de Paiva (Topos Institute)\n\n\n\n\n\nValeria de Paiva\nTitle TBA\nAbstract TBA\n\n\n\n\n\n\n\n\n\n\nRaheleh Jalali (University of Bath)\n\n\n\n\n\nRaheleh Jalali\nTitle TBA\nAbstract TBA",
     "crumbs": [
-      "Workshops"
+      "Workshops",
+      "Women in Logic 2026",
+      "Speakers"
+    ]
+  },
+  {
+    "objectID": "workshops/2025/program/index.html",
+    "href": "workshops/2025/program/index.html",
+    "title": "Program",
+    "section": "",
+    "text": "All abstracts can be found in the Book of abstracts\n\n\n\n\n\n\n\n\nEvent\n\n\n\n\n8:00\nRegistration\n\n\n8:55\nKickoff\n\n\n9:00\nGrowing a Modular Framewok for Modal Systems: HOLMSAntonella Bilotta, Marco Maggesi, Cosimo Perini Brogi\n\n\n9:25\nShort: A Rough Set Semantics for 4-valued Logic of Double Stone AlgebrasNeha Gaur\n\n\n9:40\nFuzzy Logic in Ethical AIZiba Assadi, Paola Inverardi\n\n\n10:05\nBreak\n\n\n10:30\nA Defense of modus ponens as a Valid Rule of ReasoningXue Ge\n\n\n10:55\nA Dynamic Logic Model of Successful Speech ActsYan Xu, Xue Ge, Sara Uckelman\n\n\n11:20\nBase-extension Semantics for Classical LogicEkaterina Piotrovskaya\n\n\n11:45\nAutomata and Logics over Nested DataAdriana Baldacchino\n\n\n12:10\nFormally Verified Verifiable Group GeneratorsMina Artunis Cyrus\n\n\n12:35\nLunch\n\n\n14:00\nLearning from Examples and Counterexamples using Nominal LogicDaniele Nantes-Sobrinho\n\n\n15:00\nTeaching logic as teaching to read and writeMilena Dassie Wilke\n\n\n15:30\nBreak\n\n\n16:00\nVerifying Progress in Cyclic Reasoning (and in Research)Liron Cohen\n\n\n17:00\nDiscussion\n\n\n18:00\nBreak\n\n\n19:00\nParty",
+    "crumbs": [
+      "Workshops",
+      "Women in Logic 2025",
+      "Program"
+    ]
+  },
+  {
+    "objectID": "workshops/2025/photos/index.html",
+    "href": "workshops/2025/photos/index.html",
+    "title": "Photos",
+    "section": "",
+    "text": "The family of researchers at WiL’25\n\n\n\n\n\nLiron Cohen’s invited talk on Verifying Progress in Cyclic Reasoning (and in Research)\n\n\n\n\n\nDaniele Nantes’ invited talk on Learning from Examples and Counterexamples in Nominal Logic",
+    "crumbs": [
+      "Workshops",
+      "Women in Logic 2025",
+      "Photos"
+    ]
+  },
+  {
+    "objectID": "workshops/2025/committees/index.html",
+    "href": "workshops/2025/committees/index.html",
+    "title": "Committees",
+    "section": "",
+    "text": "Program Committee\n\nLourdes Del Carmen González Huesca (Universidad Nacional Autónoma de México)\nAmy Felty (University of Ottawa)\nRaheleh Jalali (University of Bath)\nDelia Kesner (Université Paris Cité)\nAnela Lolic (Co-chair, TU Wien)\nValeria de Paiva (Topos Institute)\nCatuscia Palamidessi (INRIA)\nAnja Petkovic Komel (Ethereum Foundation / TU Wien)\nElaine Pimentel (Co-chair, UCL)\nTephilla Prince (Co-chair, IIT Dharwad)\nKrishna S. (IIT Bombay)\n\n\n\nOrganising Committee\n\n\n\n\n\n\nAnela Lolic\n\n\n\n\n\n\n\nElaine Pimentel\n\n\n\n\n\n\n\nTephilla Prince\n\n\n\n\n\n\n\nSteering Committee\n\nValeria de Paiva\nAmy Felty\nAlexandra Silva\nBrigitte Pientka\nSandra Alves\nAgata Ciabattoni\nSonja Smets\nSandra Kiefer\nSara L. Uckelman",
+    "crumbs": [
+      "Workshops",
+      "Women in Logic 2025",
+      "Committees"
+    ]
+  },
+  {
+    "objectID": "workshops/2025/speakers/index.html",
+    "href": "workshops/2025/speakers/index.html",
+    "title": "Speakers",
+    "section": "",
+    "text": "Liron Cohen\n\n\n\n\nLiron Cohen\nVerifying Progress in Cyclic Reasoning (and in Research)\nCyclic reasoning, in which induction is managed implicitly, is a promising approach to automatic verification. The soundness of cyclic proof graphs is ensured by checking them against a trace-based Infinite Descent property. While deciding Infinite Descent is PSPACE-complete in general, its cost varies sharply with two natural parameters: the number of graph vertices and the vertex-width that bounds the components tracked simultaneously. To gain speed in practice, one can trade completeness for efficiency. Cyclone follows this strategy: it layers several fast, but necessarily incomplete, semi-decision procedures for Infinite Descent atop a complete exponential fallback. These alternative algorithms are developed and benchmarked, and Cyclone is shown to deliver substantial runtime gains on real workloads.\nThis talk outlines the theoretical landscape as well as the practical improvements and their empirical impact. We also briefly reflect on how we, as researchers, can use Infinite Descent for managing the inherently (often frustrating) cyclic nature of research itself.\n\n\n\n\n\n\n\n\n\nDaniele Nantes-Sobrinho\n\n\n\n\nDaniele Nantes-Sobrinho\nLearning from Examples and Counterexamples using Nominal Logic\nEquational problems are fundamental in computer science, frequently arising as subproblems in areas such as program analysis and learning from examples and counterexamples. This talk examines equational problems in languages with binding operators, formulating them within the nominal framework as Nominal Equational Problems (NEP). Solutions to NEPs are obtained by applying simplification rules defined within nominal logic.\nA key focus of the talk is the role of generalisation, a core operation for systems that learn from background knowledge and can itself be specified as an NEP. By leveraging anti-unification techniques, such systems can discover reusable program fragments by computing a least general generalisation (lgg) — sometimes called the most specific generalisation — for a collection of terms. This provides a principled basis for structured learning from examples.",
+    "crumbs": [
+      "Workshops",
+      "Women in Logic 2025",
+      "Speakers"
     ]
   },
   {
