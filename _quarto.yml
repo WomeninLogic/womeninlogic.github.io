@@ -35,7 +35,7 @@ website:
   sidebar:
     - title: "Workshops"
       style: docked
-      collapse-level: 2
+      collapse-level: 1
       contents:
         - workshops/index.qmd
         # - text: "---"

@@ -23,8 +23,10 @@ We believe these aspects will benefit women working in logic and computer scienc
 
 ### Speakers
 
-::: {layout="[-10,30,-20,30,-10]"}
+::: {layout="[30,40,30]"}
 ![Valeria de Paiva (Topos Institute)](images/valeria-de-paiva.jpg){}
+
+![](images/lisbon.jpg)
 
 ![Raheleh Jalali (University of Bath)](images/raheleh-jalali.jpg){}
 :::
