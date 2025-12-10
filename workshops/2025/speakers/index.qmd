@@ -1,32 +1,36 @@
 ---
-title: "Women in Logic 2026"
-subtitle: "Speakers"
+title: "Speakers"
+subtitle: "Women in Logic 2025"
 ---
 
 :::: {layout="[30,60,10]"}
 ::: {#first-column}
-![Valeria de Paiva (Topos Institute)](../images/valeria-de-paiva.jpg)
+![Liron Cohen](../images/liron-cohen.jpg)
 :::
 
 ::: {#second-column}
-#### Valeria de Paiva
+**Liron Cohen**
 
-**Title TBA**
+*Verifying Progress in Cyclic Reasoning (and in Research)*
 
-Abstract TBA
+Cyclic reasoning, in which induction is managed implicitly, is a promising approach to automatic verification. The soundness of cyclic proof graphs is ensured by checking them against a trace-based Infinite Descent property.  While deciding Infinite Descent is PSPACE-complete in general, its cost varies sharply with two natural parameters: the number of graph vertices and the vertex-width that bounds the components tracked simultaneously. To gain speed in practice, one can trade completeness for efficiency. Cyclone follows this strategy: it layers several fast, but necessarily incomplete, semi-decision procedures for Infinite Descent atop a complete exponential fallback. These alternative algorithms are developed and benchmarked, and Cyclone is shown to deliver substantial runtime gains on real workloads.
+
+This talk outlines the theoretical landscape as well as the practical improvements and their empirical impact. We also briefly reflect on how we, as researchers, can use Infinite Descent for managing the inherently (often frustrating) cyclic nature of research itself.
 :::
 ::::
 
 :::: {layout="[30,60,10]"}
 ::: {#first-column}
-![Raheleh Jalali (University of Bath)](../images/raheleh-jalali.jpg)
+![Daniele Nantes-Sobrinho](../images/daniele-nantes-sobrinho.jpg)
 :::
 
 ::: {#second-column}
-#### Raheleh Jalali
+**Daniele Nantes-Sobrinho**
 
-**Title TBA**
+*Learning from Examples and Counterexamples using Nominal Logic*
 
-Abstract TBA
+Equational problems are fundamental in computer science, frequently arising as subproblems in areas such as program analysis and learning from examples and counterexamples. This talk examines equational problems in languages with binding operators, formulating them within the nominal framework as Nominal Equational Problems (NEP). Solutions to NEPs are obtained by applying simplification rules defined within nominal logic.
+
+A key focus of the talk is the role of generalisation, a core operation for systems that learn from background knowledge and can itself be specified as an NEP. By leveraging anti-unification techniques, such systems can discover reusable program fragments by computing a least general generalisation (lgg) — sometimes called the most specific generalisation — for a collection of terms. This provides a principled basis for structured learning from examples.
 :::
 ::::

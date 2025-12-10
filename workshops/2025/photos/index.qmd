@@ -1,6 +1,10 @@
 ---
-title: "Women in Logic 2026"
-subtitle: "Photos"
+title: "Photos"
+subtitle: "Women in Logic 2025"
 ---
 
-*Photos will be uploaded here when available*
+![The family of researchers at WiL'25](photo-1.jpg)
+
+![Liron Cohen's invited talk on *Verifying Progress in Cyclic Reasoning (and in Research)*](photo-2.jpg)
+
+![Daniele Nantes' invited talk on *Learning from Examples and Counterexamples in Nominal Logic*](photo-3.jpg)

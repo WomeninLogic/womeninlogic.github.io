@@ -1,7 +1,4 @@
 ---
-title: "Women in Logic 2026"
-subtitle: "Venue"
+title: "Venue"
+subtitle: "Women in Logic 2025"
 ---
-
-Women in Logic 2026 will take place in Lisbon.
-*More information coming soon.*

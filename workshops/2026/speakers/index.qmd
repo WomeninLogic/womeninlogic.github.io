@@ -1,6 +1,6 @@
 ---
-title: "Women in Logic 2026"
-subtitle: "Speakers"
+title: "Speakers"
+subtitle: "Women in Logic 2026"
 ---
 
 :::: {layout="[30,60,10]"}

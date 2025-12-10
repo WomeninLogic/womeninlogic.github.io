@@ -35,25 +35,21 @@ website:
   sidebar:
     - title: "Workshops"
       style: docked
+      collapse-level: 1
       contents:
         - workshops/index.qmd
         - text: "---"
-        - section: "2026"
-          contents:
-          - href: workshops/2026/index.qmd
-            text: Home
-          - href: workshops/2026/committees/index.qmd
-            text: Committees
-          - href: workshops/2026/program/index.qmd
-            text: Program
-          - href: workshops/2026/call-for-papers/index.qmd
-            text: Call for papers
-          - href: workshops/2026/speakers/index.qmd
-            text: Speakers
-          - href: workshops/2026/photos/index.qmd
-            text: Photos
-          - href: workshops/2026/venue/index.qmd
-            text: Venue
+        - auto: "workshops/2026"
+        - text: "---"
+        - auto: "workshops/2025/"
+        - auto: "workshops/2024/"
+        - auto: "workshops/2023/"
+        - auto: "workshops/2022/"
+        - auto: "workshops/2021/"
+        - auto: "workshops/2020/"
+        - auto: "workshops/2019/"
+        - auto: "workshops/2018/"
+        - auto: "workshops/2017/"
 
   back-to-top-navigation: false
   page-footer:
