@@ -1,0 +1,10 @@
+---
+title: "Venue"
+subtitle: "Women in Logic 2025"
+---
+
+Women in Logic 2025 will take place at the **Edgbaston Park Hotel and Conference Centre**, within the main campus of the **University of Birmingham**.
+
+The venue is about a 15 minute walk from the University train station, and there are nearby direct buses to Birmingham centre (using Google Maps is recommended).
+
+![](venue.jpg)

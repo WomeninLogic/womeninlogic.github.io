@@ -1,0 +1,42 @@
+---
+title: "Committees"
+subtitle: "Women in Logic 2025"
+---
+
+### Program Committee
+
+- [Lourdes Del Carmen González Huesca](https://louglzhuesca.github.io/) (Universidad Nacional Autónoma de México)
+- [Amy Felty](https://www.site.uottawa.ca/~afelty/) (University of Ottawa)
+- [Raheleh Jalali](https://sites.google.com/view/rahelehjalali) (University of Bath)
+- [Delia Kesner](https://www.irif.fr/~kesner/) (Université Paris Cité)
+- [Anela Lolic](https://www.anelalolic.com/) (Co-chair, TU Wien)
+- [Valeria de Paiva](https://vcvpaiva.github.io/)  (Topos Institute)
+- [Catuscia Palamidessi](http://www.lix.polytechnique.fr/~catuscia/) (INRIA)
+- [Anja Petkovic Komel](https://anjapetkovic.com/) (Ethereum Foundation / TU Wien)
+- [Elaine Pimentel](https://sites.google.com/site/elainepimentel/) (Co-chair, UCL)
+- [Tephilla Prince](https://tephilla.github.io/) (Co-chair, IIT Dharwad)
+- [Krishna S.](https://www.cse.iitb.ac.in/~krishnas/) (IIT Bombay)
+
+
+### Organising Committee
+
+::: {layout-ncol=4}
+![Anela Lolic](../images/anela-lolic.jpg)
+
+![Elaine Pimentel](../images/elaine-pimentel.jpg)
+
+![Tephilla Prince](../images/tephilla-prince.jpg)
+:::
+
+
+### Steering Committee
+
+- Valeria de Paiva
+- Amy Felty
+- Alexandra Silva
+- Brigitte Pientka
+- Sandra Alves
+- Agata Ciabattoni
+- Sonja Smets
+- Sandra Kiefer
+- Sara L. Uckelman

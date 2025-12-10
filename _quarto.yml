@@ -35,25 +35,29 @@ website:
   sidebar:
     - title: "Workshops"
       style: docked
+      collapse-level: 1
       contents:
         - workshops/index.qmd
         - text: "---"
-        - section: "2026"
-          contents:
-          - href: workshops/2026/index.qmd
-            text: Home
-          - href: workshops/2026/committees/index.qmd
-            text: Committees
-          - href: workshops/2026/program/index.qmd
-            text: Program
-          - href: workshops/2026/call-for-papers/index.qmd
-            text: Call for papers
-          - href: workshops/2026/speakers/index.qmd
-            text: Speakers
-          - href: workshops/2026/photos/index.qmd
-            text: Photos
-          - href: workshops/2026/venue/index.qmd
-            text: Venue
+        - auto: "workshops/2026"
+        - text: "---"
+        - auto: "workshops/2025/"
+        - text: "Women in Logic 2024&nbsp↗"
+          href: "https://sites.google.com/view/wil24/"
+        - text: "Women in Logic 2023&nbsp↗"
+          href: "https://sites.google.com/view/wil2023/"
+        - text: "Women in Logic 2022&nbsp↗"
+          href: "https://sites.google.com/g.uporto.pt/wil2022/"
+        - text: "Women in Logic 2021&nbsp↗"
+          href: "https://sites.google.com/g.uporto.pt/wil2021"
+        - text: "Women in Logic 2020&nbsp↗"
+          href: "https://sites.google.com/g.uporto.pt/wil2020/"
+        - text: "Women in Logic 2019&nbsp↗"
+          href: "https://sites.google.com/site/womeninlogic2019/home"
+        - text: "Women in Logic 2018&nbsp↗"
+          href: "https://sites.google.com/site/womeninlogic2018/welcome"
+        - text: "Women in Logic 2017&nbsp↗"
+          href: "https://sites.google.com/site/firstwomeninlogicworkshop/"
 
   back-to-top-navigation: false
   page-footer:

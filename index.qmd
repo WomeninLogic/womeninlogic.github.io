@@ -19,7 +19,7 @@ listing:
 ::: {.callout-warning #latest-news}
 ## Latest news
 
-* The 10th Women in Logic Workshop is happening as part of FLoC 2026 in Portugal. This time, a two-day workshop. Check the [website](https://womeninlogic.org/workshops/2026/)!! The call for papers is [here](https://sites.google.com/view/wil2026/call-for-papers)
+* The 10th Women in Logic Workshop is happening as part of FLoC 2026 in Portugal. This time, a two-day workshop. Check the [website](https://womeninlogic.org/workshops/2026/)!! The call for papers is [here](https://womeninlogic.org/workshops/2026/call-for-papers)
 * [Women in Logic ONLINE](https://www.vcla.at/women-in-logic/) information from Vienna Center for Logic and Applications (VCLA).
 <!--- Check the [website](https://sites.google.com/view/wil2025/home)!-->
 * Women in Logic ONLINE number 6! Talk by [Nina Gierasimczuk](https://ninagierasimczuk.com/), 16 September 2025 "Learning and Belief Revision: an Overview",  [youtube](https://www.youtube.com/live/LHbwslggM3U).

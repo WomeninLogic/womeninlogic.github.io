@@ -1,6 +1,6 @@
 ---
-title: "Women in Logic 2026"
-subtitle: "Committees"
+title: "Committees"
+subtitle: "Women in Logic 2026"
 ---
 
 ### Program Committee

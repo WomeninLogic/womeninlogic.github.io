@@ -1,6 +1,6 @@
 ---
-title: "Women in Logic 2026"
-subtitle: "Program"
+title: "Program"
+subtitle: "Women in Logic 2026"
 ---
 
 |     | Event |
