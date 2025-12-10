@@ -1,0 +1,30 @@
+---
+title: "Program"
+subtitle: "Women in Logic 2025"
+---
+
+*All abstracts can be found in the [Book of abstracts](../wil-book-of-abstracts-2025.pdf)*
+
+|     | Event |
+| :-: | :---- |
+|  8:00 | Registration |
+|  8:55 | Kickoff |
+|  9:00 | *Growing a Modular Framewok for Modal Systems: HOLMS*<br>**Antonella Bilotta**, Marco Maggesi, Cosimo Perini Brogi |
+|  9:25 | *Short: A Rough Set Semantics for 4-valued Logic of Double Stone Algebras*<br>**Neha Gaur** |
+|  9:40 | *Fuzzy Logic in Ethical AI*<br>**Ziba Assadi**, Paola Inverardi |
+| 10:05 | Break |
+| 10:30 | *A Defense of modus ponens as a Valid Rule of Reasoning*<br>**Xue Ge** |
+| 10:55 | *A Dynamic Logic Model of Successful Speech Acts*<br>Yan Xu, Xue Ge, **Sara Uckelman** |
+| 11:20 | *Base-extension Semantics for Classical Logic*<br>**Ekaterina Piotrovskaya** |
+| 11:45 | *Automata and Logics over Nested Data*<br>**Adriana Baldacchino** |
+| 12:10 | *Formally Verified Verifiable Group Generators*<br>**Mina Artunis Cyrus** |
+| 12:35 | Lunch |
+| 14:00 | *Learning from Examples and Counterexamples using Nominal Logic*<br>**Daniele Nantes-Sobrinho** |
+| 15:00 | *Teaching logic as teaching to read and write*<br>**Milena Dassie Wilke** |
+| 15:30 | Break |
+| 16:00 | *Verifying Progress in Cyclic Reasoning (and in Research)*<br>**Liron Cohen** |
+| 17:00 | Discussion |
+| 18:00 | Break |
+| 19:00 | Party |
+
+: {tbl-colwidths="[20,80]"}

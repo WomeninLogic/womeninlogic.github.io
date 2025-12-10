@@ -1,0 +1,43 @@
+---
+title: "Women in Logic 2024"
+subtitle: "July 9, Tallinn, Estonia"
+---
+
+::: {.callout}
+Women in Logic 2025 is a satellite event of [ICALP LiCS FSCD 2025](https://compose.ioc.ee/icalp2024/), held in Taillinn, Estonia, from July 8 to July 13, 2024.
+:::
+
+The Women in Logic workshop (WiL) provides an opportunity to increase awareness of the valuable contributions made by women in the area of logic in computer science. Its main purpose is to promote the excellent research done by women, with the ultimate goal of increasing their visibility and representation in the community.  
+
+Our aim is to:
+
+- provide a platform for women researchers to share their work and achievements;
+- increase the feelings of community and belonging, especially among junior faculty, post-docs and students through positive interactions with peers and more established faculty;
+- establish new connections and collaborations;
+- foster a welcoming culture of mutual support and growth within the logic research community.
+
+We believe these aspects will benefit women working in logic and computer science, particularly early-career researchers.
+
+
+### Speakers
+
+::: {layout="[-10,30,-20,30,-10]"}
+![Daniele Nantes-Sobrinho (Imperial College-UnB)](images/daniele-nantes-sobrinho.jpg){}
+
+![Liron Cohen (Ben-Gurion University)](images/liron-cohen.jpg){}
+:::
+
+
+### Sponsors and partners
+
+::: {layout-ncol=5}
+![](images/etss.png){width=150px fig-alt="eTSS"}
+
+![](images/jane-street.png){width=150px fig-alt=""}
+
+![](images/siglog.jpg){width=150px fig-alt="SigLog"}
+
+![](images/topos-institute.jpg){width=150px fig-alt="Topos Institute"}
+
+![](images/kurt-godel-society.jpg){width=150px fig-alt="Kurt Gödel Society"}
+:::
