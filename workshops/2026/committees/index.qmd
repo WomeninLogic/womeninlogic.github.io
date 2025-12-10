@@ -13,7 +13,6 @@ subtitle: "Women in Logic 2026"
 - [Delia Kesner](https://www.irif.fr/~kesner/) (Université Paris Cité)
 - [Fenrong Liu](https://fenrong.net/) (Tsinghua University)
 - [Anela Lolic](https://www.anelalolic.com/) (Co-chair, TU Wien)
-- [Reka Markovich] (https://rekamarkovich.github.io) (University of Luxembourg)
 - [Daniele Nantes-Sobrinho](https://mat.unb.br/dnantes/) (UNB, Brazil)
 - [Aybüke Özgün](https://sites.google.com/site/ozgunaybuke/) (University of Amsterdam)
 - [Anja Petkovic Komel](https://anjapetkovic.com/) (Argot Collective)
