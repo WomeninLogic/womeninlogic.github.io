@@ -35,6 +35,7 @@
     "text": "Topics of interest include but are not limited to: automata theory, automated deduction, categorical models and logics, concurrency and distributed computation, constraint programming, constructive mathematics, database theory, decision procedures, description logics, domain theory, finite model theory, formal aspects of program analysis, formal methods, foundations of computability, games and logic, higher-order logic, lambda and combinatory calculi, linear logic, logic in artificial intelligence, logic programming, logical aspects of bioinformatics, logical aspects of computational complexity, logical aspects of quantum computation, logical frameworks, logics of programs, modal and temporal logics, model checking, probabilistic systems, process calculi, programming language semantics, proof theory, real-time systems, reasoning about security and privacy, rewriting, type systems and type theory, and verification.\n\nImportant dates\n\nAbstract submission deadline: May 5, 2025 May 10, 2025 (extended!)\nNotification: May 15, 2025 May 21, 2025 (extended!)\nEarly registration: TBA\nContribution for Informal Proceedings: June 25, 2025\nWorkshop: July 14, 2025\n\n\n\nSubmissions\nAbstracts should be written in English (1-2 pages), and prepared using the EasyChair style. The abstracts should be uploaded to the WiL 2025 EasyChair page as a PDF file before the submission deadline on May 5, 2025, anywhere on Earth.\n\n\nGrants\nA limited number of travel grants is available for students/young researchers who would not otherwise have resources to attend WiL, and whose attendance would benefit both the applicant and the event. We expect to be able to help with registration/local/travel expenses. Applicants should note that grants are limited, and that costs in excess of the grant will not be reimbursed.\nGrants will be awarded to (co-)authors of accepted papers, based on the grant committee’s assessment of the applicant’s genuine financial need, the potential benefit to the applicant’s education and research, and the potential benefit to WiL.\nApplications should be sent by May 17, 2025 via this form. The award notification date is May 19, 2025.\nThe grants will be presented at the conferences; in case a grantee does not attend, the chairs may transfer the grant to another student or give no award.\nThe grants are kindly offered by ACM SIGLOG, Jane Street, VeTSS, Microsoft and Topos Institute.",
     "crumbs": [
       "Workshops",
+      "Previous years",
       "Women in Logic 2025",
       "Call for papers"
     ]
@@ -47,6 +48,7 @@
     "text": "Women in Logic 2025 will take place at the Edgbaston Park Hotel and Conference Centre, within the main campus of the University of Birmingham.\nThe venue is about a 15 minute walk from the University train station, and there are nearby direct buses to Birmingham centre (using Google Maps is recommended).",
     "crumbs": [
       "Workshops",
+      "Previous years",
       "Women in Logic 2025",
       "Venue"
     ]
@@ -59,6 +61,7 @@
     "text": "Women in Logic 2025 is a satellite event of FSCD 2025: the 10th International Conference on Formal Structures for Computation and Deduction, held in Birmingham, UK, from July 14 to July 20, 2025.\n\n\n\nThe Women in Logic workshop (WiL) provides an opportunity to increase awareness of the valuable contributions made by women in the area of logic in computer science. Its main purpose is to promote the excellent research done by women, with the ultimate goal of increasing their visibility and representation in the community.\nOur aim is to:\n\nprovide a platform for women researchers to share their work and achievements;\nincrease the feelings of community and belonging, especially among junior faculty, post-docs and students through positive interactions with peers and more established faculty;\nestablish new connections and collaborations;\nfoster a welcoming culture of mutual support and growth within the logic research community.\n\nWe believe these aspects will benefit women working in logic and computer science, particularly early-career researchers.\n\nSpeakers\n\n\n\n \n\n\n\n\n\nDaniele Nantes-Sobrinho (Imperial College-UnB)\n\n\n\n\n \n\n\n\n\n\nLiron Cohen (Ben-Gurion University)\n\n\n\n\n \n\n\n\n\n\nSponsors and partners",
     "crumbs": [
       "Workshops",
+      "Previous years",
       "Women in Logic 2025"
     ]
   },
@@ -191,6 +194,7 @@
     "text": "All abstracts can be found in the Book of abstracts\n\n\n\n\n\n\n\n\nEvent\n\n\n\n\n8:00\nRegistration\n\n\n8:55\nKickoff\n\n\n9:00\nGrowing a Modular Framewok for Modal Systems: HOLMSAntonella Bilotta, Marco Maggesi, Cosimo Perini Brogi\n\n\n9:25\nShort: A Rough Set Semantics for 4-valued Logic of Double Stone AlgebrasNeha Gaur\n\n\n9:40\nFuzzy Logic in Ethical AIZiba Assadi, Paola Inverardi\n\n\n10:05\nBreak\n\n\n10:30\nA Defense of modus ponens as a Valid Rule of ReasoningXue Ge\n\n\n10:55\nA Dynamic Logic Model of Successful Speech ActsYan Xu, Xue Ge, Sara Uckelman\n\n\n11:20\nBase-extension Semantics for Classical LogicEkaterina Piotrovskaya\n\n\n11:45\nAutomata and Logics over Nested DataAdriana Baldacchino\n\n\n12:10\nFormally Verified Verifiable Group GeneratorsMina Artunis Cyrus\n\n\n12:35\nLunch\n\n\n14:00\nLearning from Examples and Counterexamples using Nominal LogicDaniele Nantes-Sobrinho\n\n\n15:00\nTeaching logic as teaching to read and writeMilena Dassie Wilke\n\n\n15:30\nBreak\n\n\n16:00\nVerifying Progress in Cyclic Reasoning (and in Research)Liron Cohen\n\n\n17:00\nDiscussion\n\n\n18:00\nBreak\n\n\n19:00\nParty",
     "crumbs": [
       "Workshops",
+      "Previous years",
       "Women in Logic 2025",
       "Program"
     ]
@@ -203,6 +207,7 @@
     "text": "The family of researchers at WiL’25\n\n\n\n\n\nLiron Cohen’s invited talk on Verifying Progress in Cyclic Reasoning (and in Research)\n\n\n\n\n\nDaniele Nantes’ invited talk on Learning from Examples and Counterexamples in Nominal Logic",
     "crumbs": [
       "Workshops",
+      "Previous years",
       "Women in Logic 2025",
       "Photos"
     ]
@@ -215,6 +220,7 @@
     "text": "Program Committee\n\nLourdes Del Carmen González Huesca (Universidad Nacional Autónoma de México)\nAmy Felty (University of Ottawa)\nRaheleh Jalali (University of Bath)\nDelia Kesner (Université Paris Cité)\nAnela Lolic (Co-chair, TU Wien)\nValeria de Paiva (Topos Institute)\nCatuscia Palamidessi (INRIA)\nAnja Petkovic Komel (Ethereum Foundation / TU Wien)\nElaine Pimentel (Co-chair, UCL)\nTephilla Prince (Co-chair, IIT Dharwad)\nKrishna S. (IIT Bombay)\n\n\n\nOrganising Committee\n\n\n\n\n\n\nAnela Lolic\n\n\n\n\n\n\n\nElaine Pimentel\n\n\n\n\n\n\n\nTephilla Prince\n\n\n\n\n\n\n\nSteering Committee\n\nValeria de Paiva\nAmy Felty\nAlexandra Silva\nBrigitte Pientka\nSandra Alves\nAgata Ciabattoni\nSonja Smets\nSandra Kiefer\nSara L. Uckelman",
     "crumbs": [
       "Workshops",
+      "Previous years",
       "Women in Logic 2025",
       "Committees"
     ]
@@ -227,6 +233,7 @@
     "text": "Liron Cohen\n\n\n\n\nLiron Cohen\nVerifying Progress in Cyclic Reasoning (and in Research)\nCyclic reasoning, in which induction is managed implicitly, is a promising approach to automatic verification. The soundness of cyclic proof graphs is ensured by checking them against a trace-based Infinite Descent property. While deciding Infinite Descent is PSPACE-complete in general, its cost varies sharply with two natural parameters: the number of graph vertices and the vertex-width that bounds the components tracked simultaneously. To gain speed in practice, one can trade completeness for efficiency. Cyclone follows this strategy: it layers several fast, but necessarily incomplete, semi-decision procedures for Infinite Descent atop a complete exponential fallback. These alternative algorithms are developed and benchmarked, and Cyclone is shown to deliver substantial runtime gains on real workloads.\nThis talk outlines the theoretical landscape as well as the practical improvements and their empirical impact. We also briefly reflect on how we, as researchers, can use Infinite Descent for managing the inherently (often frustrating) cyclic nature of research itself.\n\n\n\n\n\n\n\n\n\nDaniele Nantes-Sobrinho\n\n\n\n\nDaniele Nantes-Sobrinho\nLearning from Examples and Counterexamples using Nominal Logic\nEquational problems are fundamental in computer science, frequently arising as subproblems in areas such as program analysis and learning from examples and counterexamples. This talk examines equational problems in languages with binding operators, formulating them within the nominal framework as Nominal Equational Problems (NEP). Solutions to NEPs are obtained by applying simplification rules defined within nominal logic.\nA key focus of the talk is the role of generalisation, a core operation for systems that learn from background knowledge and can itself be specified as an NEP. By leveraging anti-unification techniques, such systems can discover reusable program fragments by computing a least general generalisation (lgg) — sometimes called the most specific generalisation — for a collection of terms. This provides a principled basis for structured learning from examples.",
     "crumbs": [
       "Workshops",
+      "Previous years",
       "Women in Logic 2025",
       "Speakers"
     ]
