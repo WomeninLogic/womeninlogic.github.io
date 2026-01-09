@@ -17,7 +17,7 @@ Topics of interest include but are not limited to: automata theory, automated de
 
 ### Submissions
 
-Abstracts should be written in English (1-2 pages), and prepared using the [EasyChair style](https://easychair.org/publications/for_authors). The abstracts should be uploaded to the [WiL 2026 EasyChair page](https://easychair.org/my/conference?conf=wil2026) as a PDF file before the submission deadline on **May 5, 2026**, anywhere on Earth.
+Abstracts should be written in English (1-2 pages), and prepared using the [EasyChair style](https://easychair.org/publications/for_authors). The abstracts should be uploaded to the [WiL 2026 FLoC page](https://submissions.floc26.org/wil/paper/new) as a PDF file before the submission deadline on **May 5, 2026**, anywhere on Earth.
 
 
 ### Grants
