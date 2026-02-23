@@ -8,7 +8,7 @@ title: "Women in Logic Online"
 with help from Andrea Hackl and the Vienna Center for Logic and Algorithms [VCLA](https://www.vcla.at/), started organizing a series of seminars ["Women in Logic ONLINE"](https://www.vcla.at/women-in-logic/).  There are seven talks in this series so far. In Jan 2026, the organization was moved to Elaine Pimentel's group.
 
 * Recorded Videos of the talks are available at the VLCA [video channel](https://www.youtube.com/playlist?list=PLdqgJshpd1aWOGdqfrloD69Ev1MSPd0Wg).
-they're also slowly added to [Recorded Talks](https://womeninlogic.org/RecordedTalks/).
+They're also  added to [Recorded Talks](https://womeninlogic.org/RecordedTalks/).
 
 * Talks are expected to happen every two months and you can be notified by subscribing to the mailing list.
 
