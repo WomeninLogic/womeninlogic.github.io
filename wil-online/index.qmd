@@ -14,6 +14,10 @@ they're also slowly added to [Recorded Talks](https://womeninlogic.org/RecordedT
 <h2> Previous Talks </h2>
 
 <ul> 
+<li> [Elaine Pimentel](https://sites.google.com/site/elainepimentel/), University College London (UCL), UK, [Classical versus Constructive: An Ecumenical Approach](),  5 Feb, 2026 </li>
+
+<li> [Nina Gierasimczuk](https://ninagierasimczuk.com/), Danish Technical University (DTU Compute), [Learning and Belief Revision: an Overview](https://www.youtube.com/live/LHbwslggM3U),  16 Sept, 2025 </li>
+
 <li> [Sara Negri](https://sites.google.com/view/saranegri/home), Università degli Studi di Genova, [Axioms as rules in intuitionistic logic](https://www.youtube.com/watch?v=9AWmizNWqTA), 23 Jun 2025 </li>
 
 
