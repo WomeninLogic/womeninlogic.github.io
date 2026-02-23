@@ -1,6 +1,8 @@
 ---
 title: "Women in Logic Online"
 ---
+<p> [Elaine Pimentel](https://profiles.ucl.ac.uk/87847-elaine-pimentel) and [Maria Osório Costa]() and [Ekaterina Piotrovskaya](),  supported by the group [Programming Principles, Logic, and Verification at UCL](https://www.ucl.ac.uk/engineering/computer-science) are NOW organizing our series of seminars
+["Women in Logic ONLINE"](https://www.vcla.at/women-in-logic/). Many thanks to them for stepping up to this!
 
 <p> [Agata Ciabattoni](https://www.logic.at/staff/agata/) and [Josephine Dik](https://josephinedik.github.io/), 
 supported by Andrea Hackl and the Vienna Center for Logic and Algorithms [VCLA](https://www.vcla.at/) are organizing a series of seminars
