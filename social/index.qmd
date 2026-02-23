@@ -10,7 +10,7 @@ We try to share the load as much as possible, thus, some of us have specific job
 
 - There is a collaborative [<i class="bi bi-pen"></i> WiL blog](https://blog.womeninlogic.org).
 - Valeria and Rineke are administrators of the Facebook group [<i class="bi bi-facebook"></i> Women in Logic](https://www.facebook.com/groups/WomenInLogic/), which has at the moment over 600 members.
-- Sara Uckelman manages the Twitter handle [<i class="bi bi-twitter"></i> @womeninlogic](https://twitter.com/womeninlogic1), which has at the moment around 700 followers.
+- Sara Uckelman manages the Twitter and Bluesky handles [<i class="bi bi-twitter"></i> @womeninlogic](https://twitter.com/womeninlogic1) and [womeninlogic](https://bsky.app/profile/womeninlogic.bsky.social).
 - Sandra Kiefer created and maintains the mailing list [<i class="bi bi-envelope-at"></i> `women-in-logic@lists.rwth-aachen.de`](https://lists.rwth-aachen.de/postorius/lists/women-in-logic.lists.rwth-aachen.de/).
 - Alexandra Silva created the Slack channel [<i class="bi bi-slack"></i> wilcrew](https://wilcrew.slack.com). To join you need to write to one of us.
 - We curate a list of [<i class="bi bi-camera-reels"></i> recordings of talks](https://womeninlogic.github.io/RecordedTalks/) by women in logic
