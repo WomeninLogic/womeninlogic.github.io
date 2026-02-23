@@ -1,12 +1,11 @@
 ---
 title: "Women in Logic Online"
 ---
-<p> [Elaine Pimentel](https://profiles.ucl.ac.uk/87847-elaine-pimentel) and [Maria Osório Costa]() and [Ekaterina Piotrovskaya](),  supported by the group [Programming Principles, Logic, and Verification at UCL](https://www.ucl.ac.uk/engineering/computer-science) are NOW organizing our series of seminars
-["Women in Logic ONLINE"](https://www.vcla.at/women-in-logic/). Many thanks to them for stepping up to this!
+<p> [Elaine Pimentel](https://profiles.ucl.ac.uk/87847-elaine-pimentel) and Maria Osório Costa and Ekaterina Piotrovskaya,  supported by the group Programming Principles, Logic, and Verification at [UCL](https://www.ucl.ac.uk/engineering/computer-science), are NOW organizing our series of seminars
+["Women in Logic ONLINE"](https://womeninlogic.org/wil-online/). Many thanks to them for stepping up to this!
 
 <p> [Agata Ciabattoni](https://www.logic.at/staff/agata/) and [Josephine Dik](https://josephinedik.github.io/), 
-supported by Andrea Hackl and the Vienna Center for Logic and Algorithms [VCLA](https://www.vcla.at/) are organizing a series of seminars
-["Women in Logic ONLINE"](https://www.vcla.at/women-in-logic/).
+with help from Andrea Hackl and the Vienna Center for Logic and Algorithms [VCLA](https://www.vcla.at/), started organizing a series of seminars ["Women in Logic ONLINE"](https://www.vcla.at/women-in-logic/).  There are seven talks in this series so far. In Jan 2026, the organization was moved to Elaine Pimentel's group.
 
 * Recorded Videos of the talks are available at the VLCA [video channel](https://www.youtube.com/playlist?list=PLdqgJshpd1aWOGdqfrloD69Ev1MSPd0Wg).
 they're also slowly added to [Recorded Talks](https://womeninlogic.org/RecordedTalks/).
