@@ -19,11 +19,11 @@ listing:
 ::: {.callout-warning #latest-news}
 ## Latest news
 
-* Next week 6th March [WiL ONLINE](https://www.ucl.ac.uk/engineering/events/2026/mar/use-and-misuse-proof-systems) with Rosalie Iemhoff
+* Next week 6th March [WiL ONLINE](https://www.ucl.ac.uk/engineering/events/2026/mar/use-and-misuse-proof-systems) with Rosalie Iemhoff. Register now!
 * The 10th Women in Logic Workshop is happening as part of FLoC 2026 in Portugal. This time, a two-day workshop. Check the [website](https://womeninlogic.org/workshops/2026/)!! The call for papers is [here](https://womeninlogic.org/workshops/2026/call-for-papers)
 * [Women in Logic ONLINE]() is now organized by Elaine Pimentel's group at UCL. 
 * Information for the first talks, organized by  the Vienna Center for Logic and Applications (VCLA), is [here](https://www.vcla.at/women-in-logic/). Many thanks to Agata Ciabattoni and Josephine Dik!
-* Women in Logic ONLINE number 6! Talk by [Nina Gierasimczuk](https://ninagierasimczuk.com/), 16 September 2025 "Learning and Belief Revision: an Overview",  [youtube](https://www.youtube.com/live/LHbwslggM3U).
+* Women in Logic ONLINE number 7! Talk by [Elaine Pimentel](https://sites.google.com/site/elainepimentel/), February 5, 2025,  "Classical versus Constructive: An Ecumenical Approach",  [youtube]().
 * The [9th Women in Logic Workshop](https://sites.google.com/view/wil2025/home) 14th July 2025 in Birmingham, UK was a big success. 
 :::
 
