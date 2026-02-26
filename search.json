@@ -1,33 +1,5 @@
 [
   {
-    "objectID": "wil-online/index.html",
-    "href": "wil-online/index.html",
-    "title": "Women in Logic Online",
-    "section": "",
-    "text": "Elaine Pimentel and Maria Osório Costa and Ekaterina Piotrovskaya, supported by the group Programming Principles, Logic, and Verification at UCL, are NOW organizing our series of seminars “Women in Logic ONLINE”. Many thanks to them for stepping up to this!\n\nAgata Ciabattoni and Josephine Dik, with help from Andrea Hackl and the Vienna Center for Logic and Algorithms VCLA, started organizing a series of seminars “Women in Logic ONLINE”. There are seven talks in this series so far. In Jan 2026, the organization was moved to Elaine Pimentel’s group.\n\nRecorded Videos of the talks are available at the VLCA video channel. They’re also added to Recorded Talks.\nTalks are expected to happen every two months and you can be notified by subscribing to the mailing list.\n\n\nPrevious Talks\n\n\n\nElaine Pimentel, University College London (UCL), UK, Classical versus Constructive: An Ecumenical Approach, 5 Feb, 2026\n\n\nNina Gierasimczuk, Danish Technical University (DTU Compute), Learning and Belief Revision: an Overview, 16 Sept, 2025\n\n\nSara Negri, Università degli Studi di Genova, Axioms as rules in intuitionistic logic, 23 Jun 2025\n\n\nSonja Smets, Institute for Logic, Language and Computation, University of Amsterdam, Logic and Computation of Social Behavior, 19 Mar 2025\n\n\nFrancesca Poggiolesi, CNRS, Explanatory Proofs: From Logic to Mathematics, 24 Jan 2025\n\n\nLaura Kovacs, TU - Wien, Automating Game Reasoning in Blockchain Security, 25 Nov 2024\n\n\nValeria de Paiva, Topos Institute, Network Mathematics, 20 March 2024"
-  },
-  {
-    "objectID": "data/index.html",
-    "href": "data/index.html",
-    "title": "Helpful Data",
-    "section": "",
-    "text": "Note\n\n\n\nWe are in the process of gathering more data to include here.\nA big thank you to our friends who have helped put this data together! Especially:\nAlso thanks to all organizers and PC members of the WiL workshops! A special thank you to Prof Ursula Martin for the networking dinner at Wadham College, Oxford, 2018."
-  },
-  {
-    "objectID": "data/index.html#open-directories",
-    "href": "data/index.html#open-directories",
-    "title": "Helpful Data",
-    "section": "Open directories",
-    "text": "Open directories\n\n Women in Logic\n Women in Category Theory\n Women in Programming Languages Research"
-  },
-  {
-    "objectID": "data/index.html#data-on-gender-representation-in-conferences",
-    "href": "data/index.html#data-on-gender-representation-in-conferences",
-    "title": "Helpful Data",
-    "section": "Data on gender representation in conferences",
-    "text": "Data on gender representation in conferences\n\n Invited speakers at Computational Logic conferences (Google spreadsheet)\n\nWe have collected data on the four main conference series of the Association for Symbolic Logic (ASL), as laid out in these blog posts:\n\n ASL Annual meeting and gender balance: 1989–2016\n ASL Logic colloquium and gender balance: 1993–2016\n AMS/ASL Meetings and gender balance: 1995–2016\n APA/ASL Meetings and gender balance: 1998–2016\n\nWe have also narrowed the data down to a period of time before and then after the publication of the 2012 ASL statement on women in logic.\n\n\n\n\n\n\nAnnual meetings\n\n\n\nMen\nWomen\n\n\n\n\n2009–2012\n29\n7\n\n\n2013–2016\n23\n8\n\n\n\n\n\n\nLogic colloquium\n\n\n\nMen\nWomen\n\n\n\n\n2009–2012\n57\n9\n\n\n2013–2016\n43\n9\n\n\n\n\n\n\n\n\nAMS/ASL\n\n\n\nMen\nWomen\n\n\n\n\n2010–2012\n17\n4\n\n\n2014–2016\n14\n6\n\n\n\n\n\n\nAPA/ASL\n\n\n\nMen\nWomen\n\n\n\n\n2010–2012\n21\n1\n\n\n2014–2016\n19\n3\n\n\n\n\n\n\n\nTable 1: Breakdown of invited speakers to the four main conference series before and after the 2012 ASL statement on women in logic. From “ASL Statement on Women in Logic”.\n\n\n\n\n\n\n\n\n\nAnnual meetings\n\n\n\nMen\nWomen\n\n\n\n\n1 talk\n127\n18\n\n\n2 talks\n38\n6\n\n\n3 talks\n10\n0\n\n\n4 talks\n0\n0\n\n\n5 talks\n1\n0\n\n\n\n\n\n\nLogic colloquium\n\n\n\nMen\nWomen\n\n\n\n\n1 talk\n213\n20\n\n\n2 talks\n48\n7\n\n\n3 talks\n25\n2\n\n\n4 talks\n3\n0\n\n\n5 talks\n1\n0\n\n\n\n\n\n\n\n\nAMS/ASL\n\n\n\nMen\nWomen\n\n\n\n\n1 talk\n93\n20\n\n\n2 talks\n22\n2\n\n\n3 talks\n2\n0\n\n\n4 talks\n0\n0\n\n\n\n\n\n\nAPA/ASL\n\n\n\nMen\nWomen\n\n\n\n\n1 talk\n63\n6\n\n\n2 talks\n12\n3\n\n\n3 talks\n5\n0\n\n\n4 talks\n2\n0\n\n\n\n\n\n\n\nTable 2: Number of talks given by a single speaker in the four main conference series before and after the 2012 ASL statement on women in logic. From “Repeat Invitations in ASL Conference Series”."
-  },
-  {
     "objectID": "workshops/2025/call-for-papers/index.html",
     "href": "workshops/2025/call-for-papers/index.html",
     "title": "Call for papers",
@@ -54,6 +26,19 @@
     ]
   },
   {
+    "objectID": "workshops/2025/program/index.html",
+    "href": "workshops/2025/program/index.html",
+    "title": "Program",
+    "section": "",
+    "text": "All abstracts can be found in the Book of abstracts\n\n\n\n\n\n\n\n\nEvent\n\n\n\n\n8:00\nRegistration\n\n\n8:55\nKickoff\n\n\n9:00\nGrowing a Modular Framewok for Modal Systems: HOLMSAntonella Bilotta, Marco Maggesi, Cosimo Perini Brogi\n\n\n9:25\nShort: A Rough Set Semantics for 4-valued Logic of Double Stone AlgebrasNeha Gaur\n\n\n9:40\nFuzzy Logic in Ethical AIZiba Assadi, Paola Inverardi\n\n\n10:05\nBreak\n\n\n10:30\nA Defense of modus ponens as a Valid Rule of ReasoningXue Ge\n\n\n10:55\nA Dynamic Logic Model of Successful Speech ActsYan Xu, Xue Ge, Sara Uckelman\n\n\n11:20\nBase-extension Semantics for Classical LogicEkaterina Piotrovskaya\n\n\n11:45\nAutomata and Logics over Nested DataAdriana Baldacchino\n\n\n12:10\nFormally Verified Verifiable Group GeneratorsMina Artunis Cyrus\n\n\n12:35\nLunch\n\n\n14:00\nLearning from Examples and Counterexamples using Nominal LogicDaniele Nantes-Sobrinho\n\n\n15:00\nTeaching logic as teaching to read and writeMilena Dassie Wilke\n\n\n15:30\nBreak\n\n\n16:00\nVerifying Progress in Cyclic Reasoning (and in Research)Liron Cohen\n\n\n17:00\nDiscussion\n\n\n18:00\nBreak\n\n\n19:00\nParty",
+    "crumbs": [
+      "Workshops",
+      "Previous years",
+      "Women in Logic 2025",
+      "Program"
+    ]
+  },
+  {
     "objectID": "workshops/2025/index.html",
     "href": "workshops/2025/index.html",
     "title": "Women in Logic 2025",
@@ -63,6 +48,42 @@
       "Workshops",
       "Previous years",
       "Women in Logic 2025"
+    ]
+  },
+  {
+    "objectID": "workshops/2026/photos/index.html",
+    "href": "workshops/2026/photos/index.html",
+    "title": "Photos",
+    "section": "",
+    "text": "Photos will be uploaded here when available",
+    "crumbs": [
+      "Workshops",
+      "Women in Logic 2026",
+      "Photos"
+    ]
+  },
+  {
+    "objectID": "workshops/2026/speakers/index.html",
+    "href": "workshops/2026/speakers/index.html",
+    "title": "Speakers",
+    "section": "",
+    "text": "Valeria de Paiva (Topos Institute)\n\n\n\n\n\nValeria de Paiva\nTitle TBA\nAbstract TBA\n\n\n\n\n\n\n\n\n\n\nRaheleh Jalali (University of Bath)\n\n\n\n\n\nRaheleh Jalali\nTitle TBA\nAbstract TBA",
+    "crumbs": [
+      "Workshops",
+      "Women in Logic 2026",
+      "Speakers"
+    ]
+  },
+  {
+    "objectID": "workshops/2026/committees/index.html",
+    "href": "workshops/2026/committees/index.html",
+    "title": "Committees",
+    "section": "",
+    "text": "Program Committee\n\nSandra Alves (Porto University)\nHuimin Dong (Co-chair, TU Wien)\nAmy Felty (University of Ottawa)\nNina Gierasimczuk (Technical University of Denmark)\nLourdes Del Carmen González Huesca (Universidad Nacional Autónoma de México)\nDelia Kesner (Université Paris Cité)\nFenrong Liu (Tsinghua University)\nAnela Lolic (Co-chair, TU Wien)\nReka Markovich (University of Luxembourg)\nDaniele Nantes-Sobrinho (UNB, Brazil)\nAybüke Özgün (University of Amsterdam)\nAnja Petkovic Komel (Argot Collective)\nElaine Pimentel (Co-chair, UCL)\nTephilla Prince (IIT Dharwad)\nSara Uckelman (Durhan University)\n\n\n\nOrganising Committee\n\n\n\n\n\n\nHuimin Dong\n\n\n\n\n\n\n\nAnela Lolic\n\n\n\n\n\n\n\nElaine Pimentel\n\n\n\n\n\n\n\nSteering Committee\n\nValeria de Paiva\nAmy Felty\nAlexandra Silva\nBrigitte Pientka\nSandra Alves\nAgata Ciabattoni\nSonja Smets\nSandra Kiefer\nSara L. Uckelman",
+    "crumbs": [
+      "Workshops",
+      "Women in Logic 2026",
+      "Committees"
     ]
   },
   {
@@ -76,46 +97,18 @@
     ]
   },
   {
-    "objectID": "workshops/2026/call-for-papers/index.html",
-    "href": "workshops/2026/call-for-papers/index.html",
-    "title": "Call for papers",
+    "objectID": "wil-online/index.html",
+    "href": "wil-online/index.html",
+    "title": "Women in Logic Online",
     "section": "",
-    "text": "Topics of interest include but are not limited to: automata theory, automated deduction, categorical models and logics, concurrency and distributed computation, constraint programming, constructive mathematics, database theory, decision procedures, description logics, domain theory, finite model theory, formal aspects of program analysis, formal methods, foundations of computability, games and logic, higher-order logic, lambda and combinatory calculi, linear logic, logic in artificial intelligence, logic programming, logical aspects of bioinformatics, logical aspects of computational complexity, logical aspects of quantum computation, logical frameworks, logics of programs, modal and temporal logics, model checking, probabilistic systems, process calculi, programming language semantics, proof theory, real-time systems, reasoning about security and privacy, rewriting, type systems and type theory, and verification.\n\nImportant dates\n\nAbstract submission deadline: May 5, 2026\nNotification: May 15, 2026\nEarly registration: TBA\nContribution for Informal Proceedings: June 25, 2026\nWorkshop: 24-25 July 2026\n\n\n\nSubmissions\nAbstracts should be written in English (1-2 pages), and prepared using the EasyChair style. The abstracts should be uploaded to the WiL 2026 FLoC page as a PDF file before the submission deadline on May 5, 2026, anywhere on Earth.\n\n\nGrants\nA limited number of travel grants is available for students/young researchers who would not otherwise have resources to attend WiL, and whose attendance would benefit both the applicant and the event. We expect to be able to help with registration/local/travel expenses. Applicants should note that grants are limited, and that costs in excess of the grant will not be reimbursed.\nGrants will be awarded to (co-)authors of accepted papers, based on the grant committee’s assessment of the applicant’s genuine financial need, the potential benefit to the applicant’s education and research, and the potential benefit to WiL.\nApplications should be sent by May 17, 2026 via this form. The award notification date is May 19, 2026.\nThe grants will be presented at the conferences; in case a grantee does not attend, the chairs may transfer the grant to another student or give no award.\nThe grants are kindly offered by ACM SIGLOG, Jane Street, VeTSS, Microsoft and Topos Institute.",
-    "crumbs": [
-      "Workshops",
-      "Women in Logic 2026",
-      "Call for papers"
-    ]
-  },
-  {
-    "objectID": "workshops/2026/venue/index.html",
-    "href": "workshops/2026/venue/index.html",
-    "title": "Venue",
-    "section": "",
-    "text": "Women in Logic 2026 will take place in Lisbon. More information coming soon.",
-    "crumbs": [
-      "Workshops",
-      "Women in Logic 2026",
-      "Venue"
-    ]
-  },
-  {
-    "objectID": "workshops/2026/index.html",
-    "href": "workshops/2026/index.html",
-    "title": "Women in Logic 2026",
-    "section": "",
-    "text": "Women in Logic 2026 is a satellite event of FLOC’26: the 9th Federated Logic Conference to be held in Lisbon, Portugal, from July 13 to July 29, 2026.\n\n\n\n\nThe Women in Logic workshop (WiL) provides an opportunity to increase awareness of the valuable contributions made by women in the area of logic in computer science. Its main purpose is to promote the excellent research done by women, with the ultimate goal of increasing their visibility and representation in the community.\nOur aim is to:\n\nprovide a platform for women researchers to share their work and achievements;\nincrease the feelings of community and belonging, especially among junior faculty, post-docs and students through positive interactions with peers and more established faculty;\nestablish new connections and collaborations;\nfoster a welcoming culture of mutual support and growth within the logic research community.\n\nWe believe these aspects will benefit women working in logic and computer science, particularly early-career researchers.\nContact email: e.pimentel@ucl.ac.uk\n\nSpeakers\n\n\n\n \n\n\n\n\n\nValeria de Paiva (Topos Institute)\n\n\n\n\n \n\n\n\n\n\nRaheleh Jalali (University of Bath)\n\n\n\n\n \n\n\n\n\n\nSponsors and partners",
-    "crumbs": [
-      "Workshops",
-      "Women in Logic 2026"
-    ]
+    "text": "Elaine Pimentel and Maria Osório Costa and Ekaterina Piotrovskaya, supported by the group Programming Principles, Logic, and Verification at UCL, are NOW organizing our series of seminars “Women in Logic ONLINE”. Many thanks to them for stepping up to this!\n\nAgata Ciabattoni and Josephine Dik, with help from Andrea Hackl and the Vienna Center for Logic and Algorithms VCLA, started organizing a series of seminars “Women in Logic ONLINE”. There are seven talks in this series so far. In Jan 2026, the organization was moved to Elaine Pimentel’s group.\n\nRecorded Videos of the talks are available at the VLCA video channel. They’re also added to Recorded Talks.\nTalks are expected to happen every two months and you can be notified by subscribing to the mailing list.\n\n\nPrevious Talks\n\n\n\nElaine Pimentel, University College London (UCL), UK, Classical versus Constructive: An Ecumenical Approach, 5 Feb, 2026\n\n\nNina Gierasimczuk, Danish Technical University (DTU Compute), Learning and Belief Revision: an Overview, 16 Sept, 2025\n\n\nSara Negri, Università degli Studi di Genova, Axioms as rules in intuitionistic logic, 23 Jun 2025\n\n\nSonja Smets, Institute for Logic, Language and Computation, University of Amsterdam, Logic and Computation of Social Behavior, 19 Mar 2025\n\n\nFrancesca Poggiolesi, CNRS, Explanatory Proofs: From Logic to Mathematics, 24 Jan 2025\n\n\nLaura Kovacs, TU - Wien, Automating Game Reasoning in Blockchain Security, 25 Nov 2024\n\n\nValeria de Paiva, Topos Institute, Network Mathematics, 20 March 2024"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Women in Logic",
     "section": "",
-    "text": "WarningLatest news\n\n\n\n\nThe 10th Women in Logic Workshop is happening as part of FLoC 2026 in Portugal. This time, a two-day workshop. Check the website!! The call for papers is here\n[Women in Logic ONLINE] is now organized by Elaine Pimentel’s group at UCL. Information for the first talks, organized by the Vienna Center for Logic and Applications (VCLA), is here. Many thanks to Agata Ciabattoni and Josephine Dik!\nWomen in Logic ONLINE number 6! Talk by Nina Gierasimczuk, 16 September 2025 “Learning and Belief Revision: an Overview”, youtube.\nThe 9th Women in Logic Workshop 14th July 2025 in Birmingham, UK was a big success."
+    "text": "WarningLatest news\n\n\n\n\nNext week 6th March WiL ONLINE with Rosalie Iemhoff\nThe 10th Women in Logic Workshop is happening as part of FLoC 2026 in Portugal. This time, a two-day workshop. Check the website!! The call for papers is here\nWomen in Logic ONLINE is now organized by Elaine Pimentel’s group at UCL.\nInformation for the first talks, organized by the Vienna Center for Logic and Applications (VCLA), is here. Many thanks to Agata Ciabattoni and Josephine Dik!\nWomen in Logic ONLINE number 6! Talk by Nina Gierasimczuk, 16 September 2025 “Learning and Belief Revision: an Overview”, youtube.\nThe 9th Women in Logic Workshop 14th July 2025 in Birmingham, UK was a big success."
   },
   {
     "objectID": "index.html#about-us",
@@ -139,6 +132,45 @@
     "text": "Supporters\n\n\n\n\n\n\nSpecial Interest Group of the ACM for Logic\n\n\n\n\n\n\n\nVienna Center for Logic and Algorithms\n\n\n\n\n\n\n\nInstitute of Logic, Language and Computation of the University of Amsterdam\n\n\n\n\n\n\n\nTopos Institute\n\n\n\n\n\nWe also thank Tim Hosgood for technical help."
   },
   {
+    "objectID": "social/index.html",
+    "href": "social/index.html",
+    "title": "Social",
+    "section": "",
+    "text": "To get in touch directly, email us at  contact@womeninlogic.org.\nWiL is a collective, meaning we do not have a hierarchical organization. We have a Steering Committee which decides on organizers for the Workshops. We try to share the load as much as possible, thus, some of us have specific jobs in different social media channels.\n\nThere is a collaborative  WiL blog.\nValeria and Rineke are administrators of the Facebook group  Women in Logic, which has at the moment over 600 members.\nSara Uckelman manages the Twitter and Bluesky handles  @womeninlogic and womeninlogic.\nSandra Kiefer created and maintains the mailing list  women-in-logic@lists.rwth-aachen.de.\nAlexandra Silva created the Slack channel  wilcrew. To join you need to write to one of us.\nWe curate a list of  recordings of talks by women in logic"
+  },
+  {
+    "objectID": "data/index.html",
+    "href": "data/index.html",
+    "title": "Helpful Data",
+    "section": "",
+    "text": "Note\n\n\n\nWe are in the process of gathering more data to include here.\nA big thank you to our friends who have helped put this data together! Especially:\nAlso thanks to all organizers and PC members of the WiL workshops! A special thank you to Prof Ursula Martin for the networking dinner at Wadham College, Oxford, 2018."
+  },
+  {
+    "objectID": "data/index.html#open-directories",
+    "href": "data/index.html#open-directories",
+    "title": "Helpful Data",
+    "section": "Open directories",
+    "text": "Open directories\n\n Women in Logic\n Women in Category Theory\n Women in Programming Languages Research"
+  },
+  {
+    "objectID": "data/index.html#data-on-gender-representation-in-conferences",
+    "href": "data/index.html#data-on-gender-representation-in-conferences",
+    "title": "Helpful Data",
+    "section": "Data on gender representation in conferences",
+    "text": "Data on gender representation in conferences\n\n Invited speakers at Computational Logic conferences (Google spreadsheet)\n\nWe have collected data on the four main conference series of the Association for Symbolic Logic (ASL), as laid out in these blog posts:\n\n ASL Annual meeting and gender balance: 1989–2016\n ASL Logic colloquium and gender balance: 1993–2016\n AMS/ASL Meetings and gender balance: 1995–2016\n APA/ASL Meetings and gender balance: 1998–2016\n\nWe have also narrowed the data down to a period of time before and then after the publication of the 2012 ASL statement on women in logic.\n\n\n\n\n\n\nAnnual meetings\n\n\n\nMen\nWomen\n\n\n\n\n2009–2012\n29\n7\n\n\n2013–2016\n23\n8\n\n\n\n\n\n\nLogic colloquium\n\n\n\nMen\nWomen\n\n\n\n\n2009–2012\n57\n9\n\n\n2013–2016\n43\n9\n\n\n\n\n\n\n\n\nAMS/ASL\n\n\n\nMen\nWomen\n\n\n\n\n2010–2012\n17\n4\n\n\n2014–2016\n14\n6\n\n\n\n\n\n\nAPA/ASL\n\n\n\nMen\nWomen\n\n\n\n\n2010–2012\n21\n1\n\n\n2014–2016\n19\n3\n\n\n\n\n\n\n\nTable 1: Breakdown of invited speakers to the four main conference series before and after the 2012 ASL statement on women in logic. From “ASL Statement on Women in Logic”.\n\n\n\n\n\n\n\n\n\nAnnual meetings\n\n\n\nMen\nWomen\n\n\n\n\n1 talk\n127\n18\n\n\n2 talks\n38\n6\n\n\n3 talks\n10\n0\n\n\n4 talks\n0\n0\n\n\n5 talks\n1\n0\n\n\n\n\n\n\nLogic colloquium\n\n\n\nMen\nWomen\n\n\n\n\n1 talk\n213\n20\n\n\n2 talks\n48\n7\n\n\n3 talks\n25\n2\n\n\n4 talks\n3\n0\n\n\n5 talks\n1\n0\n\n\n\n\n\n\n\n\nAMS/ASL\n\n\n\nMen\nWomen\n\n\n\n\n1 talk\n93\n20\n\n\n2 talks\n22\n2\n\n\n3 talks\n2\n0\n\n\n4 talks\n0\n0\n\n\n\n\n\n\nAPA/ASL\n\n\n\nMen\nWomen\n\n\n\n\n1 talk\n63\n6\n\n\n2 talks\n12\n3\n\n\n3 talks\n5\n0\n\n\n4 talks\n2\n0\n\n\n\n\n\n\n\nTable 2: Number of talks given by a single speaker in the four main conference series before and after the 2012 ASL statement on women in logic. From “Repeat Invitations in ASL Conference Series”."
+  },
+  {
+    "objectID": "workshops/2026/index.html",
+    "href": "workshops/2026/index.html",
+    "title": "Women in Logic 2026",
+    "section": "",
+    "text": "Women in Logic 2026 is a satellite event of FLOC’26: the 9th Federated Logic Conference to be held in Lisbon, Portugal, from July 13 to July 29, 2026.\n\n\n\n\nThe Women in Logic workshop (WiL) provides an opportunity to increase awareness of the valuable contributions made by women in the area of logic in computer science. Its main purpose is to promote the excellent research done by women, with the ultimate goal of increasing their visibility and representation in the community.\nOur aim is to:\n\nprovide a platform for women researchers to share their work and achievements;\nincrease the feelings of community and belonging, especially among junior faculty, post-docs and students through positive interactions with peers and more established faculty;\nestablish new connections and collaborations;\nfoster a welcoming culture of mutual support and growth within the logic research community.\n\nWe believe these aspects will benefit women working in logic and computer science, particularly early-career researchers.\nContact email: e.pimentel@ucl.ac.uk\n\nSpeakers\n\n\n\n \n\n\n\n\n\nValeria de Paiva (Topos Institute)\n\n\n\n\n \n\n\n\n\n\nRaheleh Jalali (University of Bath)\n\n\n\n\n \n\n\n\n\n\nSponsors and partners",
+    "crumbs": [
+      "Workshops",
+      "Women in Logic 2026"
+    ]
+  },
+  {
     "objectID": "workshops/2026/program/index.html",
     "href": "workshops/2026/program/index.html",
     "title": "Program",
@@ -151,65 +183,27 @@
     ]
   },
   {
-    "objectID": "workshops/2026/photos/index.html",
-    "href": "workshops/2026/photos/index.html",
-    "title": "Photos",
+    "objectID": "workshops/2026/venue/index.html",
+    "href": "workshops/2026/venue/index.html",
+    "title": "Venue",
     "section": "",
-    "text": "Photos will be uploaded here when available",
+    "text": "Women in Logic 2026 will take place in Lisbon. More information coming soon.",
     "crumbs": [
       "Workshops",
       "Women in Logic 2026",
-      "Photos"
+      "Venue"
     ]
   },
   {
-    "objectID": "workshops/2026/committees/index.html",
-    "href": "workshops/2026/committees/index.html",
-    "title": "Committees",
+    "objectID": "workshops/2026/call-for-papers/index.html",
+    "href": "workshops/2026/call-for-papers/index.html",
+    "title": "Call for papers",
     "section": "",
-    "text": "Program Committee\n\nSandra Alves (Porto University)\nHuimin Dong (Co-chair, TU Wien)\nAmy Felty (University of Ottawa)\nNina Gierasimczuk (Technical University of Denmark)\nLourdes Del Carmen González Huesca (Universidad Nacional Autónoma de México)\nDelia Kesner (Université Paris Cité)\nFenrong Liu (Tsinghua University)\nAnela Lolic (Co-chair, TU Wien)\nReka Markovich (University of Luxembourg)\nDaniele Nantes-Sobrinho (UNB, Brazil)\nAybüke Özgün (University of Amsterdam)\nAnja Petkovic Komel (Argot Collective)\nElaine Pimentel (Co-chair, UCL)\nTephilla Prince (IIT Dharwad)\nSara Uckelman (Durhan University)\n\n\n\nOrganising Committee\n\n\n\n\n\n\nHuimin Dong\n\n\n\n\n\n\n\nAnela Lolic\n\n\n\n\n\n\n\nElaine Pimentel\n\n\n\n\n\n\n\nSteering Committee\n\nValeria de Paiva\nAmy Felty\nAlexandra Silva\nBrigitte Pientka\nSandra Alves\nAgata Ciabattoni\nSonja Smets\nSandra Kiefer\nSara L. Uckelman",
+    "text": "Topics of interest include but are not limited to: automata theory, automated deduction, categorical models and logics, concurrency and distributed computation, constraint programming, constructive mathematics, database theory, decision procedures, description logics, domain theory, finite model theory, formal aspects of program analysis, formal methods, foundations of computability, games and logic, higher-order logic, lambda and combinatory calculi, linear logic, logic in artificial intelligence, logic programming, logical aspects of bioinformatics, logical aspects of computational complexity, logical aspects of quantum computation, logical frameworks, logics of programs, modal and temporal logics, model checking, probabilistic systems, process calculi, programming language semantics, proof theory, real-time systems, reasoning about security and privacy, rewriting, type systems and type theory, and verification.\n\nImportant dates\n\nAbstract submission deadline: May 5, 2026\nNotification: May 15, 2026\nEarly registration: TBA\nContribution for Informal Proceedings: June 25, 2026\nWorkshop: 24-25 July 2026\n\n\n\nSubmissions\nAbstracts should be written in English (1-2 pages), and prepared using the EasyChair style. The abstracts should be uploaded to the WiL 2026 FLoC page as a PDF file before the submission deadline on May 5, 2026, anywhere on Earth.\n\n\nGrants\nA limited number of travel grants is available for students/young researchers who would not otherwise have resources to attend WiL, and whose attendance would benefit both the applicant and the event. We expect to be able to help with registration/local/travel expenses. Applicants should note that grants are limited, and that costs in excess of the grant will not be reimbursed.\nGrants will be awarded to (co-)authors of accepted papers, based on the grant committee’s assessment of the applicant’s genuine financial need, the potential benefit to the applicant’s education and research, and the potential benefit to WiL.\nApplications should be sent by May 17, 2026 via this form. The award notification date is May 19, 2026.\nThe grants will be presented at the conferences; in case a grantee does not attend, the chairs may transfer the grant to another student or give no award.\nThe grants are kindly offered by ACM SIGLOG, Jane Street, VeTSS, Microsoft and Topos Institute.",
     "crumbs": [
       "Workshops",
       "Women in Logic 2026",
-      "Committees"
-    ]
-  },
-  {
-    "objectID": "workshops/2026/speakers/index.html",
-    "href": "workshops/2026/speakers/index.html",
-    "title": "Speakers",
-    "section": "",
-    "text": "Valeria de Paiva (Topos Institute)\n\n\n\n\n\nValeria de Paiva\nTitle TBA\nAbstract TBA\n\n\n\n\n\n\n\n\n\n\nRaheleh Jalali (University of Bath)\n\n\n\n\n\nRaheleh Jalali\nTitle TBA\nAbstract TBA",
-    "crumbs": [
-      "Workshops",
-      "Women in Logic 2026",
-      "Speakers"
-    ]
-  },
-  {
-    "objectID": "workshops/2025/program/index.html",
-    "href": "workshops/2025/program/index.html",
-    "title": "Program",
-    "section": "",
-    "text": "All abstracts can be found in the Book of abstracts\n\n\n\n\n\n\n\n\nEvent\n\n\n\n\n8:00\nRegistration\n\n\n8:55\nKickoff\n\n\n9:00\nGrowing a Modular Framewok for Modal Systems: HOLMSAntonella Bilotta, Marco Maggesi, Cosimo Perini Brogi\n\n\n9:25\nShort: A Rough Set Semantics for 4-valued Logic of Double Stone AlgebrasNeha Gaur\n\n\n9:40\nFuzzy Logic in Ethical AIZiba Assadi, Paola Inverardi\n\n\n10:05\nBreak\n\n\n10:30\nA Defense of modus ponens as a Valid Rule of ReasoningXue Ge\n\n\n10:55\nA Dynamic Logic Model of Successful Speech ActsYan Xu, Xue Ge, Sara Uckelman\n\n\n11:20\nBase-extension Semantics for Classical LogicEkaterina Piotrovskaya\n\n\n11:45\nAutomata and Logics over Nested DataAdriana Baldacchino\n\n\n12:10\nFormally Verified Verifiable Group GeneratorsMina Artunis Cyrus\n\n\n12:35\nLunch\n\n\n14:00\nLearning from Examples and Counterexamples using Nominal LogicDaniele Nantes-Sobrinho\n\n\n15:00\nTeaching logic as teaching to read and writeMilena Dassie Wilke\n\n\n15:30\nBreak\n\n\n16:00\nVerifying Progress in Cyclic Reasoning (and in Research)Liron Cohen\n\n\n17:00\nDiscussion\n\n\n18:00\nBreak\n\n\n19:00\nParty",
-    "crumbs": [
-      "Workshops",
-      "Previous years",
-      "Women in Logic 2025",
-      "Program"
-    ]
-  },
-  {
-    "objectID": "workshops/2025/photos/index.html",
-    "href": "workshops/2025/photos/index.html",
-    "title": "Photos",
-    "section": "",
-    "text": "The family of researchers at WiL’25\n\n\n\n\n\nLiron Cohen’s invited talk on Verifying Progress in Cyclic Reasoning (and in Research)\n\n\n\n\n\nDaniele Nantes’ invited talk on Learning from Examples and Counterexamples in Nominal Logic",
-    "crumbs": [
-      "Workshops",
-      "Previous years",
-      "Women in Logic 2025",
-      "Photos"
+      "Call for papers"
     ]
   },
   {
@@ -239,10 +233,16 @@
     ]
   },
   {
-    "objectID": "social/index.html",
-    "href": "social/index.html",
-    "title": "Social",
+    "objectID": "workshops/2025/photos/index.html",
+    "href": "workshops/2025/photos/index.html",
+    "title": "Photos",
     "section": "",
-    "text": "To get in touch directly, email us at  contact@womeninlogic.org.\nWiL is a collective, meaning we do not have a hierarchical organization. We have a Steering Committee which decides on organizers for the Workshops. We try to share the load as much as possible, thus, some of us have specific jobs in different social media channels.\n\nThere is a collaborative  WiL blog.\nValeria and Rineke are administrators of the Facebook group  Women in Logic, which has at the moment over 600 members.\nSara Uckelman manages the Twitter and Bluesky handles  @womeninlogic and womeninlogic.\nSandra Kiefer created and maintains the mailing list  women-in-logic@lists.rwth-aachen.de.\nAlexandra Silva created the Slack channel  wilcrew. To join you need to write to one of us.\nWe curate a list of  recordings of talks by women in logic"
+    "text": "The family of researchers at WiL’25\n\n\n\n\n\nLiron Cohen’s invited talk on Verifying Progress in Cyclic Reasoning (and in Research)\n\n\n\n\n\nDaniele Nantes’ invited talk on Learning from Examples and Counterexamples in Nominal Logic",
+    "crumbs": [
+      "Workshops",
+      "Previous years",
+      "Women in Logic 2025",
+      "Photos"
+    ]
   }
 ]
