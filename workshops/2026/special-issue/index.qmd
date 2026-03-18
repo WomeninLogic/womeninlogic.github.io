@@ -65,9 +65,9 @@ We warmly encourage submissions from researchers across all areas of logic, refl
 
 ### Guest Editors
 
-- Huimin Dong
-- Anela Lolic
-- Elaine Pimentel
+- Huimin Dong (TU Wien)
+- Anela Lolic (TU Wien)
+- Elaine Pimentel (UCL)
 
 
 For any enquiries regarding suitability or submission, please feel free to contact the guest editors.
