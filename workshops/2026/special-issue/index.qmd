@@ -1,6 +1,6 @@
 ---
-title: "JLC Special Issue – 10 Years of the Women in Logic Workshop"
-subtitle: "15 August 2026 (AoE)"
+title: "Special Issue"
+subtitle: "JLC Special Issue – 10 Years of the Women in Logic Workshop"
 ---
 
 We are pleased to invite submissions to the Journal of Logic and Computation Special Issue on 10 Years of the Women in Logic Workshop.
