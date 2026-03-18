@@ -3,7 +3,7 @@ title: "Special Issue"
 subtitle: "JLC Special Issue – 10 Years of the Women in Logic Workshop"
 ---
 
-We are pleased to invite submissions to the Journal of Logic and Computation Special Issue on 10 Years of the Women in Logic Workshop.
+We are pleased to invite submissions to the [Journal of Logic and Computation](https://academic.oup.com/logcom) Special Issue on 10 Years of the Women in Logic Workshop.
 
 This special issue celebrates the 10th anniversary of the Women in Logic Workshop and aims to highlight a decade of contributions by women to the development of logic and its applications. It will showcase both established and emerging voices in the community, marking an important milestone in ongoing efforts to increase visibility, representation, and opportunities for women in logic.
 
