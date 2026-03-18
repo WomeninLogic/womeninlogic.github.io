@@ -13,7 +13,7 @@ and aims to highlight a decade of contributions by women to the development of l
 
 We warmly encourage submissions from researchers across all areas of logic, reflecting the breadth, diversity, and continued growth of this vibrant community.
 
-### Submissions
+### Submission
 
 - Submissions should be written in English (maximum 25 pages including references and appendices) and prepared using the template available here: [Template Download](https://liveuclac-my.sharepoint.com/:u:/g/personal/ucacepi_ucl_ac_uk/IQD_SoT64LQ5R6IBR2wl4etYAff9QV-Oc52MLzl_IBh713k?e=gSKZsH) 
 - The first author must be a female researcher or a researcher identifying as female.
@@ -23,7 +23,7 @@ We warmly encourage submissions from researchers across all areas of logic, refl
 - Topics of interest include but are not limited to: Automata theory, automated deduction, categorical models and logics, concurrency and distributed computation, constraint programming, constructive mathematics, database theory, decision procedures, description logics, domain theory, finite model theory, formal aspects of program analysis, formal methods, foundations of computability, games and logic, higher-order logic, lambda and combinatory calculi, linear logic, logic in artificial intelligence, logic programming, logical aspects of bioinformatics, logical aspects of computational complexity, logical aspects of quantum computation, logical frameworks, logics of programs, modal and temporal logics, model checking, probabilistic systems, process calculi, programming language semantics, proof theory, real-time systems, reasoning about security and privacy, rewriting, type systems and type theory, and verification.
 
 
-### Important Dates
+### Important Date
 
 - Submission deadline: 15 August 2026 (AoE)
 
