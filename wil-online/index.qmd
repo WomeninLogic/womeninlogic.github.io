@@ -15,7 +15,7 @@ They're also  added to [Recorded Talks](https://womeninlogic.org/RecordedTalks/)
 <h2> Previous Talks </h2>
 
 <ul> 
-<li> [Elaine Pimentel](https://sites.google.com/site/elainepimentel/), University College London (UCL), UK, [Classical versus Constructive: An Ecumenical Approach](),  5 Feb, 2026 </li>
+<li> [Elaine Pimentel](https://sites.google.com/site/elainepimentel/), University College London (UCL), UK, [Classical versus Constructive: An Ecumenical Approach](https://www.youtube.com/watch?v=tp9zHk-ktNo),  5 Feb, 2026 </li>
 
 <li> [Nina Gierasimczuk](https://ninagierasimczuk.com/), Danish Technical University (DTU Compute), [Learning and Belief Revision: an Overview](https://www.youtube.com/live/LHbwslggM3U),  16 Sept, 2025 </li>
 
