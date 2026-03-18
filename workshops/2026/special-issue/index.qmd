@@ -53,7 +53,8 @@ We warmly encourage submissions from researchers across all areas of logic, refl
 - Proof theory
 - Real-time systems
 - Reasoning about security and privacy
-- Rewriting, type systems and type theory
+- Rewriting
+- Type systems and type theory
 - Verification
 
 
