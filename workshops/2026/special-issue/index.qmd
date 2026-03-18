@@ -5,11 +5,7 @@ subtitle: "JLC Special Issue – 10 Years of the Women in Logic Workshop"
 
 We are pleased to invite submissions to the Journal of Logic and Computation Special Issue on 10 Years of the Women in Logic Workshop.
 
-This special issue celebrates the 10th anniversary of the Women in Logic Workshop
-
-https://womeninlogic.org/workshops/2026/
-
-and aims to highlight a decade of contributions by women to the development of logic and its applications. It will showcase both established and emerging voices in the community, marking an important milestone in ongoing efforts to increase visibility, representation, and opportunities for women in logic.
+This special issue celebrates the 10th anniversary of the Women in Logic Workshop and aims to highlight a decade of contributions by women to the development of logic and its applications. It will showcase both established and emerging voices in the community, marking an important milestone in ongoing efforts to increase visibility, representation, and opportunities for women in logic.
 
 We warmly encourage submissions from researchers across all areas of logic, reflecting the breadth, diversity, and continued growth of this vibrant community.
 
@@ -20,7 +16,45 @@ We warmly encourage submissions from researchers across all areas of logic, refl
 - The PDFs of the submissions should be sent via e-mail to Jane Spurr <jane@janespurr.net> with "JLC Submission - WiL10" in the subject line by 15 August 2026 (Anywhere on Earth).
 - Submissions must present original, unpublished work. 
 - All submissions will be subject to the standard peer-review process of the Journal of Logic and Computation and must comply with the journal's [author guidelines](https://academic.oup.com/logcom/pages/General_Instructions).
-- Topics of interest include but are not limited to: Automata theory, automated deduction, categorical models and logics, concurrency and distributed computation, constraint programming, constructive mathematics, database theory, decision procedures, description logics, domain theory, finite model theory, formal aspects of program analysis, formal methods, foundations of computability, games and logic, higher-order logic, lambda and combinatory calculi, linear logic, logic in artificial intelligence, logic programming, logical aspects of bioinformatics, logical aspects of computational complexity, logical aspects of quantum computation, logical frameworks, logics of programs, modal and temporal logics, model checking, probabilistic systems, process calculi, programming language semantics, proof theory, real-time systems, reasoning about security and privacy, rewriting, type systems and type theory, and verification.
+
+### Topics of interest 
+
+(include but are not limited to)
+- Automata theory 
+- Automated deduction
+- Categorical models and logics 
+- Concurrency and distributed computation
+- Constraint programming
+- Constructive mathematics
+- Database theory
+- Decision procedures
+- Description logics
+- Domain theory
+- Finite model theory
+- Formal aspects of program analysis
+- Formal methods
+- Foundations of computability
+- Games and logic
+- Higher-order logic
+- Lambda and combinatory calculi
+- Linear logic
+- Logic in artificial intelligence
+- Logic programming
+- Logical aspects of bioinformatics
+- Logical aspects of computational complexity
+- Logical aspects of quantum computation
+- Logical frameworks
+- Logics of programs
+- Modal and temporal logics
+- Model checking
+- Probabilistic systems
+- Process calculi
+- Programming language semantics
+- Proof theory
+- Real-time systems
+- Reasoning about security and privacy
+- Rewriting, type systems and type theory
+- Verification
 
 
 ### Important Date
