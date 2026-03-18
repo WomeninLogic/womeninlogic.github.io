@@ -19,6 +19,8 @@ We warmly encourage submissions from researchers across all areas of logic, refl
 
 ### Topics of interest 
 
+(include but are not limited to)
+
 - Automata theory 
 - Automated deduction
 - Categorical models and logics 
