@@ -30,3 +30,18 @@ Abstract TBA
 Abstract TBA
 :::
 ::::
+
+:::: {layout="[30,60,10]"}
+::: {#first-column}
+![Sara Uckelman (Durham University)](../images/sara-uckelman.jpg)
+:::
+
+::: {#second-column}
+#### Sara Uckelman
+
+**Title TBA**
+
+Abstract TBA
+:::
+::::
+
