@@ -8,16 +8,16 @@ Topics of interest include but are not limited to: automata theory, automated de
 
 ### Important dates
 
-- Abstract submission deadline: May 5, 2026
+- Abstract submission deadline: May 10, 2026
 - Notification: May 15, 2026
-- Early registration: TBA
+- Early registration: June 1st, 2026
 - Contribution for Informal Proceedings: June 25, 2026
 - Workshop: 24-25 July 2026
 
 
 ### Submissions
 
-Abstracts should be written in English (1-2 pages), and prepared using the [EasyChair style](https://easychair.org/publications/for_authors). The abstracts should be uploaded to the [WiL 2026 FLoC page](https://submissions.floc26.org/wil/paper/new) as a PDF file before the submission deadline on **May 5, 2026**, anywhere on Earth.
+Abstracts should be written in English (1-2 pages), and prepared using the [EasyChair style](https://easychair.org/publications/for_authors). The abstracts should be uploaded to the [WiL 2026 FLoC page](https://submissions.floc26.org/wil/paper/new) as a PDF file before the submission deadline on **May 10, 2026**, anywhere on Earth.
 
 
 ### Grants
