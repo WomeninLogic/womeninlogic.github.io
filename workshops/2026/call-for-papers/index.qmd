@@ -16,6 +16,38 @@ Topics of interest include but are not limited to: automata theory, automated de
 - Contribution for Informal Proceedings: June 25, 2026
 - Workshop: 24-25 July 2026
 
+### Accepted contributions
+
+- A Proof-Theoretic Treatment of Incorrect/Incomplete Proofs via Hilbert’s Epsilon Calculus by Mariami Gamsakhurdia 
+- Toward Provably Defeasible Machine Learning by Ruvarashe Madzime 
+- Axiomatising asynchronous announcements in dynamic epistemic logic by Clara Lerouvillois 
+- Double Negation Elimination and the Multiple Succedent Structure of LK by Nox Cowie
+- Tackling the Multi-Batching Problem: An Answer Set Programming Approach for Industrial Logistics by Racquel Nina Dennison 
+- A Truthmaker Semantics for Positive Free Logic by Ragna Talea Oeynhausen
+- Reflexivity and the Blocking of Semantic Paradox by Shuwen Wu 
+- Fuzzifying Derivatives of Regular Expressions by Mariam Katamashvili
+- Quad Algebras and a 4-Valued Non-Classical Logic by Arun Kumar, Bisham Dewan, Neha Gaur
+- Eternal Relaxed Vertex Cover on Threshold Graphs by Ankita Kumari
+- Social Network Aggregation Beyond Preservation by Yutong Yi 
+- When Queries Decompose: A Lattice-Theoretic Perspective on Incomplete Information by Eugenia Ternovska 
+- Formal verification of security protocols with certification by R Ramanujam, Vaishnavi Sundararajan, S P Suresh 
+- Schemata, Cyclic Proofs and Herbrand Systems by Alexander Leitsch leit,  Anela Lolic, Stella Mahler 
+- On the hyperintensionality of ignorance by Ekaterina Kubyshkina, Mattia Petrolo 
+- Answer Set Programming goes to School by Racquel Dennison, Emmanuelle Dietz, Hanna Philipp
+- Free sets, thin and Rainbows for Barriers by Lorenzo Carlucci, Oriola Gjetaj
+- Logical Modeling of Belief Polarization by Mina Young Pedersen, Sonja Smets
+- A Decision Algorithm for the CL15 Fragment of Computability Logic by Stella Spadoni 
+- An Intercalation Calculus with Partial Proof Terms by Ana Catarina Sousa 
+- Verifiable Higher-Order Automated Reasoning by Melanie Taprogge 
+- Improving Model Finding in Quantified Modal Logics by Happy Khairunnisa Sariyanto 
+- Paradoxes and Proofs with Programs by Paulette Koronkevich, William J. Bowman 
+- Growing HOLMS: Grzegorczyk Logic and Experiments with Translations in HOL Light by Antonella Bilotta, Cosimo Perini Brogi, Marco Maggesi
+- Argumentation Based Dialogue Games for Deontic Explanations with Uncertainty by Isabella Cissell 
+- Quantum Coherence Spaces Revisited: A von Neumann (Co)Algebraic Approach by Thea Li, Vladimir Zamdzhiev 
+- Discourse analysis of mathematical texts by Gwenaelle Leon 
+- Structural Dynamic Proof Theory for Public Announcement Logic by Clara Lerouvillois
+- Recovering Suppressed Entailments in OWL 2 DL via Two-Phase Reasoning by Giulia Biagioni 
+- Definability in Counting Logic by Sandra Kiefer
 
 ### Submissions
 
