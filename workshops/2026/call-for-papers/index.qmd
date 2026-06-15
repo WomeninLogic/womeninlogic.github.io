@@ -47,7 +47,7 @@ Topics of interest include but are not limited to: automata theory, automated de
 - Discourse analysis of mathematical texts by Gwenaelle Leon 
 - Structural Dynamic Proof Theory for Public Announcement Logic by Clara Lerouvillois
 - Recovering Suppressed Entailments in OWL 2 DL via Two-Phase Reasoning by Giulia Biagioni 
-- Definability in Counting Logic by Sandra Kiefer
+- Vertex Definability in Counting Logic by Sandra Kiefer
 
 ### Submissions
 
