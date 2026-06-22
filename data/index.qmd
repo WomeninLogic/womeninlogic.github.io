@@ -7,7 +7,7 @@ tbl-cap-location: bottom
 We are in the process of gathering more data to include here.
 :::
 
-WiL Workshop Record (2017–2025)
+## WiL Workshop Record (2017–2025)
 
 A complete record of all invited and contributed talks at the Women in Logic workshop series, across 9 editions (2017–2025). 
 
