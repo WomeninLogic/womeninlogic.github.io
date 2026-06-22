@@ -7,6 +7,12 @@ tbl-cap-location: bottom
 We are in the process of gathering more data to include here.
 :::
 
+WiL Workshop Record (2017–2025)
+
+A complete record of all invited and contributed talks at the Women in Logic workshop series, across 9 editions (2017–2025). 
+
+View on [Google Sheets](https://docs.google.com/spreadsheets/d/1WDz311vCD3Jsi3e_q6ACsC3hBt8Hbcnq9IN6tH4Zs9c/edit?usp=sharing)
+
 A big thank you to our friends who have helped put this data together! Especially:
 
 - Prof. Catarina Dutilh Novaes
