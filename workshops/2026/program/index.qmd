@@ -1,29 +1,69 @@
 ---
-title: "Program"
-subtitle: "Women in Logic 2026"
+title: "WiL 2026 Programme"
+format: html
 ---
 
-|     | Event |
-| :-: | :---- |
-|  8:00 | *Registration* |
-|  8:55 | Kickoff |
-|  9:00 | - |
-|  9:25 | - |
-|  9:40 | - |
-| 10:05 | *Break* |
-| 10:30 | - |
-| 10:55 | - |
-| 11:20 | - |
-| 11:45 | - |
-| 12:10 | - |
-| 12:35 | *Lunch* |
-| 14:00 | - |
-| 15:00 | - |
-| 15:25 | - |
-| 15:30 | *Break* |
-| 16:00 | - |
-| 17:00 | Discussion |
-| 18:00 | *Break* |
-| 19:00 | Party |
+## July 24, 2026
 
-: {tbl-colwidths="[20,80]"}
+| Time | Type | Title | Speakers / Authors |
+| :--- | :--- | :--- | :--- |
+| **09:00–10:20** | 📘 Session | **Formal Verification** | |
+| 09:00–09:20 | 📝 Talk | Formal verification of security protocols with certification | R. Ramanujam; Vaishnavi Sundararajan; S. P. Suresh |
+| 09:20–09:40 | 📝 Talk | Verifiable Higher-Order Automated Reasoning | Melanie Trappoge |
+| 09:40–10:00 | 📝 Talk | Growing HOLMs: Grzegorczyk Logic and Experiments with Translations in HOL Light | Antonella Bilotta; Cosimo Perini Bigri; Marco Maggesi |
+| 10:00–10:20 | 📝 Talk | Discourse analysis of mathematical texts | Gwenaelle Leon |
+| **10:20–10:40** | 📘 Session | **Quantum Logic** | |
+| 10:20–10:40 | 📝 Talk | Quantum Coherence Spaces Revisited: A von Neumann (Co)Algebraic Approach | — |
+| **10:40–11:00** | ☕ Break | **Coffee Break** | |
+| **11:00–12:00** | 🌟 Invited Talk | — | Sara Uckelman |
+| **12:00–12:40** | 📘 Session | **Semantics** | |
+| 12:00–12:20 | 📝 Talk | A Truthmaker Semantics for Positive Free Logic | Ragna Talea Oeynhausen |
+| 12:20–12:40 | 📝 Talk | Reflexivity and the Blocking of Semantic Paradox | Shuwen Wu |
+| **12:40–14:00** | 🍽️ Break | **Lunch** | |
+| **14:00–15:00** | 🌟 Invited Talk | — | Raheleh Jalali |
+| **15:00–16:00** | 📘 Session | **Answer Set Programming** | |
+| 15:00–15:20 | 📝 Talk | Answer Set Programming goes to School | Racquel Dennison; Emmanuelle Dietz; Hanna Philipp |
+| 15:20–15:40 | 📝 Talk | Tackling the Multi-Batching Problem: An Answer Set Programming Approach for Industrial Logistics | Racquel Nina Dennison |
+| 15:40–16:00 | 📝 Talk | Recovering Suppressed Entailments in OWL 2 DL via Two-Phase Reasoning | Giulia Biagioni |
+| **16:00–16:20** | ☕ Break | **Coffee Break** | |
+| **16:20–17:00** | 📘 Session | **Computability** | |
+| 16:20–16:40 | 📝 Talk | Free sets, thin and Rainbows for Barriers | Lorenzo Carlucci; Oriola Gjetaj |
+| 16:40–17:00 | 📝 Talk | A Decision Algorithm for the CL15 Fragment of Computability Logic | Stella Spadoni |
+| **17:00–17:40** | 📘 Session | **Type Theory** | |
+| 17:00–17:20 | 📝 Talk | An Intercalation Calculus with Partial Proof Terms | Ana Catarina Sousa |
+| 17:20–17:40 | 📝 Talk | Paradoxes and Proofs with Programs | Paulette Koronkevich; William J. Bowman |
+
+---
+
+## July 25, 2026
+
+| Time | Type | Title | Speakers / Authors |
+| :--- | :--- | :--- | :--- |
+| **09:00–09:20** | 📙 Session | **Automata** | |
+| 09:00–09:20 | 📝 Talk | Fuzzifying Derivatives of Regular Expressions | M. Katamashvili, D. Maisuradze |
+| **09:20–10:00** | 📙 Session | **Graph Theory** | |
+| 09:20–09:40 | 📝 Talk | Eternal Relaxed Vertex Cover on Threshold Graphs | Ankita Kumari |
+| 09:40–10:00 | 📝 Talk | Vertex Definability in Counting Logic | Sandra Kiefer |
+| **10:00–10:40** | 📙 Session | **Algebraic Logic** | |
+| 10:00–10:20 | 📝 Talk | When Queries Decompose: A Lattice-Theoretic Perspective on Incomplete Information | Eugenia Ternovska |
+| 10:20–10:40 | 📝 Talk | Quad Algebras and a 4-Valued Non-Classical Logic | Arun Kumar; Bisham Dewan; Neha Gaur |
+| **10:40–11:00** | ☕ Break | **Coffee Break** | |
+| **11:00–12:00** | 📙 Session | **Epistemic Logic** | |
+| 11:00–11:20 | 📝 Talk | Social Network Aggregation Beyond Preservation | Yutong Yi |
+| 11:20–11:40 | 📝 Talk | On the hyperintensionality of ignorance | Ekaterina Kubyshkina; Mattia Petrolo |
+| 11:40–12:00 | 📝 Talk | Logical Modeling of Belief Polarization | Mina Young Pedersen; Sonja Smets |
+| **12:00–12:20** | 📙 Session | **Dynamic Epistemic Logic** | |
+| 12:00–12:20 | 📝 Talk | Axiomatising asynchronous announcements in dynamic epistemic logic | Clara Lerouvillois |
+| **12:20–12:40** | 📙 Session | **Logic and ML** | |
+| 12:20–12:40 | 📝 Talk | Toward Provably Defeasible Machine Learning | Ruvarashe Madzimire |
+| **12:40–14:00** | 🍽️ Break | **Lunch** | |
+| **14:00–15:00** | 🌟 Invited Talk | Logic, Proof, and Community: The Revolution Beneath the Revolution | Valeria de Paiva |
+| **15:00–16:00** | 📙 Session | **Proof Theory** | |
+| 15:00–15:20 | 📝 Talk | A Proof-Theoretic Treatment of Incorrect/Incomplete Proofs via Hilbert’s Epsilon Calculus | Mariami Gamsakhurdia |
+| 15:20–15:40 | 📝 Talk | Double Negation Elimination and the Multiple Succedent Structure of LK | Nox Cowie |
+| 15:40–16:00 | 📝 Talk | Schemata, Cyclic Proofs and Herbrand Systems | Alexander Leitsch, Anela Lolic, Stella Mahler |
+| **16:00–16:20** | ☕ Break | **Coffee Break** | |
+| **16:20–17:20** | 📙 Session | **Modal Logic** | |
+| 16:20–16:40 | 📝 Talk | Improving Model Finding in Quantified Modal Logics | Happy Khairunnisa Sariyanto |
+| 16:40–17:00 | 📝 Talk | Argumentation Based Dialogue Games for Deontic Explanations with Uncertainty | Isabella Cissell |
+| 17:00–17:20 | 📝 Talk | Structural Dynamic Proof Theory for Public Announcement Logic | Clara Lerouvillois |
