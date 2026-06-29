@@ -27,7 +27,7 @@ format: html
 | 15:40–16:00 | 📝 Talk | Recovering Suppressed Entailments in OWL 2 DL via Two-Phase Reasoning | Giulia Biagioni |
 | **16:00–16:20** | ☕ Break | **Coffee Break** | |
 | **16:20–17:00** | 📘 Session | **Computability** | |
-| 16:20–16:40 | 📝 Talk | Free sets, thin and Rainbows for Barriers | Lorenzo Carlucci; Oriola Gjetaj |
+| 16:20–16:40 | 📝 Talk | Free Sets, Thin Sets and Rainbows for Barriers | Lorenzo Carlucci; Oriola Gjetaj |
 | 16:40–17:00 | 📝 Talk | A Decision Algorithm for the CL15 Fragment of Computability Logic | Stella Spadoni |
 | **17:00–17:40** | 📘 Session | **Type Theory** | |
 | 17:00–17:20 | 📝 Talk | An Intercalation Calculus with Partial Proof Terms | Ana Catarina Sousa |
