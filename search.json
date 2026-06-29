@@ -208,13 +208,37 @@
   {
     "objectID": "workshops/2026/program/index.html",
     "href": "workshops/2026/program/index.html",
-    "title": "Program",
+    "title": "WiL 2026 Programme",
     "section": "",
-    "text": "Event\n\n\n\n\n8:00\nRegistration\n\n\n8:55\nKickoff\n\n\n9:00\n-\n\n\n9:25\n-\n\n\n9:40\n-\n\n\n10:05\nBreak\n\n\n10:30\n-\n\n\n10:55\n-\n\n\n11:20\n-\n\n\n11:45\n-\n\n\n12:10\n-\n\n\n12:35\nLunch\n\n\n14:00\n-\n\n\n15:00\n-\n\n\n15:25\n-\n\n\n15:30\nBreak\n\n\n16:00\n-\n\n\n17:00\nDiscussion\n\n\n18:00\nBreak\n\n\n19:00\nParty",
+    "text": "Time\nType\nTitle\nSpeakers / Authors\n\n\n\n\n09:00–10:20\n📘 Session\nFormal Verification\n\n\n\n09:00–09:20\n📝 Talk\nFormal verification of security protocols with certification\nR. Ramanujam; Vaishnavi Sundararajan; S. P. Suresh\n\n\n09:20–09:40\n📝 Talk\nVerifiable Higher-Order Automated Reasoning\nMelanie Trappoge\n\n\n09:40–10:00\n📝 Talk\nGrowing HOLMs: Grzegorczyk Logic and Experiments with Translations in HOL Light\nAntonella Bilotta; Cosimo Perini Bigri; Marco Maggesi\n\n\n10:00–10:20\n📝 Talk\nDiscourse analysis of mathematical texts\nGwenaelle Leon\n\n\n10:20–10:40\n📘 Session\nQuantum Logic\n\n\n\n10:20–10:40\n📝 Talk\nQuantum Coherence Spaces Revisited: A von Neumann (Co)Algebraic Approach\n—\n\n\n10:40–11:00\n☕ Break\nCoffee Break\n\n\n\n11:00–12:00\n🌟 Invited Talk\n—\nSara Uckelman\n\n\n12:00–12:40\n📘 Session\nSemantics\n\n\n\n12:00–12:20\n📝 Talk\nA Truthmaker Semantics for Positive Free Logic\nRagna Talea Oeynhausen\n\n\n12:20–12:40\n📝 Talk\nReflexivity and the Blocking of Semantic Paradox\nShuwen Wu\n\n\n12:40–14:00\n🍽️ Break\nLunch\n\n\n\n14:00–15:00\n🌟 Invited Talk\n—\nRaheleh Jalali\n\n\n15:00–16:00\n📘 Session\nAnswer Set Programming\n\n\n\n15:00–15:20\n📝 Talk\nAnswer Set Programming goes to School\nRacquel Dennison; Emmanuelle Dietz; Hanna Philipp\n\n\n15:20–15:40\n📝 Talk\nTackling the Multi-Batching Problem: An Answer Set Programming Approach for Industrial Logistics\nRacquel Nina Dennison\n\n\n15:40–16:00\n📝 Talk\nRecovering Suppressed Entailments in OWL 2 DL via Two-Phase Reasoning\nGiulia Biagioni\n\n\n16:00–16:20\n☕ Break\nCoffee Break\n\n\n\n16:20–17:00\n📘 Session\nComputability\n\n\n\n16:20–16:40\n📝 Talk\nFree sets, thin and Rainbows for Barriers\nLorenzo Carlucci; Oriola Gjetaj\n\n\n16:40–17:00\n📝 Talk\nA Decision Algorithm for the CL15 Fragment of Computability Logic\nStella Spadoni\n\n\n17:00–17:40\n📘 Session\nType Theory\n\n\n\n17:00–17:20\n📝 Talk\nAn Intercalation Calculus with Partial Proof Terms\nAna Catarina Sousa\n\n\n17:20–17:40\n📝 Talk\nParadoxes and Proofs with Programs\nPaulette Koronkevich; William J. Bowman",
     "crumbs": [
       "Workshops",
       "Women in Logic 2026",
-      "Program"
+      "WiL 2026 Programme"
+    ]
+  },
+  {
+    "objectID": "workshops/2026/program/index.html#july-24-2026",
+    "href": "workshops/2026/program/index.html#july-24-2026",
+    "title": "WiL 2026 Programme",
+    "section": "",
+    "text": "Time\nType\nTitle\nSpeakers / Authors\n\n\n\n\n09:00–10:20\n📘 Session\nFormal Verification\n\n\n\n09:00–09:20\n📝 Talk\nFormal verification of security protocols with certification\nR. Ramanujam; Vaishnavi Sundararajan; S. P. Suresh\n\n\n09:20–09:40\n📝 Talk\nVerifiable Higher-Order Automated Reasoning\nMelanie Trappoge\n\n\n09:40–10:00\n📝 Talk\nGrowing HOLMs: Grzegorczyk Logic and Experiments with Translations in HOL Light\nAntonella Bilotta; Cosimo Perini Bigri; Marco Maggesi\n\n\n10:00–10:20\n📝 Talk\nDiscourse analysis of mathematical texts\nGwenaelle Leon\n\n\n10:20–10:40\n📘 Session\nQuantum Logic\n\n\n\n10:20–10:40\n📝 Talk\nQuantum Coherence Spaces Revisited: A von Neumann (Co)Algebraic Approach\n—\n\n\n10:40–11:00\n☕ Break\nCoffee Break\n\n\n\n11:00–12:00\n🌟 Invited Talk\n—\nSara Uckelman\n\n\n12:00–12:40\n📘 Session\nSemantics\n\n\n\n12:00–12:20\n📝 Talk\nA Truthmaker Semantics for Positive Free Logic\nRagna Talea Oeynhausen\n\n\n12:20–12:40\n📝 Talk\nReflexivity and the Blocking of Semantic Paradox\nShuwen Wu\n\n\n12:40–14:00\n🍽️ Break\nLunch\n\n\n\n14:00–15:00\n🌟 Invited Talk\n—\nRaheleh Jalali\n\n\n15:00–16:00\n📘 Session\nAnswer Set Programming\n\n\n\n15:00–15:20\n📝 Talk\nAnswer Set Programming goes to School\nRacquel Dennison; Emmanuelle Dietz; Hanna Philipp\n\n\n15:20–15:40\n📝 Talk\nTackling the Multi-Batching Problem: An Answer Set Programming Approach for Industrial Logistics\nRacquel Nina Dennison\n\n\n15:40–16:00\n📝 Talk\nRecovering Suppressed Entailments in OWL 2 DL via Two-Phase Reasoning\nGiulia Biagioni\n\n\n16:00–16:20\n☕ Break\nCoffee Break\n\n\n\n16:20–17:00\n📘 Session\nComputability\n\n\n\n16:20–16:40\n📝 Talk\nFree sets, thin and Rainbows for Barriers\nLorenzo Carlucci; Oriola Gjetaj\n\n\n16:40–17:00\n📝 Talk\nA Decision Algorithm for the CL15 Fragment of Computability Logic\nStella Spadoni\n\n\n17:00–17:40\n📘 Session\nType Theory\n\n\n\n17:00–17:20\n📝 Talk\nAn Intercalation Calculus with Partial Proof Terms\nAna Catarina Sousa\n\n\n17:20–17:40\n📝 Talk\nParadoxes and Proofs with Programs\nPaulette Koronkevich; William J. Bowman",
+    "crumbs": [
+      "Workshops",
+      "Women in Logic 2026",
+      "WiL 2026 Programme"
+    ]
+  },
+  {
+    "objectID": "workshops/2026/program/index.html#july-25-2026",
+    "href": "workshops/2026/program/index.html#july-25-2026",
+    "title": "WiL 2026 Programme",
+    "section": "July 25, 2026",
+    "text": "July 25, 2026\n\n\n\n\n\n\n\n\n\nTime\nType\nTitle\nSpeakers / Authors\n\n\n\n\n09:00–09:20\n📙 Session\nAutomata\n\n\n\n09:00–09:20\n📝 Talk\nFuzzifying Derivatives of Regular Expressions\nM. Katamashvili, D. Maisuradze\n\n\n09:20–10:00\n📙 Session\nGraph Theory\n\n\n\n09:20–09:40\n📝 Talk\nEternal Relaxed Vertex Cover on Threshold Graphs\nAnkita Kumari\n\n\n09:40–10:00\n📝 Talk\nVertex Definability in Counting Logic\nSandra Kiefer\n\n\n10:00–10:40\n📙 Session\nAlgebraic Logic\n\n\n\n10:00–10:20\n📝 Talk\nWhen Queries Decompose: A Lattice-Theoretic Perspective on Incomplete Information\nEugenia Ternovska\n\n\n10:20–10:40\n📝 Talk\nQuad Algebras and a 4-Valued Non-Classical Logic\nArun Kumar; Bisham Dewan; Neha Gaur\n\n\n10:40–11:00\n☕ Break\nCoffee Break\n\n\n\n11:00–12:00\n📙 Session\nEpistemic Logic\n\n\n\n11:00–11:20\n📝 Talk\nSocial Network Aggregation Beyond Preservation\nYutong Yi\n\n\n11:20–11:40\n📝 Talk\nOn the hyperintensionality of ignorance\nEkaterina Kubyshkina; Mattia Petrolo\n\n\n11:40–12:00\n📝 Talk\nLogical Modeling of Belief Polarization\nMina Young Pedersen; Sonja Smets\n\n\n12:00–12:20\n📙 Session\nDynamic Epistemic Logic\n\n\n\n12:00–12:20\n📝 Talk\nAxiomatising asynchronous announcements in dynamic epistemic logic\nClara Lerouvillois\n\n\n12:20–12:40\n📙 Session\nLogic and ML\n\n\n\n12:20–12:40\n📝 Talk\nToward Provably Defeasible Machine Learning\nRuvarashe Madzimire\n\n\n12:40–14:00\n🍽️ Break\nLunch\n\n\n\n14:00–15:00\n🌟 Invited Talk\nLogic, Proof, and Community: The Revolution Beneath the Revolution\nValeria de Paiva\n\n\n15:00–16:00\n📙 Session\nProof Theory\n\n\n\n15:00–15:20\n📝 Talk\nA Proof-Theoretic Treatment of Incorrect/Incomplete Proofs via Hilbert’s Epsilon Calculus\nMariami Gamsakhurdia\n\n\n15:20–15:40\n📝 Talk\nDouble Negation Elimination and the Multiple Succedent Structure of LK\nNox Cowie\n\n\n15:40–16:00\n📝 Talk\nSchemata, Cyclic Proofs and Herbrand Systems\nAlexander Leitsch, Anela Lolic, Stella Mahler\n\n\n16:00–16:20\n☕ Break\nCoffee Break\n\n\n\n16:20–17:20\n📙 Session\nModal Logic\n\n\n\n16:20–16:40\n📝 Talk\nImproving Model Finding in Quantified Modal Logics\nHappy Khairunnisa Sariyanto\n\n\n16:40–17:00\n📝 Talk\nArgumentation Based Dialogue Games for Deontic Explanations with Uncertainty\nIsabella Cissell\n\n\n17:00–17:20\n📝 Talk\nStructural Dynamic Proof Theory for Public Announcement Logic\nClara Lerouvillois",
+    "crumbs": [
+      "Workshops",
+      "Women in Logic 2026",
+      "WiL 2026 Programme"
     ]
   },
   {
