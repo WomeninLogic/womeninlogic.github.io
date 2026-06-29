@@ -31,7 +31,7 @@ format: html
 | 16:40–17:00 | 📝 Talk | A Decision Algorithm for the CL15 Fragment of Computability Logic | Stella Spadoni |
 | **17:00–17:40** | 📘 Session | **Type Theory** | |
 | 17:00–17:20 | 📝 Talk | An Intercalation Calculus with Partial Proof Terms | Ana Catarina Sousa |
-| 17:20–17:40 | 📝 Talk | Paradoxes and Proofs with Programs | Paulette Koronkevich; William J. Bowman |
+| 17:20–17:40 | 📝 Talk | Paradoxes and Proofs with Pointers | Paulette Koronkevich; William J. Bowman |
 
 ---
 
