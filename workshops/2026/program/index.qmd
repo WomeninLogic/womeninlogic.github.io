@@ -20,7 +20,7 @@ format: html
 | 12:00–12:20 | 📝 Talk | A Truthmaker Semantics for Positive Free Logic | Ragna Talea Oeynhausen |
 | 12:20–12:40 | 📝 Talk | Reflexivity and the Blocking of Semantic Paradox | Shuwen Wu |
 | **12:40–14:00** | 🍽️ Break | **Lunch** | |
-| **14:00–15:00** | 🌟 Invited Talk | — | Raheleh Jalali |
+| **14:00–15:00** | 🌟 Invited Talk | The Cost of Restricting Structural Rules | Raheleh Jalali |
 | **15:00–16:00** | 📘 Session | **Answer Set Programming** | |
 | 15:00–15:20 | 📝 Talk | Answer Set Programming goes to School | Racquel Dennison; Emmanuelle Dietz; Hanna Philipp |
 | 15:20–15:40 | 📝 Talk | Tackling the Multi-Batching Problem: An Answer Set Programming Approach for Industrial Logistics | Racquel Nina Dennison |
