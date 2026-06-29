@@ -40,7 +40,7 @@ format: html
 | Time | Type | Title | Speakers / Authors |
 | :--- | :--- | :--- | :--- |
 | **09:00–09:20** | 📙 Session | **Automata** | |
-| 09:00–09:20 | 📝 Talk | Fuzzifying Derivatives of Regular Expressions | M. Katamashvili, D. Maisuradze |
+| 09:00–09:20 | 📝 Talk | Fuzzifying Derivatives of Regular Expressions | M. Katamashvili, D. Maisuradze (online) |
 | **09:20–10:00** | 📙 Session | **Graph Theory** | |
 | 09:20–09:40 | 📝 Talk | Eternal Relaxed Vertex Cover on Threshold Graphs | Ankita Kumari |
 | 09:40–10:00 | 📝 Talk | Vertex Definability in Counting Logic | Sandra Kiefer |
