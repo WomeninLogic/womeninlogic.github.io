@@ -8,14 +8,15 @@ format: html
 | Time | Type | Title | Speakers / Authors |
 | :--- | :--- | :--- | :--- |
 | **09:00–10:20** | 📘 Session | **Formal Verification** | |
-| 09:00–09:20 | 📝 Talk | Formal verification of security protocols with certification | R. Ramanujam; Vaishnavi Sundararajan; S. P. Suresh |
+| 09:00–09:20 | 📝 Talk | Discourse analysis of mathematical texts | Gwenaelle Leon |
+
 | 09:20–09:40 | 📝 Talk | Towards Verifiable Higher-Order Automated Reasoning | Melanie Trappoge |
 | 09:40–10:00 | 📝 Talk | Growing HOLMs: Grzegorczyk Logic and Experiments with Translations in HOL Light | Antonella Bilotta; Cosimo Perini Bigri; Marco Maggesi |
-| 10:00–10:20 | 📝 Talk | Discourse analysis of mathematical texts | Gwenaelle Leon |
+| 10:00–10:20 | 📝 Talk | Formal verification of security protocols with certification | R. Ramanujam; Vaishnavi Sundararajan; S. P. Suresh |
 | **10:20–10:40** | 📘 Session | **Quantum Logic** | |
 | 10:20–10:40 | 📝 Talk | Quantum Coherence Spaces Revisited: A von Neumann (Co)Algebraic Approach | T. Li, V. Zamdzhiev |
 | **10:40–11:00** | ☕ Break | **Coffee Break** | |
-| **11:00–12:00** | 🌟 Invited Talk | — | Sara Uckelman |
+| **11:00–12:00** | 🌟 Invited Talk | Logic and the World: Some Reflections on the Relationship Between the Two | Sara Uckelman |
 | **12:00–12:40** | 📘 Session | **Semantics** | |
 | 12:00–12:20 | 📝 Talk | A Truthmaker Semantics for Positive Free Logic | Ragna Talea Oeynhausen |
 | 12:20–12:40 | 📝 Talk | Reflexivity and the Blocking of Semantic Paradox | Shuwen Wu |
