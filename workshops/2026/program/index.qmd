@@ -70,4 +70,4 @@ format: html
 
 ---
 
-Social event 16:30 TBA
+Social event 18:30 TBA
