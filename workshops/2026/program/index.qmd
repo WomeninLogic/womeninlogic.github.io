@@ -67,3 +67,7 @@ format: html
 | 16:20–16:40 | 📝 Talk | Improving Model Finding in Quantified Modal Logics | Happy Khairunnisa Sariyanto |
 | 16:40–17:00 | 📝 Talk | Argumentation Based Dialogue Games for Deontic Explanations with Uncertainty | Isabella Cissell |
 | 17:00–17:20 | 📝 Talk | Structural Dynamic Proof Theory for Public Announcement Logic | Clara Lerouvillois |
+
+---
+
+Social event 16:30 TBA
