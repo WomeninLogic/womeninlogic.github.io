@@ -5,9 +5,10 @@ format: html
 
 The informal proceedings are available via this link: [Proceedings Download](https://drive.google.com/file/d/1rxcyo7B5qCuGhIW4WkOPKxEMtXV4UdW6/view?usp=sharing) 
 
-Location: C5.06
+Location: Room C5.06
 
-About how to access the venue, please refer to the FLOC'26's official website via: [https://program.floc26.org/WiL-index](https://program.floc26.org/WiL-index)
+Venue/Program Information: Check the [FLOC ’26 official website](https://program.floc26.org/WiL-index) for access details.
+
 
 ## July 24, 2026
 
