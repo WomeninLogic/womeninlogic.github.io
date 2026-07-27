@@ -5,9 +5,9 @@ format: html
 
 The informal proceedings are available via this link: [Proceedings Download](https://drive.google.com/file/d/1pshKxvEb9FkH9AttcAwu3cfULkXepdOM/view?usp=sharing) 
 
-Location: Room C5.06
+Location: Room C5.06, Edifício II - ISCTE Avenida das Forças Armadas, Lisboa, Portugal.
 
-The official [FLOC’26 website](https://program.floc26.org/WiL-index) for WiL's program.
+Check also the official [FLOC’26 website](https://program.floc26.org/WiL-index) for WiL's program.
 
 
 ## July 24, 2026
