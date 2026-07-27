@@ -3,7 +3,8 @@ title: "Venue"
 subtitle: "Women in Logic 2026"
 ---
 
-Women in Logic 2026 will take place in Lisbon.
-*More information coming soon.*
+Women in Logic 2026 will take place at Edifício II - ISCTE, Lisboa, Portugal. 
+
+For more information please acceess the [https://www.floc26.org/venue](FLoC webpaage).
 
 ![](../images/lisbon.jpg)
