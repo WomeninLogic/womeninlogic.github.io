@@ -49,7 +49,7 @@ The official [FLOC’26 website](https://program.floc26.org/WiL-index) for WiL's
 | **09:00–09:20** | 📙 Session | **Automata** | |
 | 09:00–09:20 | 📝 Talk | Fuzzifying Derivatives of Regular Expressions | M. Katamashvili, D. Maisuradze (online) |
 | **09:20–10:00** | 📙 Session | **Graph Theory** | |
-| 09:20–09:40 | 📝 Talk | Eternal Relaxed Vertex Cover on Threshold Graphs | Ankita Kumari |
+| 09:20–09:40 | 📝 Talk | Eternal Relaxed Vertex Cover on Threshold Graphs | Ankita Kumari (online) |
 | 09:40–10:00 | 📝 Talk | Vertex Definability in Counting Logic | Sandra Kiefer |
 | **10:00–10:40** | 📙 Session | **Algebraic Logic** | |
 | 10:00–10:20 | 📝 Talk | When Queries Decompose: A Lattice-Theoretic Perspective on Incomplete Information | Eugenia Ternovska |
