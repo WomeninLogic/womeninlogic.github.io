@@ -1,35 +1,35 @@
----
-title: "Women in Logic Online"
----
-<p> [Elaine Pimentel](https://profiles.ucl.ac.uk/87847-elaine-pimentel) and Maria Osório Costa and Ekaterina Piotrovskaya,  supported by the group Programming Principles, Logic, and Verification at [UCL](https://www.ucl.ac.uk/engineering/computer-science), are NOW organizing our series of seminars
-["Women in Logic ONLINE"](https://womeninlogic.org/wil-online/). Many thanks to them for stepping up to this!
+# Women in Logic Online
 
-<p> [Agata Ciabattoni](https://www.logic.at/staff/agata/) and [Josephine Dik](https://josephinedik.github.io/), 
-with help from Andrea Hackl and the Vienna Center for Logic and Algorithms [VCLA](https://www.vcla.at/), started organizing a series of seminars ["Women in Logic ONLINE"](https://www.vcla.at/women-in-logic/).  There are seven talks in this series so far. In Jan 2026, the organization was moved to Elaine Pimentel's group.
+Women in Logic Online is the seminar series of the Women in Logic collective: online talks by women working in logic, open to everyone. Talks are planned about every two months.
 
-* Recorded Videos of the talks are available at the VLCA [video channel](https://www.youtube.com/playlist?list=PLdqgJshpd1aWOGdqfrloD69Ev1MSPd0Wg).
-They're also  added to [Recorded Talks](https://womeninlogic.org/RecordedTalks/).
+Agata Ciabattoni and Josephine Dik started the series in March 2024, with help from Andrea Hackl and the [Vienna Center for Logic and Algorithms (VCLA)](https://www.vcla.at/). In March 2026, the organization moved to University College London, where Elaine Pimentel, Maria Osório Costa, and Ekaterina Piotrovskaya now run it, supported by UCL's Programming Principles, Logic, and Verification group.
 
-* Talks are expected to happen every two months and you can be notified by subscribing to the mailing list.
+## Recordings
 
-<h2> Previous Talks </h2>
+All the recordings are collected on our YouTube channel, [WiL Online](https://www.youtube.com/@WiLONLINE-y10), in two playlists:
 
-<ul> 
-<li> [Elaine Pimentel](https://sites.google.com/site/elainepimentel/), University College London (UCL), UK, [Classical versus Constructive: An Ecumenical Approach](https://www.youtube.com/watch?v=tp9zHk-ktNo),  5 Feb, 2026 </li>
+- [WiL Online at VCLA (2024–2026)](https://www.youtube.com/playlist?list=PLM8bSDg4Aq1w): the first seven talks, organized in Vienna.
+- [WiL Online at UCL (2026–)](https://www.youtube.com/watch?v=qBAOWL5IE34&list=PLLpqwHIn4Wx4): the talks organized at UCL.
 
-<li> [Nina Gierasimczuk](https://ninagierasimczuk.com/), Danish Technical University (DTU Compute), [Learning and Belief Revision: an Overview](https://www.youtube.com/live/LHbwslggM3U),  16 Sept, 2025 </li>
+The VCLA talks also remain on the [VCLA channel](https://www.youtube.com/playlist?list=PLdqgJshpd1aWOGdqfrloD69Ev1MSPd0Wg), and all recordings are listed in [Recorded Talks](https://womeninlogic.org/RecordedTalks/).
 
-<li> [Sara Negri](https://sites.google.com/view/saranegri/home), Università degli Studi di Genova, [Axioms as rules in intuitionistic logic](https://www.youtube.com/watch?v=9AWmizNWqTA), 23 Jun 2025 </li>
+## Talks organized at UCL's [PPLV channel](https://www.youtube.com/@uclpplv1708)
+
+- [Marianna Girlando](URL), University of Amsterdam: [TITLE](VIDEO-LINK), DATE
+- [Renata Wassermann](URL), University of São Paulo: [Belief Change and Ontology Repair: two sides of the same coin?](VIDEO-LINK), 9 Jul 2026
+- [Rosalie Iemhoff](URL), Utrecht University: [The Use and Misuse of Proof Systems](VIDEO-LINK), 6 Mar 2026
 
 
-<li> [Sonja Smets](https://sites.google.com/site/thesonjasmetssite/), Institute for Logic, Language and Computation, University of Amsterdam, [Logic and Computation of Social Behavior](https://www.youtube.com/watch?v=cMee0vGpMlE), 19 Mar 2025 </li>
+## Talks organized at VCLA
 
-<li> [Francesca Poggiolesi](https://sites.google.com/site/poggiolesi/home), CNRS, [Explanatory Proofs: From Logic to Mathematics](https://www.vcla.at/2025/01/women-in-logic-online-talk-with-francesca-poggiolesi/), 24 Jan 2025 </li>
+- [Elaine Pimentel](https://sites.google.com/site/elainepimentel/), University College London (UCL), UK: [Classical versus Constructive: An Ecumenical Approach](https://www.youtube.com/watch?v=tp9zHk-ktNo), 5 Feb 2026
+- [Nina Gierasimczuk](https://ninagierasimczuk.com/), Technical University of Denmark (DTU Compute): [Learning and Belief Revision: an Overview](https://www.youtube.com/live/LHbwslggM3U), 16 Sep 2025
+- [Sara Negri](https://sites.google.com/view/saranegri/home), Università degli Studi di Genova: [Axioms as rules in intuitionistic logic](https://www.youtube.com/watch?v=9AWmizNWqTA), 23 Jun 2025
+- [Sonja Smets](https://sites.google.com/site/thesonjasmetssite/), ILLC, University of Amsterdam: [Logic and Computation of Social Behavior](https://www.youtube.com/watch?v=cMee0vGpMlE), 19 Mar 2025
+- [Francesca Poggiolesi](https://sites.google.com/site/poggiolesi/home), CNRS: [Explanatory Proofs: From Logic to Mathematics](https://www.youtube.com/watch?v=T0lSkqYMInU), 24 Jan 2025
+- [Laura Kovács](http://lkovacs.com/), TU Wien: [Automating Game Reasoning in Blockchain Security](https://www.youtube.com/watch?v=Ka2P0TQ3vKs), 25 Nov 2024
+- [Valeria de Paiva](http://vcvpaiva.github.io/), Topos Institute: [Network Mathematics](https://www.youtube.com/watch?v=SE5vIeBEGWI), 20 Mar 2024
 
-<li> [Laura Kovacs](http://lkovacs.com/), TU - Wien, [Automating Game Reasoning in Blockchain Security](https://www.vcla.at/2024/10/women-in-logic-online-talk-announcement/), 25 Nov 2024 </li>
-
-<li> [Valeria de Paiva](http://vcvpaiva.github.io/), Topos Institute, [Network Mathematics](https://www.vcla.at/2024/02/women-in-logic-online/), 20 March 2024 </li>
-</ul>
-</p>
+Contact: [contact@womeninlogic.org](mailto:contact@womeninlogic.org)
 
 
