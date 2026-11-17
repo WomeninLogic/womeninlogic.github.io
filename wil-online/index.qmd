@@ -15,9 +15,9 @@ The VCLA talks also remain on the [VCLA channel](https://www.youtube.com/playlis
 
 ## Talks organized at UCL's [PPLV channel](https://www.youtube.com/@uclpplv1708)
 
-- [Marianna Girlando](URL), University of Amsterdam: [TITLE](VIDEO-LINK), DATE
-- [Renata Wassermann](URL), University of São Paulo: [Belief Change and Ontology Repair: two sides of the same coin?](VIDEO-LINK), 9 Jul 2026
-- [Rosalie Iemhoff](URL), Utrecht University: [The Use and Misuse of Proof Systems](VIDEO-LINK), 6 Mar 2026
+- [Marianna Girlando](https://www.mariannagirlando.com/), University of Amsterdam: [Decidability of (intuitionistic) modal logic: the case of IS4](https://www.youtube.com/watch?v=qBAOWL5IE34&list=PLLpqwHIn4Wx4), 5 Nov 2026
+- [Renata Wassermann](https://users.ime.usp.br/~renata/), University of São Paulo: [Belief Change and Ontology Repair: two sides of the same coin?](VIDEO-LINK), 9 Jul 2026
+- [Rosalie Iemhoff](https://www.uu.nl/staff/RIemhoff), Utrecht University: [The Use and Misuse of Proof Systems](VIDEO-LINK), 6 Mar 2026
 
 
 ## Talks organized at VCLA
